@@ -1,0 +1,590 @@
+2024-11-20 00:22:20,277 INFO 83633 [egg-sequelize](6ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 00:22:20'
+2024-11-20 00:22:20,284 INFO 83633 [egg-sequelize](7ms) Executed (default): UPDATE `tasks` SET `type`=?,`updated_at`=? WHERE `type` NOT IN (3, 4) AND `created_at` < '2024-11-20 11:00:00'
+2024-11-20 00:23:20,022 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 00:23:20'
+2024-11-20 00:24:20,030 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 00:24:20'
+2024-11-20 00:25:20,026 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 00:25:20'
+2024-11-20 00:26:20,025 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 00:26:20'
+2024-11-20 00:27:20,028 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 00:27:20'
+2024-11-20 00:28:20,026 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 00:28:20'
+2024-11-20 00:29:20,026 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 00:29:20'
+2024-11-20 00:30:20,041 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 00:30:20'
+2024-11-20 00:31:20,034 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 00:31:20'
+2024-11-20 00:32:20,035 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 00:32:20'
+2024-11-20 00:33:20,035 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 00:33:20'
+2024-11-20 00:34:20,036 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 00:34:20'
+2024-11-20 00:35:20,033 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 00:35:20'
+2024-11-20 00:36:20,034 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 00:36:20'
+2024-11-20 00:37:20,032 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 00:37:20'
+2024-11-20 04:39:43,321 INFO 83633 [egg-sequelize](6ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 04:39:43'
+2024-11-20 04:40:43,024 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 04:40:43'
+2024-11-20 04:41:43,025 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 04:41:43'
+2024-11-20 08:42:13,192 INFO 83633 [egg-sequelize](151ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 08:42:13'
+2024-11-20 09:23:01,194 ERROR 83633 [-/127.0.0.1/-/2448171ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 09:23:01,226 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 09:23:01'
+2024-11-20 09:41:22,016 ERROR 83633 [-/127.0.0.1/-/1100820ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 09:41:22,036 ERROR 83633 [-/127.0.0.1/-/3549001ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 09:41:22,261 INFO 83633 [egg-sequelize](3ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 09:41:22'
+2024-11-20 09:58:17,185 ERROR 83633 [-/127.0.0.1/-/2115988ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 09:58:17,187 ERROR 83633 [-/127.0.0.1/-/4564166ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 09:58:17,204 ERROR 83633 [-/127.0.0.1/-/1015022ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 09:58:17,235 INFO 83633 [egg-sequelize](4ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 09:58:17'
+2024-11-20 09:59:17,238 INFO 83633 [egg-sequelize](5ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 09:59:17'
+2024-11-20 10:52:44,174 ERROR 83633 [-/127.0.0.1/-/5382821ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 10:52:44,177 ERROR 83633 [-/127.0.0.1/-/4281995ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 10:52:44,178 ERROR 83633 [-/127.0.0.1/-/3266973ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 10:52:44,948 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 10:52:44'
+2024-11-20 11:41:51,018 ERROR 83633 [-/127.0.0.1/-/6153819ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 11:41:51,019 ERROR 83633 [-/127.0.0.1/-/6213814ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 11:41:51,019 ERROR 83633 [-/127.0.0.1/-/7228837ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 11:41:51,052 ERROR 83633 [-/127.0.0.1/-/2946868ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 11:41:51,245 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 11:41:51'
+2024-11-20 11:42:51,260 INFO 83633 [egg-sequelize](6ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 11:42:51'
+2024-11-20 12:21:58,029 ERROR 83633 [-/127.0.0.1/-/8560830ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 12:21:58,029 ERROR 83633 [-/127.0.0.1/-/8620824ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 12:21:58,084 ERROR 83633 [-/127.0.0.1/-/5353900ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 12:21:59,756 INFO 83633 [egg-sequelize](3ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 12:21:58'
+2024-11-20 14:22:43,013 ERROR 83633 [-/127.0.0.1/-/9651823ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 14:22:43,013 ERROR 83633 [-/127.0.0.1/-/15805814ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 14:22:43,057 ERROR 83633 [-/127.0.0.1/-/9592039ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 14:22:43,057 ERROR 83633 [-/127.0.0.1/-/12598873ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 14:22:43,062 ERROR 83633 [-/127.0.0.1/-/7244976ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 14:22:43,187 INFO 83633 [egg-sequelize](109ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 14:22:43'
+2024-11-20 14:23:24,096 ERROR 83633 [-/127.0.0.1/-/9692906ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 14:23:32,094 ERROR 83633 [-/127.0.0.1/-/9641076ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 14:23:43,088 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 14:23:43'
+2024-11-20 14:23:54,098 ERROR 83633 [-/127.0.0.1/-/7316012ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:25:42,024 INFO 83633 [egg-sequelize](3ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 18:25:39'
+2024-11-20 18:57:44,014 ERROR 83633 [-/127.0.0.1/-/16500951ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:57:44,014 ERROR 83633 [-/127.0.0.1/-/26092996ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:57:44,041 ERROR 83633 [-/127.0.0.1/-/26152851ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:57:44,045 ERROR 83633 [-/127.0.0.1/-/16441027ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:57:44,045 ERROR 83633 [-/127.0.0.1/-/23745959ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:57:44,046 ERROR 83633 [-/127.0.0.1/-/1925025ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:57:44,202 INFO 83633 [egg-sequelize](142ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 18:57:44'
+2024-11-20 18:58:44,001 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 18:58:43'
+2024-11-20 18:59:06,318 ERROR 83633 [-/127.0.0.1/-/16583255ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:59:06,320 ERROR 83633 [-/127.0.0.1/-/16523305ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:59:06,322 ERROR 83633 [-/127.0.0.1/-/2007301ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:59:06,324 ERROR 83633 [-/127.0.0.1/-/82277ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:59:44,001 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 18:59:43'
+2024-11-20 18:59:59,005 ERROR 83633 [-/127.0.0.1/-/75011ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:00:21,319 ERROR 83633 [-/127.0.0.1/-/16658255ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:00:21,320 ERROR 83633 [-/127.0.0.1/-/16598305ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:00:21,324 ERROR 83633 [-/127.0.0.1/-/2082303ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:00:21,325 ERROR 83633 [-/127.0.0.1/-/157278ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:00:44,005 INFO 83633 [egg-sequelize](4ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:00:43'
+2024-11-20 19:00:59,005 ERROR 83633 [-/127.0.0.1/-/75012ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:01:14,007 ERROR 83633 [-/127.0.0.1/-/150013ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:01:36,326 ERROR 83633 [-/127.0.0.1/-/232279ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:01:44,005 INFO 83633 [egg-sequelize](4ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:01:43'
+2024-11-20 19:01:59,011 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:02:14,007 ERROR 83633 [-/127.0.0.1/-/150014ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:02:29,009 ERROR 83633 [-/127.0.0.1/-/225015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:02:44,005 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:02:43'
+2024-11-20 19:02:59,009 ERROR 83633 [-/127.0.0.1/-/75012ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:03:14,014 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:03:29,011 ERROR 83633 [-/127.0.0.1/-/225017ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:03:44,008 INFO 83633 [egg-sequelize](4ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:03:43'
+2024-11-20 19:03:59,011 ERROR 83633 [-/127.0.0.1/-/75014ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:04:24,037 ERROR 83633 [-/127.0.0.1/-/160041ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:04:29,016 ERROR 83633 [-/127.0.0.1/-/225020ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:04:44,006 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:04:43'
+2024-11-20 19:04:59,013 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:05:14,014 ERROR 83633 [-/127.0.0.1/-/150017ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:05:39,039 ERROR 83633 [-/127.0.0.1/-/235042ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:05:44,010 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:05:44'
+2024-11-20 19:05:59,011 ERROR 83633 [-/127.0.0.1/-/75011ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:06:14,016 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:06:29,017 ERROR 83633 [-/127.0.0.1/-/225020ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:06:44,010 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:06:44'
+2024-11-20 19:06:59,017 ERROR 83633 [-/127.0.0.1/-/75013ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:07:14,014 ERROR 83633 [-/127.0.0.1/-/150015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:07:29,019 ERROR 83633 [-/127.0.0.1/-/225021ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:07:44,010 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:07:44'
+2024-11-20 19:07:59,016 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:08:14,020 ERROR 83633 [-/127.0.0.1/-/150017ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:08:29,016 ERROR 83633 [-/127.0.0.1/-/225017ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:08:44,011 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:08:44'
+2024-11-20 19:08:59,018 ERROR 83633 [-/127.0.0.1/-/75012ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:09:14,019 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:09:40,054 ERROR 83633 [-/127.0.0.1/-/236048ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:09:44,014 INFO 83633 [egg-sequelize](4ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:09:44'
+2024-11-20 19:09:59,016 ERROR 83633 [-/127.0.0.1/-/75014ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:10:14,021 ERROR 83633 [-/127.0.0.1/-/150019ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:10:29,022 ERROR 83633 [-/127.0.0.1/-/225021ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:10:44,016 INFO 83633 [egg-sequelize](3ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:10:44'
+2024-11-20 19:10:59,025 ERROR 83633 [-/127.0.0.1/-/75022ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:11:14,019 ERROR 83633 [-/127.0.0.1/-/150017ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:11:29,024 ERROR 83633 [-/127.0.0.1/-/225022ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:11:44,016 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:11:44'
+2024-11-20 19:11:59,020 ERROR 83633 [-/127.0.0.1/-/75016ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:12:14,029 ERROR 83633 [-/127.0.0.1/-/150025ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:12:29,019 ERROR 83633 [-/127.0.0.1/-/225017ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:12:44,015 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:12:44'
+2024-11-20 19:12:59,021 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:13:14,023 ERROR 83633 [-/127.0.0.1/-/150019ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:13:29,032 ERROR 83633 [-/127.0.0.1/-/225029ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:13:44,018 INFO 83633 [egg-sequelize](4ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:13:44'
+2024-11-20 19:13:59,019 ERROR 83633 [-/127.0.0.1/-/75012ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:14:14,023 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:14:29,025 ERROR 83633 [-/127.0.0.1/-/225021ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:14:44,020 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:14:44'
+2024-11-20 19:15:09,043 ERROR 83633 [-/127.0.0.1/-/85034ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:15:14,020 ERROR 83633 [-/127.0.0.1/-/150014ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:15:29,024 ERROR 83633 [-/127.0.0.1/-/225018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:15:44,039 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:15:44'
+2024-11-20 19:15:59,025 ERROR 83633 [-/127.0.0.1/-/75014ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:16:24,046 ERROR 83633 [-/127.0.0.1/-/160038ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:16:29,021 ERROR 83633 [-/127.0.0.1/-/225015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:16:44,022 INFO 83633 [egg-sequelize](3ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:16:44'
+2024-11-20 19:16:59,043 ERROR 83633 [-/127.0.0.1/-/75034ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:17:14,027 ERROR 83633 [-/127.0.0.1/-/150016ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:17:39,048 ERROR 83633 [-/127.0.0.1/-/235040ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:17:44,020 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:17:44'
+2024-11-20 19:17:59,027 ERROR 83633 [-/127.0.0.1/-/75018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:18:14,048 ERROR 83633 [-/127.0.0.1/-/150039ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:18:29,029 ERROR 83633 [-/127.0.0.1/-/225019ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:18:44,020 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:18:44'
+2024-11-20 19:18:59,024 ERROR 83633 [-/127.0.0.1/-/75013ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:19:14,030 ERROR 83633 [-/127.0.0.1/-/150020ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:19:29,051 ERROR 83633 [-/127.0.0.1/-/225042ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:19:44,018 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:19:44'
+2024-11-20 19:19:59,025 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:20:24,044 ERROR 83633 [-/127.0.0.1/-/160033ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:20:29,032 ERROR 83633 [-/127.0.0.1/-/225022ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:20:44,021 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:20:44'
+2024-11-20 19:20:59,021 ERROR 83633 [-/127.0.0.1/-/75011ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:21:14,027 ERROR 83633 [-/127.0.0.1/-/150017ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:21:39,048 ERROR 83633 [-/127.0.0.1/-/235037ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:21:44,020 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:21:44'
+2024-11-20 19:21:59,027 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:22:14,024 ERROR 83633 [-/127.0.0.1/-/150014ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:22:29,030 ERROR 83633 [-/127.0.0.1/-/225019ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:22:44,021 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:22:44'
+2024-11-20 19:22:59,025 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:23:14,029 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:23:29,026 ERROR 83633 [-/127.0.0.1/-/225015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:23:44,022 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:23:44'
+2024-11-20 19:23:59,026 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:24:14,028 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:24:29,031 ERROR 83633 [-/127.0.0.1/-/225020ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:24:44,022 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:24:44'
+2024-11-20 19:24:59,027 ERROR 83633 [-/127.0.0.1/-/75016ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:25:14,029 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:25:39,054 ERROR 83633 [-/127.0.0.1/-/235044ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:25:44,020 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:25:44'
+2024-11-20 19:25:59,026 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:26:14,029 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:26:29,031 ERROR 83633 [-/127.0.0.1/-/225020ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:26:44,022 INFO 83633 [egg-sequelize](4ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:26:44'
+2024-11-20 19:26:59,025 ERROR 83633 [-/127.0.0.1/-/75013ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:27:14,029 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:27:29,037 ERROR 83633 [-/127.0.0.1/-/225024ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:27:44,044 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:27:44'
+2024-11-20 19:27:59,025 ERROR 83633 [-/127.0.0.1/-/75013ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:28:14,027 ERROR 83633 [-/127.0.0.1/-/150015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:28:29,030 ERROR 83633 [-/127.0.0.1/-/225019ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:28:44,030 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:28:44'
+2024-11-20 19:28:59,049 ERROR 83633 [-/127.0.0.1/-/75022ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:29:14,027 ERROR 83633 [-/127.0.0.1/-/150015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:29:29,030 ERROR 83633 [-/127.0.0.1/-/225018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:29:33,531 INFO 83633 [egg-sequelize](4ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:29:33,536 INFO 83633 [egg-sequelize](4ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:29:33,538 INFO 83633 [egg-sequelize](9ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:29:33,559 INFO 83633 [egg-sequelize](22ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:29:33,560 INFO 83633 [egg-sequelize](23ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:29:33,562 INFO 83633 [egg-sequelize](15ms) Executed (default): SELECT 
+      SUM(a.price) AS price,
+      b.type,
+      DATE(a.created_at) AS date
+      from bills AS a,
+      bill_types AS b
+      WHERE a.type_id = b.id AND a.uid = 112233 AND DATE(a.created_at) >= '2024-11-20' AND DATE(a.created_at) <= '2024-11-20' 
+      GROUP BY b.type,
+      DATE(a.created_at)
+      ORDER BY DATE(a.created_at);
+2024-11-20 19:29:33,568 INFO 83633 [egg-sequelize](8ms) Executed (default): SELECT count(*) AS `count` FROM `todo_lists` AS `todo_list` WHERE `todo_list`.`status` = 1 AND `todo_list`.`uid` = 112233;
+2024-11-20 19:29:33,569 INFO 83633 [egg-sequelize](8ms) Executed (default): SELECT count(*) AS `count` FROM `reminders` AS `reminder` WHERE `reminder`.`uid` = 112233 AND `reminder`.`type` = 1;
+2024-11-20 19:29:33,570 INFO 83633 [egg-sequelize](3ms) Executed (default): SELECT `id`, `uid`, `content`, `date`, `type`, `count`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `tasks` AS `task` WHERE `task`.`uid` = 112233 AND `task`.`type` IN (1, 2) ORDER BY `createdAt` DESC;
+2024-11-20 19:29:33,572 INFO 83633 [egg-sequelize](4ms) Executed (default): SELECT `id`, `uid`, `content`, `date`, `type`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `reminders` AS `reminder` WHERE `reminder`.`uid` = 112233 AND `reminder`.`type` = 1 ORDER BY `createdAt` DESC;
+2024-11-20 19:29:33,575 INFO 83633 [egg-sequelize](5ms) Executed (default): SELECT count(*) AS `count` FROM `inner_messages` AS `inner_message` WHERE `inner_message`.`uid` = 112233;
+2024-11-20 19:29:33,576 INFO 83633 [egg-sequelize](5ms) Executed (default): SELECT `id`, `uid`, `content`, `type`, `has_read` AS `hasRead`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `inner_messages` AS `inner_message` WHERE `inner_message`.`uid` = 112233 ORDER BY `createdAt` DESC LIMIT 0, 5;
+2024-11-20 19:29:33,580 INFO 83633 [egg-sequelize](13ms) Executed (default): SELECT `id`, `uid`, `content`, `status`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `todo_lists` AS `todo_list` WHERE `todo_list`.`status` = 1 AND `todo_list`.`uid` = 112233 ORDER BY `createdAt` DESC;
+2024-11-20 19:29:33,587 INFO 83633 [egg-sequelize](18ms) Executed (default): SELECT 
+      SUM(a.price) AS price,
+      b.type,
+      DATE(a.created_at) AS date
+      from bills AS a,
+      bill_types AS b
+      WHERE a.type_id = b.id AND a.uid = 112233 AND DATE(a.created_at) >= '2024-11-13' AND DATE(a.created_at) <= '2024-11-20' 
+      GROUP BY b.type,
+      DATE(a.created_at)
+      ORDER BY DATE(a.created_at);
+2024-11-20 19:29:33,590 INFO 83633 [egg-sequelize](14ms) Executed (default): SELECT VERSION() as mysqlVersion
+2024-11-20 19:29:33,591 INFO 83633 [egg-sequelize](16ms) Executed (default): SELECT 
+      SUM(f.price) as amount, t.type, t.name
+      FROM bills AS f
+      INNER JOIN bill_types as t
+      ON f.uid = 112233 AND t.id = f.type_id
+      AND DATE(f.created_at) >= '2024-11-12' AND DATE(f.created_at) <= '2024-11-19'
+      GROUP BY t.type, t.name;
+2024-11-20 19:29:44,026 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:29:44'
+2024-11-20 19:29:52,321 INFO 83633 [egg-sequelize](10ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:29:52,330 INFO 83633 [egg-sequelize](5ms) Executed (default): SELECT count(*) AS `count` FROM `reminders` AS `reminder` WHERE (DATE(`created_at`) <= '2024-12-31' AND DATE(`created_at`) >= '2024-01-01') AND `reminder`.`uid` = 112233;
+2024-11-20 19:29:52,422 INFO 83633 [egg-sequelize](89ms) Executed (default): SELECT `id`, `uid`, `content`, `date`, `type`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `reminders` AS `reminder` WHERE (DATE(`created_at`) <= '2024-12-31' AND DATE(`created_at`) >= '2024-01-01') AND `reminder`.`uid` = 112233 ORDER BY `createdAt` DESC LIMIT 0, 50;
+2024-11-20 19:29:54,818 INFO 83633 [egg-sequelize](6ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:29:54,824 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT count(*) AS `count` FROM `todo_lists` AS `todo_list` WHERE (DATE(`created_at`) <= '2024-12-31' AND DATE(`created_at`) >= '2024-01-01') AND `todo_list`.`uid` = 112233;
+2024-11-20 19:29:54,825 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT `id`, `uid`, `content`, `status`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `todo_lists` AS `todo_list` WHERE (DATE(`created_at`) <= '2024-12-31' AND DATE(`created_at`) >= '2024-01-01') AND `todo_list`.`uid` = 112233 ORDER BY `createdAt` DESC LIMIT 0, 50;
+2024-11-20 19:29:59,033 ERROR 83633 [-/127.0.0.1/-/75011ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:29:59,652 INFO 83633 [egg-sequelize](18ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:29:59,658 INFO 83633 [egg-sequelize](5ms) Executed (default): SELECT `id`, `uid`, `content`, `date`, `type`, `count`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `tasks` AS `task` WHERE (DATE(`created_at`) <= '2024-11-20' AND DATE(`created_at`) >= '2024-11-20') AND `task`.`uid` = 112233 ORDER BY `createdAt` DESC;
+2024-11-20 19:30:01,419 INFO 83633 [egg-sequelize](13ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:30:01,425 INFO 83633 [egg-sequelize](14ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:30:01,430 INFO 83633 [egg-sequelize](6ms) Executed (default): SELECT count(*) AS `count` FROM `company` AS `company` WHERE `company`.`uid` = 112233;
+2024-11-20 19:30:01,431 INFO 83633 [egg-sequelize](6ms) Executed (default): SELECT `id`, `uid`, `company_name` AS `companyName`, `start_date` AS `startDate`, `end_date` AS `endDate`, `expect_leave_date` AS `expectLeaveDate`, `remark`, `amount`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `company` AS `company` WHERE `company`.`uid` = 112233 ORDER BY `startDate` DESC;
+2024-11-20 19:30:01,438 INFO 83633 [egg-sequelize](8ms) Executed (default): SELECT
+        l.id as id,
+        l.uid as uid,
+        l.log_type as logType,
+        l.done_content as doneContent,
+        l.undone_content as undoneContent,
+        l.plan_content as planContent,
+        l.summary_content as summaryContent,
+        l.company_id as companyId,
+        l.created_at as createdAt,
+        l.updated_at as updatedAt,
+        c.company_name as companyName
+    FROM logs AS l
+    LEFT JOIN company AS c ON l.company_id = c.id
+    WHERE l.uid = 112233
+      AND DATE(l.created_at) BETWEEN '1970-01-01' AND '2099-01-01'
+      AND 1=1
+      AND 1=1
+    ORDER BY l.created_at DESC
+    LIMIT 0, 50;
+2024-11-20 19:30:01,439 INFO 83633 [egg-sequelize](5ms) Executed (default): SELECT
+        l.id
+    FROM logs AS l
+    LEFT JOIN company AS c ON l.company_id = c.id
+    WHERE l.uid = 112233
+      AND DATE(l.created_at) BETWEEN ":startDate" AND ":endDate"
+      AND 1=1
+      AND 1=1
+2024-11-20 19:30:03,430 INFO 83633 [egg-sequelize](27ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:30:03,433 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT count(*) AS `count` FROM `company` AS `company` WHERE `company`.`uid` = 112233;
+2024-11-20 19:30:03,435 INFO 83633 [egg-sequelize](4ms) Executed (default): SELECT `id`, `uid`, `company_name` AS `companyName`, `start_date` AS `startDate`, `end_date` AS `endDate`, `expect_leave_date` AS `expectLeaveDate`, `remark`, `amount`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `company` AS `company` WHERE `company`.`uid` = 112233 ORDER BY `startDate` DESC;
+2024-11-20 19:30:05,618 INFO 83633 [egg-sequelize](75ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:30:05,622 INFO 83633 [egg-sequelize](4ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:30:05,635 INFO 83633 [egg-sequelize](16ms) Executed (default): SELECT `id`, `uid`, `sort_index` AS `sortIndex`, `name`, `type`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `bill_types` AS `bill_type` WHERE `bill_type`.`uid` = 112233 ORDER BY `bill_type`.`type` DESC LIMIT 0, 9007199254740990;
+2024-11-20 19:30:05,647 INFO 83633 [egg-sequelize](13ms) Executed (default): SELECT `bill`.`id`, `bill`.`uid`, `bill`.`price`, `bill`.`date`, `bill`.`type_id` AS `typeId`, `bill`.`remark`, `bill`.`created_at` AS `createdAt`, `bill`.`updated_at` AS `updatedAt`, `billType`.`name` AS `name`, `billType`.`type` AS `type`, `billType`.`id` AS `billType.id`, `billType`.`uid` AS `billType.uid`, `billType`.`sort_index` AS `billType.sortIndex`, `billType`.`name` AS `billType.name`, `billType`.`type` AS `billType.type`, `billType`.`created_at` AS `billType.createdAt`, `billType`.`updated_at` AS `billType.updatedAt` FROM `bills` AS `bill` INNER JOIN `bill_types` AS `billType` ON `bill`.`type_id` = `billType`.`id` WHERE (DATE(`bill`.`created_at`) <= '2024-11-30' AND DATE(`bill`.`created_at`) >= '2024-11-01') AND `bill`.`remark` LIKE '%%' AND `bill`.`uid` = 112233 ORDER BY `createdAt` DESC LIMIT 0, 50;
+2024-11-20 19:30:05,647 INFO 83633 [egg-sequelize](13ms) Executed (default): SELECT count(`bill`.`id`) AS `count` FROM `bills` AS `bill` INNER JOIN `bill_types` AS `billType` ON `bill`.`type_id` = `billType`.`id` WHERE (DATE(`bill`.`created_at`) <= '2024-11-30' AND DATE(`bill`.`created_at`) >= '2024-11-01') AND `bill`.`remark` LIKE '%%' AND `bill`.`uid` = 112233;
+2024-11-20 19:30:05,658 INFO 83633 [egg-sequelize](3ms) Executed (default): SELECT sum(`price`) AS `price`, `billType`.`type` AS `type` FROM `bills` AS `bill` INNER JOIN `bill_types` AS `billType` ON `bill`.`type_id` = `billType`.`id` AND `billType`.`uid` = 112233 WHERE (DATE(`bill`.`created_at`) <= '2024-11-30' AND DATE(`bill`.`created_at`) >= '2024-11-01') AND `bill`.`remark` LIKE '%%' AND `bill`.`uid` = 112233 GROUP BY `billType`.`type`;
+2024-11-20 19:30:10,193 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:30:10,195 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT `id`, `uid`, `sort_index` AS `sortIndex`, `name`, `type`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `bill_types` AS `bill_type` WHERE `bill_type`.`uid` = 112233 ORDER BY `bill_type`.`type` DESC LIMIT 0, 9007199254740990;
+2024-11-20 19:30:14,051 ERROR 83633 [-/127.0.0.1/-/150024ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:30:14,245 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:30:14,252 INFO 83633 [egg-sequelize](6ms) Executed (default): SELECT count(*) AS `count` FROM `todo_lists` AS `todo_list` WHERE (DATE(`created_at`) <= '2024-12-31' AND DATE(`created_at`) >= '2024-01-01') AND `todo_list`.`uid` = 112233;
+2024-11-20 19:30:14,252 INFO 83633 [egg-sequelize](5ms) Executed (default): SELECT `id`, `uid`, `content`, `status`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `todo_lists` AS `todo_list` WHERE (DATE(`created_at`) <= '2024-12-31' AND DATE(`created_at`) >= '2024-01-01') AND `todo_list`.`uid` = 112233 ORDER BY `createdAt` DESC LIMIT 0, 50;
+2024-11-20 19:30:17,447 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:30:17,454 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT `id`, `uid`, `content`, `date`, `type`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `reminders` AS `reminder` WHERE (DATE(`created_at`) <= '2024-12-31' AND DATE(`created_at`) >= '2024-01-01') AND `reminder`.`uid` = 112233 ORDER BY `createdAt` DESC LIMIT 0, 50;
+2024-11-20 19:30:17,454 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT count(*) AS `count` FROM `reminders` AS `reminder` WHERE (DATE(`created_at`) <= '2024-12-31' AND DATE(`created_at`) >= '2024-01-01') AND `reminder`.`uid` = 112233;
+2024-11-20 19:30:29,029 ERROR 83633 [-/127.0.0.1/-/225016ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:30:36,798 INFO 83633 [egg-sequelize](4ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:30:36,804 INFO 83633 [egg-sequelize](6ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:30:36,807 INFO 83633 [egg-sequelize](8ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:30:36,817 INFO 83633 [egg-sequelize](13ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:30:36,820 INFO 83633 [egg-sequelize](11ms) Executed (default): SELECT count(*) AS `count` FROM `todo_lists` AS `todo_list` WHERE `todo_list`.`status` = 1 AND `todo_list`.`uid` = 112233;
+2024-11-20 19:30:36,821 INFO 83633 [egg-sequelize](14ms) Executed (default): SELECT 
+      SUM(a.price) AS price,
+      b.type,
+      DATE(a.created_at) AS date
+      from bills AS a,
+      bill_types AS b
+      WHERE a.type_id = b.id AND a.uid = 112233 AND DATE(a.created_at) >= '2024-11-20' AND DATE(a.created_at) <= '2024-11-20' 
+      GROUP BY b.type,
+      DATE(a.created_at)
+      ORDER BY DATE(a.created_at);
+2024-11-20 19:30:36,822 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT count(*) AS `count` FROM `reminders` AS `reminder` WHERE `reminder`.`uid` = 112233 AND `reminder`.`type` = 1;
+2024-11-20 19:30:36,826 INFO 83633 [egg-sequelize](5ms) Executed (default): SELECT `id`, `uid`, `content`, `status`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `todo_lists` AS `todo_list` WHERE `todo_list`.`status` = 1 AND `todo_list`.`uid` = 112233 ORDER BY `createdAt` DESC;
+2024-11-20 19:30:36,829 INFO 83633 [egg-sequelize](5ms) Executed (default): SELECT count(*) AS `count` FROM `inner_messages` AS `inner_message` WHERE `inner_message`.`uid` = 112233;
+2024-11-20 19:30:36,830 INFO 83633 [egg-sequelize](10ms) Executed (default): SELECT `id`, `uid`, `content`, `date`, `type`, `count`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `tasks` AS `task` WHERE `task`.`uid` = 112233 AND `task`.`type` IN (1, 2) ORDER BY `createdAt` DESC;
+2024-11-20 19:30:36,831 INFO 83633 [egg-sequelize](10ms) Executed (default): SELECT `id`, `uid`, `content`, `date`, `type`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `reminders` AS `reminder` WHERE `reminder`.`uid` = 112233 AND `reminder`.`type` = 1 ORDER BY `createdAt` DESC;
+2024-11-20 19:30:36,832 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT 
+      SUM(f.price) as amount, t.type, t.name
+      FROM bills AS f
+      INNER JOIN bill_types as t
+      ON f.uid = 112233 AND t.id = f.type_id
+      AND DATE(f.created_at) >= '2024-11-12' AND DATE(f.created_at) <= '2024-11-19'
+      GROUP BY t.type, t.name;
+2024-11-20 19:30:36,844 INFO 83633 [egg-sequelize](18ms) Executed (default): SELECT `id`, `uid`, `content`, `type`, `has_read` AS `hasRead`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `inner_messages` AS `inner_message` WHERE `inner_message`.`uid` = 112233 ORDER BY `createdAt` DESC LIMIT 0, 5;
+2024-11-20 19:30:36,845 INFO 83633 [egg-sequelize](16ms) Executed (default): SELECT 
+      SUM(a.price) AS price,
+      b.type,
+      DATE(a.created_at) AS date
+      from bills AS a,
+      bill_types AS b
+      WHERE a.type_id = b.id AND a.uid = 112233 AND DATE(a.created_at) >= '2024-11-13' AND DATE(a.created_at) <= '2024-11-20' 
+      GROUP BY b.type,
+      DATE(a.created_at)
+      ORDER BY DATE(a.created_at);
+2024-11-20 19:30:44,029 INFO 83633 [egg-sequelize](3ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:30:44'
+2024-11-20 19:30:47,626 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:30:47,628 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT count(*) AS `count` FROM `reminders` AS `reminder` WHERE (DATE(`created_at`) <= '2024-12-31' AND DATE(`created_at`) >= '2024-01-01') AND `reminder`.`uid` = 112233;
+2024-11-20 19:30:47,628 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT `id`, `uid`, `content`, `date`, `type`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `reminders` AS `reminder` WHERE (DATE(`created_at`) <= '2024-12-31' AND DATE(`created_at`) >= '2024-01-01') AND `reminder`.`uid` = 112233 ORDER BY `createdAt` DESC LIMIT 0, 50;
+2024-11-20 19:31:09,051 ERROR 83633 [-/127.0.0.1/-/85027ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:31:09,842 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:31:09,846 INFO 83633 [egg-sequelize](3ms) Executed (default): SELECT count(*) AS `count` FROM `todo_lists` AS `todo_list` WHERE (DATE(`created_at`) <= '2024-12-31' AND DATE(`created_at`) >= '2024-01-01') AND `todo_list`.`uid` = 112233;
+2024-11-20 19:31:09,848 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT `id`, `uid`, `content`, `status`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `todo_lists` AS `todo_list` WHERE (DATE(`created_at`) <= '2024-12-31' AND DATE(`created_at`) >= '2024-01-01') AND `todo_list`.`uid` = 112233 ORDER BY `createdAt` DESC LIMIT 0, 50;
+2024-11-20 19:31:11,463 INFO 83633 [egg-sequelize](7ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:31:11,468 INFO 83633 [egg-sequelize](3ms) Executed (default): SELECT `id`, `uid`, `content`, `date`, `type`, `count`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `tasks` AS `task` WHERE (DATE(`created_at`) <= '2024-11-20' AND DATE(`created_at`) >= '2024-11-20') AND `task`.`uid` = 112233 ORDER BY `createdAt` DESC;
+2024-11-20 19:31:12,934 INFO 83633 [egg-sequelize](4ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:31:12,936 INFO 83633 [egg-sequelize](3ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:31:12,945 INFO 83633 [egg-sequelize](10ms) Executed (default): SELECT
+        l.id as id,
+        l.uid as uid,
+        l.log_type as logType,
+        l.done_content as doneContent,
+        l.undone_content as undoneContent,
+        l.plan_content as planContent,
+        l.summary_content as summaryContent,
+        l.company_id as companyId,
+        l.created_at as createdAt,
+        l.updated_at as updatedAt,
+        c.company_name as companyName
+    FROM logs AS l
+    LEFT JOIN company AS c ON l.company_id = c.id
+    WHERE l.uid = 112233
+      AND DATE(l.created_at) BETWEEN '1970-01-01' AND '2099-01-01'
+      AND 1=1
+      AND 1=1
+    ORDER BY l.created_at DESC
+    LIMIT 0, 50;
+2024-11-20 19:31:12,946 INFO 83633 [egg-sequelize](9ms) Executed (default): SELECT
+        l.id
+    FROM logs AS l
+    LEFT JOIN company AS c ON l.company_id = c.id
+    WHERE l.uid = 112233
+      AND DATE(l.created_at) BETWEEN ":startDate" AND ":endDate"
+      AND 1=1
+      AND 1=1
+2024-11-20 19:31:12,951 INFO 83633 [egg-sequelize](6ms) Executed (default): SELECT count(*) AS `count` FROM `company` AS `company` WHERE `company`.`uid` = 112233;
+2024-11-20 19:31:12,955 INFO 83633 [egg-sequelize](8ms) Executed (default): SELECT `id`, `uid`, `company_name` AS `companyName`, `start_date` AS `startDate`, `end_date` AS `endDate`, `expect_leave_date` AS `expectLeaveDate`, `remark`, `amount`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `company` AS `company` WHERE `company`.`uid` = 112233 ORDER BY `startDate` DESC;
+2024-11-20 19:31:14,034 ERROR 83633 [-/127.0.0.1/-/150012ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:31:15,527 INFO 83633 [egg-sequelize](3ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:31:15,533 INFO 83633 [egg-sequelize](5ms) Executed (default): SELECT count(*) AS `count` FROM `company` AS `company` WHERE `company`.`uid` = 112233;
+2024-11-20 19:31:15,533 INFO 83633 [egg-sequelize](5ms) Executed (default): SELECT `id`, `uid`, `company_name` AS `companyName`, `start_date` AS `startDate`, `end_date` AS `endDate`, `expect_leave_date` AS `expectLeaveDate`, `remark`, `amount`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `company` AS `company` WHERE `company`.`uid` = 112233 ORDER BY `startDate` DESC;
+2024-11-20 19:31:18,527 INFO 83633 [egg-sequelize](4ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:31:18,528 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT `id`, `uid`, `provider`, `login_name` AS `loginName`, `username`, `password`, `token`, `avatar_url` AS `avatarUrl`, `location`, `bio`, `email`, `ip_addr` AS `ipAddr`, `role`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user` WHERE `user`.`token` = '1122' LIMIT 1;
+2024-11-20 19:31:18,532 INFO 83633 [egg-sequelize](4ms) Executed (default): SELECT `id`, `uid`, `sort_index` AS `sortIndex`, `name`, `type`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `bill_types` AS `bill_type` WHERE `bill_type`.`uid` = 112233 ORDER BY `bill_type`.`type` DESC LIMIT 0, 9007199254740990;
+2024-11-20 19:31:18,533 INFO 83633 [egg-sequelize](2ms) Executed (default): SELECT `bill`.`id`, `bill`.`uid`, `bill`.`price`, `bill`.`date`, `bill`.`type_id` AS `typeId`, `bill`.`remark`, `bill`.`created_at` AS `createdAt`, `bill`.`updated_at` AS `updatedAt`, `billType`.`name` AS `name`, `billType`.`type` AS `type`, `billType`.`id` AS `billType.id`, `billType`.`uid` AS `billType.uid`, `billType`.`sort_index` AS `billType.sortIndex`, `billType`.`name` AS `billType.name`, `billType`.`type` AS `billType.type`, `billType`.`created_at` AS `billType.createdAt`, `billType`.`updated_at` AS `billType.updatedAt` FROM `bills` AS `bill` INNER JOIN `bill_types` AS `billType` ON `bill`.`type_id` = `billType`.`id` WHERE (DATE(`bill`.`created_at`) <= '2024-11-30' AND DATE(`bill`.`created_at`) >= '2024-11-01') AND `bill`.`remark` LIKE '%%' AND `bill`.`uid` = 112233 ORDER BY `createdAt` DESC LIMIT 0, 50;
+2024-11-20 19:31:18,535 INFO 83633 [egg-sequelize](4ms) Executed (default): SELECT count(`bill`.`id`) AS `count` FROM `bills` AS `bill` INNER JOIN `bill_types` AS `billType` ON `bill`.`type_id` = `billType`.`id` WHERE (DATE(`bill`.`created_at`) <= '2024-11-30' AND DATE(`bill`.`created_at`) >= '2024-11-01') AND `bill`.`remark` LIKE '%%' AND `bill`.`uid` = 112233;
+2024-11-20 19:31:18,541 INFO 83633 [egg-sequelize](5ms) Executed (default): SELECT sum(`price`) AS `price`, `billType`.`type` AS `type` FROM `bills` AS `bill` INNER JOIN `bill_types` AS `billType` ON `bill`.`type_id` = `billType`.`id` AND `billType`.`uid` = 112233 WHERE (DATE(`bill`.`created_at`) <= '2024-11-30' AND DATE(`bill`.`created_at`) >= '2024-11-01') AND `bill`.`remark` LIKE '%%' AND `bill`.`uid` = 112233 GROUP BY `billType`.`type`;
+2024-11-20 19:31:29,053 ERROR 83633 [-/127.0.0.1/-/225026ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:31:44,037 INFO 83633 [egg-sequelize](1ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:31:44'
+2024-11-20 19:31:59,040 ERROR 83633 [-/127.0.0.1/-/75012ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:32:24,055 ERROR 83633 [-/127.0.0.1/-/160031ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:32:29,036 ERROR 83633 [-/127.0.0.1/-/225014ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:32:44,047 INFO 83633 [egg-sequelize](3ms) Executed (default): SELECT
+      r.content, r.id, u.email, c.server_chan_sckey AS sckey
+      FROM reminders AS r, users AS u, user_configures as c
+      WHERE r.type = 1 AND u.email != "" AND r.uid = u.uid AND c.uid = r.uid AND r.created_at <= '2024-11-20 19:32:44'
+2024-11-20 19:32:59,040 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:33:14,042 ERROR 83633 [-/127.0.0.1/-/150016ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。

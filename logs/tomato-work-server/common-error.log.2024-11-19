@@ -1,0 +1,224 @@
+2024-11-19 12:02:41,438 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 1815567ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 12:20:19,284 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 1017789ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 12:51:52,285 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 972444ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 13:18:00,208 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 1527695ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 13:35:39,183 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 1018798ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 13:51:53,021 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 933776ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 14:03:03,295 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 630447ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 14:05:25,192 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 61447ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 14:34:26,182 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 1700561ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 14:39:36,040 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 249828ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 15:20:46,027 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 1809950ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 15:39:15,185 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 1071113ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 15:55:03,197 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 908055ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 16:05:54,036 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 570793ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 16:37:41,195 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 1786960ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 16:42:45,045 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 243839ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 18:01:24,393 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 1758104ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 18:15:00,032 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 754982ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 21:07:08,303 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 1784610ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 21:24:28,215 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 999674ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 21:40:49,177 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 920739ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 21:57:54,018 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 984724ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 22:15:35,018 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 1020808ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 22:41:50,020 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 1514989ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 23:00:33,025 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 1082990ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 23:18:56,018 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 1022804ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 23:41:46,019 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 1049833ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 23:59:46,017 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 999986ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+

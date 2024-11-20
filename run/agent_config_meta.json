@@ -1,0 +1,347 @@
+{
+  "keys": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+  "middleware": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "port": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+    }
+  },
+  "bodyParser": {
+    "jsonLimit": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "formLimit": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "enable": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "strict": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "depth": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+  },
+  "security": {
+    "csrf": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "domainWhiteList": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "passportLocal": {
+    "usernameField": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "passwordField": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js"
+  },
+  "title": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+  "sequelize": {
+    "dialect": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "database": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "host": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "port": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "username": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "password": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "timezone": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js"
+  },
+  "passportGithub": {
+    "key": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "secret": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "callbackURL": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "redirectURL": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "successRedirect": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "failureRedirect": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js"
+  },
+  "mailer": {
+    "host": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "port": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "secure": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "auth": {
+      "user": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+      "pass": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js"
+    }
+  },
+  "email": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+  "cors": {
+    "origin": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "allowMethods": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js",
+    "allowHeaders": "/Users/Rodrigo/development/github/tomato-work-server/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-view/config/config.default.js"
+  },
+  "validate": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-validate/config/config.default.js",
+  "crypto": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-crypto/config/config.default.js",
+  "env": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+  "name": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "author": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "version": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "bugs": {
+      "url": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "url": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+    },
+    "private": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "dayjs": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "egg": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "egg-crypto": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "egg-jwt": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "egg-mailer": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "egg-passport": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "egg-passport-github": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "egg-passport-local": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "egg-sequelize": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "js-ant": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "lodash": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "mysql2": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "svg-captcha": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "validator": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "start:product": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "stop": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "dev": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "debug": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "test": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "cov": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "lint": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "ci": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "autod": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "restart": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+    },
+    "license": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "env": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "level": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "logging": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+  "clusterClient": {
+    "maxWaitTime": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/config.default.js"
+}

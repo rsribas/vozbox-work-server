@@ -1,0 +1,270 @@
+2024-11-19 09:52:25,995 INFO 74379 [egg:logger] init all loggers with options: {"dir":"/Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tomato-work-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2024-11-19 09:52:26,968 INFO 74379 [egg:core] dump config after load, 6ms
+2024-11-19 09:52:27,059 INFO 74379 [egg-watcher] Start watching: ["/Users/Rodrigo/development/github/tomato-work-server/app","/Users/Rodrigo/development/github/tomato-work-server/config","/Users/Rodrigo/development/github/tomato-work-server/mocks","/Users/Rodrigo/development/github/tomato-work-server/mocks_proxy","/Users/Rodrigo/development/github/tomato-work-server/app.js"]
+2024-11-19 09:52:27,059 INFO 74379 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/app"
+2024-11-19 09:52:27,059 INFO 74379 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/config"
+2024-11-19 09:52:27,059 INFO 74379 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/mocks"
+2024-11-19 09:52:27,059 INFO 74379 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/mocks_proxy"
+2024-11-19 09:52:27,060 INFO 74379 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/app.js"
+2024-11-19 09:52:27,060 INFO 74379 [egg-watcher:agent] watcher start success
+2024-11-19 09:52:27,173 INFO 74379 [egg:core] dump config after ready, 3ms
+2024-11-19 09:52:27,166 INFO 74379 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2024-11-19 10:13:50,005 INFO 77389 [egg:logger] init all loggers with options: {"dir":"/Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tomato-work-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2024-11-19 10:13:50,969 INFO 77389 [egg:core] dump config after load, 6ms
+2024-11-19 10:13:51,059 INFO 77389 [egg-watcher] Start watching: ["/Users/Rodrigo/development/github/tomato-work-server/app","/Users/Rodrigo/development/github/tomato-work-server/config","/Users/Rodrigo/development/github/tomato-work-server/mocks","/Users/Rodrigo/development/github/tomato-work-server/mocks_proxy","/Users/Rodrigo/development/github/tomato-work-server/app.js"]
+2024-11-19 10:13:51,059 INFO 77389 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/app"
+2024-11-19 10:13:51,059 INFO 77389 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/config"
+2024-11-19 10:13:51,059 INFO 77389 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/mocks"
+2024-11-19 10:13:51,060 INFO 77389 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/mocks_proxy"
+2024-11-19 10:13:51,060 INFO 77389 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/app.js"
+2024-11-19 10:13:51,060 INFO 77389 [egg-watcher:agent] watcher start success
+2024-11-19 10:13:51,154 INFO 77389 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2024-11-19 10:13:51,160 INFO 77389 [egg:core] dump config after ready, 4ms
+2024-11-19 10:17:06,369 INFO 77678 [egg:logger] init all loggers with options: {"dir":"/Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tomato-work-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2024-11-19 10:17:07,303 INFO 77678 [egg:core] dump config after load, 6ms
+2024-11-19 10:17:07,386 INFO 77678 [egg-watcher] Start watching: ["/Users/Rodrigo/development/github/tomato-work-server/app","/Users/Rodrigo/development/github/tomato-work-server/config","/Users/Rodrigo/development/github/tomato-work-server/mocks","/Users/Rodrigo/development/github/tomato-work-server/mocks_proxy","/Users/Rodrigo/development/github/tomato-work-server/app.js"]
+2024-11-19 10:17:07,386 INFO 77678 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/app"
+2024-11-19 10:17:07,387 INFO 77678 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/config"
+2024-11-19 10:17:07,387 INFO 77678 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/mocks"
+2024-11-19 10:17:07,387 INFO 77678 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/mocks_proxy"
+2024-11-19 10:17:07,387 INFO 77678 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/app.js"
+2024-11-19 10:17:07,387 INFO 77678 [egg-watcher:agent] watcher start success
+2024-11-19 10:17:07,485 INFO 77678 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2024-11-19 10:17:07,491 INFO 77678 [egg:core] dump config after ready, 3ms
+2024-11-19 10:34:42,510 INFO 77678 [egg-watcher] Received a change event from eventSource: {"path":"/Users/Rodrigo/development/github/tomato-work-server/app.js","event":"change","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4006107,"size":2830,"blocks":8,"atimeMs":1732023282508.2917,"mtimeMs":1732019773874.1567,"ctimeMs":1732019773874.1567,"birthtimeMs":1732019773874.0454}}
+2024-11-19 10:34:42,716 WARN 77678 [agent:development] reload worker because /Users/Rodrigo/development/github/tomato-work-server/app.js change
+2024-11-19 12:02:41,442 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 1815567ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 12:20:19,354 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 1017789ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 12:51:52,286 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 972444ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 13:18:00,208 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 1527695ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 13:35:39,184 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 1018798ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 13:51:53,021 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 933776ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 14:03:03,296 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 630447ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 14:05:25,196 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 61447ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 14:34:26,182 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 1700561ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 14:39:36,040 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 249828ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 15:20:46,027 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 1809950ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 15:39:15,188 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 1071113ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 15:55:03,208 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 908055ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 16:05:54,036 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 570793ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 16:37:41,195 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 1786960ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 16:42:45,045 ERROR 77678 nodejs.ClusterClientNoResponseError: client no response in 243839ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 77678
+hostname: CEREBRUM.local
+
+2024-11-19 16:53:21,882 INFO 83621 [egg:logger] init all loggers with options: {"dir":"/Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tomato-work-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2024-11-19 16:53:22,748 INFO 83621 [egg:core] dump config after load, 8ms
+2024-11-19 16:53:22,826 INFO 83621 [egg-watcher] Start watching: ["/Users/Rodrigo/development/github/tomato-work-server/app","/Users/Rodrigo/development/github/tomato-work-server/config","/Users/Rodrigo/development/github/tomato-work-server/mocks","/Users/Rodrigo/development/github/tomato-work-server/mocks_proxy","/Users/Rodrigo/development/github/tomato-work-server/app.js"]
+2024-11-19 16:53:22,826 INFO 83621 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/app"
+2024-11-19 16:53:22,826 INFO 83621 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/config"
+2024-11-19 16:53:22,826 INFO 83621 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/mocks"
+2024-11-19 16:53:22,827 INFO 83621 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/mocks_proxy"
+2024-11-19 16:53:22,827 INFO 83621 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/tomato-work-server/app.js"
+2024-11-19 16:53:22,828 INFO 83621 [egg-watcher:agent] watcher start success
+2024-11-19 16:53:22,934 INFO 83621 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2024-11-19 16:53:22,940 INFO 83621 [egg:core] dump config after ready, 3ms
+2024-11-19 18:01:24,393 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 1758104ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 18:15:00,032 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 754982ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 21:07:08,324 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 1784610ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 21:24:28,217 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 999674ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 21:40:49,193 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 920739ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 21:57:54,018 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 984724ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 22:15:35,018 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 1020808ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 22:41:50,020 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 1514989ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 23:00:33,025 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 1082990ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 23:18:56,018 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 1022804ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 23:41:46,019 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 1049833ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-19 23:59:46,017 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 999986ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+

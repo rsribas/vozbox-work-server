@@ -1,0 +1,813 @@
+2024-11-20 00:00:03,930 INFO 83633 [egg-logrotator] app logger reload: got log-reload message
+2024-11-20 00:22:20,021 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-20 00:22:20,021 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-20 04:39:43,018 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-20 04:39:43,018 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-20 04:39:43,223 INFO 83633 [-/127.0.0.1/-/31ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/kd/pdwvgdp919543tvrcljp23s00000gp/T/egg-multipart-tmp/tomato-work-server"
+2024-11-20 04:39:43,322 INFO 83633 [-/127.0.0.1/-/133ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] end
+2024-11-20 08:42:13,015 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-20 09:23:01,196 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-20 09:23:01,200 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-20 09:23:06,251 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":1,"requestCount":1,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 2
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5008,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 09:41:22,181 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-20 09:41:22,195 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-20 09:41:27,270 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":3,"createSocketErrorCount":0,"closeSocketCount":3,"errorSocketCount":0,"timeoutSocketCount":1,"requestCount":1,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 3
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5007,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 09:58:17,204 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 09:58:17,205 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-20 09:58:17,214 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-20 09:58:22,254 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":4,"createSocketErrorCount":0,"closeSocketCount":4,"errorSocketCount":0,"timeoutSocketCount":1,"requestCount":1,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 4
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5017,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 09:59:22,241 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":5,"createSocketErrorCount":0,"closeSocketCount":5,"errorSocketCount":0,"timeoutSocketCount":1,"requestCount":1,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 5
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5002,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 10:52:44,176 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 10:52:44,178 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-20 10:52:44,190 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-20 10:52:49,954 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":6,"createSocketErrorCount":0,"closeSocketCount":6,"errorSocketCount":0,"timeoutSocketCount":1,"requestCount":1,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 6
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5004,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"81.71.10.192","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 11:41:51,052 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 11:41:51,053 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-20 11:41:51,217 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-20 11:41:56,250 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":7,"createSocketErrorCount":0,"closeSocketCount":7,"errorSocketCount":0,"timeoutSocketCount":1,"requestCount":1,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 7
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5004,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 11:42:56,275 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":8,"createSocketErrorCount":0,"closeSocketCount":8,"errorSocketCount":0,"timeoutSocketCount":1,"requestCount":1,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 8
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5004,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 12:21:58,084 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 12:21:58,085 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-20 12:21:58,094 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-20 14:22:43,056 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 14:22:43,062 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 14:22:43,063 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-20 14:22:43,068 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-20 14:22:48,195 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":10,"createSocketErrorCount":0,"closeSocketCount":10,"errorSocketCount":0,"timeoutSocketCount":2,"requestCount":2,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 10
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5006,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 14:23:48,093 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":11,"createSocketErrorCount":0,"closeSocketCount":11,"errorSocketCount":0,"timeoutSocketCount":2,"requestCount":2,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 11
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5003,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 18:25:39,015 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-20 18:25:39,015 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-20 18:57:44,041 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 18:57:44,041 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 18:57:44,046 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 18:57:44,046 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-20 18:57:44,052 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-20 18:57:49,206 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":13,"createSocketErrorCount":0,"closeSocketCount":13,"errorSocketCount":0,"timeoutSocketCount":3,"requestCount":3,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 13
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5003,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:00:21,319 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:00:21,320 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:00:21,324 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:01:36,327 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:02:29,009 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:03:29,011 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:04:29,016 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:05:39,039 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:06:29,018 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:07:29,020 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:08:29,017 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:09:40,054 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:10:29,023 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:10:49,023 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":26,"createSocketErrorCount":0,"closeSocketCount":26,"errorSocketCount":0,"timeoutSocketCount":15,"requestCount":15,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 26
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5006,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:11:29,024 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:12:29,020 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:13:29,032 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:14:29,025 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:15:29,024 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:16:29,022 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:17:39,049 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:18:29,029 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:18:49,025 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":34,"createSocketErrorCount":0,"closeSocketCount":34,"errorSocketCount":0,"timeoutSocketCount":22,"requestCount":22,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 34
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5003,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:19:29,051 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:20:29,032 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:21:39,048 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:21:49,025 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":37,"createSocketErrorCount":0,"closeSocketCount":37,"errorSocketCount":0,"timeoutSocketCount":24,"requestCount":24,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 37
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5003,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:22:29,030 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:23:29,026 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:24:29,032 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:24:49,027 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":40,"createSocketErrorCount":0,"closeSocketCount":40,"errorSocketCount":0,"timeoutSocketCount":26,"requestCount":26,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 40
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5004,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:25:39,054 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:26:29,032 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:27:29,040 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:28:29,030 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:29:29,031 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:30:29,029 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:31:29,055 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:32:29,038 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+

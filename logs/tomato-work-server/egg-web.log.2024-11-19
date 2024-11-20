@@ -1,0 +1,124 @@
+2024-11-19 09:52:28,729 INFO 74389 [egg:logger] init all loggers with options: {"dir":"/Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tomato-work-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2024-11-19 09:52:28,759 INFO 74389 [egg-multipart] stream mode enable
+2024-11-19 09:52:30,045 INFO 74389 [egg-static] starting static serve /public/ -> /Users/Rodrigo/development/github/tomato-work-server/app/public
+2024-11-19 09:52:30,047 WARN 74389 [egg-security] Please use `config.security.csrf = { enable: false }` instead of `config.security.csrf = false`
+2024-11-19 09:52:30,051 INFO 74389 [egg-security] use methodnoallow middleware
+2024-11-19 09:52:30,053 INFO 74389 [egg-security] use noopen middleware
+2024-11-19 09:52:30,055 INFO 74389 [egg-security] use nosniff middleware
+2024-11-19 09:52:30,056 INFO 74389 [egg-security] use xssProtection middleware
+2024-11-19 09:52:30,058 INFO 74389 [egg-security] use xframe middleware
+2024-11-19 09:52:30,060 INFO 74389 [egg-security] use dta middleware
+2024-11-19 09:52:30,060 INFO 74389 [egg-security] compose 6 middlewares into one security middleware
+2024-11-19 09:52:30,147 INFO 74389 [egg:core] dump config after load, 6ms
+2024-11-19 09:52:30,189 INFO 74389 [egg-watcher:application] watcher start success
+2024-11-19 09:52:30,308 INFO 74389 [egg:core] dump config after ready, 4ms
+2024-11-19 10:13:52,863 INFO 77402 [egg:logger] init all loggers with options: {"dir":"/Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tomato-work-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2024-11-19 10:13:52,893 INFO 77402 [egg-multipart] stream mode enable
+2024-11-19 10:13:54,201 INFO 77402 [egg-static] starting static serve /public/ -> /Users/Rodrigo/development/github/tomato-work-server/app/public
+2024-11-19 10:13:54,203 WARN 77402 [egg-security] Please use `config.security.csrf = { enable: false }` instead of `config.security.csrf = false`
+2024-11-19 10:13:54,207 INFO 77402 [egg-security] use methodnoallow middleware
+2024-11-19 10:13:54,209 INFO 77402 [egg-security] use noopen middleware
+2024-11-19 10:13:54,211 INFO 77402 [egg-security] use nosniff middleware
+2024-11-19 10:13:54,213 INFO 77402 [egg-security] use xssProtection middleware
+2024-11-19 10:13:54,215 INFO 77402 [egg-security] use xframe middleware
+2024-11-19 10:13:54,217 INFO 77402 [egg-security] use dta middleware
+2024-11-19 10:13:54,217 INFO 77402 [egg-security] compose 6 middlewares into one security middleware
+2024-11-19 10:13:54,304 INFO 77402 [egg:core] dump config after load, 7ms
+2024-11-19 10:13:54,341 INFO 77402 [egg-watcher:application] watcher start success
+2024-11-19 10:13:54,447 INFO 77402 [egg:core] dump config after ready, 4ms
+2024-11-19 10:17:09,117 INFO 77691 [egg:logger] init all loggers with options: {"dir":"/Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tomato-work-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2024-11-19 10:17:09,155 INFO 77691 [egg-multipart] stream mode enable
+2024-11-19 10:17:10,899 INFO 77691 [egg-static] starting static serve /public/ -> /Users/Rodrigo/development/github/tomato-work-server/app/public
+2024-11-19 10:17:10,900 WARN 77691 [egg-security] Please use `config.security.csrf = { enable: false }` instead of `config.security.csrf = false`
+2024-11-19 10:17:10,904 INFO 77691 [egg-security] use methodnoallow middleware
+2024-11-19 10:17:10,906 INFO 77691 [egg-security] use noopen middleware
+2024-11-19 10:17:10,909 INFO 77691 [egg-security] use nosniff middleware
+2024-11-19 10:17:10,911 INFO 77691 [egg-security] use xssProtection middleware
+2024-11-19 10:17:10,913 INFO 77691 [egg-security] use xframe middleware
+2024-11-19 10:17:10,915 INFO 77691 [egg-security] use dta middleware
+2024-11-19 10:17:10,915 INFO 77691 [egg-security] compose 6 middlewares into one security middleware
+2024-11-19 10:17:10,978 INFO 77691 [egg:core] dump config after load, 7ms
+2024-11-19 10:17:11,026 INFO 77691 [egg-watcher:application] watcher start success
+2024-11-19 10:17:11,192 INFO 77691 [egg:core] dump config after ready, 7ms
+2024-11-19 10:34:46,346 INFO 78932 [egg:logger] init all loggers with options: {"dir":"/Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tomato-work-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2024-11-19 10:34:46,403 INFO 78932 [egg-multipart] stream mode enable
+2024-11-19 10:34:48,121 INFO 78932 [egg-static] starting static serve /public/ -> /Users/Rodrigo/development/github/tomato-work-server/app/public
+2024-11-19 10:34:48,123 WARN 78932 [egg-security] Please use `config.security.csrf = { enable: false }` instead of `config.security.csrf = false`
+2024-11-19 10:34:48,127 INFO 78932 [egg-security] use methodnoallow middleware
+2024-11-19 10:34:48,129 INFO 78932 [egg-security] use noopen middleware
+2024-11-19 10:34:48,131 INFO 78932 [egg-security] use nosniff middleware
+2024-11-19 10:34:48,133 INFO 78932 [egg-security] use xssProtection middleware
+2024-11-19 10:34:48,135 INFO 78932 [egg-security] use xframe middleware
+2024-11-19 10:34:48,137 INFO 78932 [egg-security] use dta middleware
+2024-11-19 10:34:48,138 INFO 78932 [egg-security] compose 6 middlewares into one security middleware
+2024-11-19 10:34:48,206 INFO 78932 [egg:core] dump config after load, 10ms
+2024-11-19 10:34:48,268 INFO 78932 [egg-watcher:application] watcher start success
+2024-11-19 10:34:48,396 INFO 78932 [egg:core] dump config after ready, 6ms
+2024-11-19 12:02:41,420 WARN 78932 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 12:02:41,440 WARN 78932 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 12:20:19,288 WARN 78932 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 12:20:19,393 WARN 78932 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 12:51:52,238 WARN 78932 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 12:51:52,270 WARN 78932 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 13:18:00,015 WARN 78932 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 13:18:00,015 WARN 78932 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 13:35:39,185 WARN 78932 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 13:35:39,185 WARN 78932 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 13:51:53,021 WARN 78932 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 13:51:53,022 WARN 78932 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 14:03:03,301 WARN 78932 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 14:03:03,303 WARN 78932 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 14:05:25,195 WARN 78932 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 14:05:25,196 WARN 78932 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 14:34:26,189 WARN 78932 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 14:39:36,027 WARN 78932 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 14:39:36,028 WARN 78932 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 15:20:46,025 WARN 78932 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 15:20:46,026 WARN 78932 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 15:39:15,189 WARN 78932 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 15:39:15,189 WARN 78932 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 15:55:03,197 WARN 78932 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 15:55:03,207 WARN 78932 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 16:05:54,036 WARN 78932 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 16:05:54,036 WARN 78932 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 16:37:41,191 WARN 78932 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 16:37:41,191 WARN 78932 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 16:42:45,038 WARN 78932 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 16:53:24,565 INFO 83633 [egg:logger] init all loggers with options: {"dir":"/Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tomato-work-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2024-11-19 16:53:24,593 INFO 83633 [egg-multipart] stream mode enable
+2024-11-19 16:53:25,850 INFO 83633 [egg-static] starting static serve /public/ -> /Users/Rodrigo/development/github/tomato-work-server/app/public
+2024-11-19 16:53:25,852 WARN 83633 [egg-security] Please use `config.security.csrf = { enable: false }` instead of `config.security.csrf = false`
+2024-11-19 16:53:25,856 INFO 83633 [egg-security] use methodnoallow middleware
+2024-11-19 16:53:25,857 INFO 83633 [egg-security] use noopen middleware
+2024-11-19 16:53:25,859 INFO 83633 [egg-security] use nosniff middleware
+2024-11-19 16:53:25,861 INFO 83633 [egg-security] use xssProtection middleware
+2024-11-19 16:53:25,863 INFO 83633 [egg-security] use xframe middleware
+2024-11-19 16:53:25,865 INFO 83633 [egg-security] use dta middleware
+2024-11-19 16:53:25,865 INFO 83633 [egg-security] compose 6 middlewares into one security middleware
+2024-11-19 16:53:25,950 INFO 83633 [egg:core] dump config after load, 7ms
+2024-11-19 16:53:25,988 INFO 83633 [egg-watcher:application] watcher start success
+2024-11-19 16:53:26,283 INFO 83633 [egg:core] dump config after ready, 4ms
+2024-11-19 18:01:24,390 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 18:01:25,020 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 18:15:00,029 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 18:15:00,029 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 21:07:08,164 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 21:07:08,167 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 21:24:28,017 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 21:40:49,194 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 21:40:49,197 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 21:57:54,017 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 21:57:54,018 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 22:15:35,014 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 22:15:35,014 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 22:41:50,017 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 22:41:50,017 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 23:00:33,025 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 23:00:33,026 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 23:18:56,014 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 23:41:46,018 WARN 83633 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2024-11-19 23:41:46,018 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-19 23:59:46,014 WARN 83633 [ClusterClient:Watcher] follower closed, and try to init it again
+2024-11-20 00:00:02,963 INFO 83633 [egg-logrotator] clean all log before 31 days
+2024-11-20 00:00:03,926 INFO 83633 [egg-logrotator] broadcast log-reload
+2024-11-20 00:00:03,926 INFO 83633 [egg-logrotator] rotate files success by DayRotator, files ["/Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server/common-error.log -> /Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server/common-error.log.2024-11-19","/Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server/tomato-work-server-web.log -> /Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server/tomato-work-server-web.log.2024-11-19","/Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server/egg-web.log -> /Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server/egg-web.log.2024-11-19","/Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server/egg-schedule.log -> /Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server/egg-schedule.log.2024-11-19","/Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server/egg-agent.log -> /Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server/egg-agent.log.2024-11-19"]

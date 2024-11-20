@@ -1,0 +1,938 @@
+[
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/passport/github/callback",
+    "regexp": "/^\\/api\\/passport\\/github\\/callback(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/passport/github/success",
+    "regexp": "/^\\/api\\/passport\\/github\\/success(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/passport/local",
+    "regexp": "/^\\/api\\/passport\\/local(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/user",
+    "regexp": "/^\\/api\\/user(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/logout",
+    "regexp": "/^\\/api\\/logout(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/accessToken",
+    "regexp": "/^\\/api\\/accessToken(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/user/update",
+    "regexp": "/^\\/api\\/user\\/update(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/userConfig",
+    "regexp": "/^\\/api\\/userConfig(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "PUT"
+    ],
+    "paramNames": [],
+    "path": "/api/userConfig",
+    "regexp": "/^\\/api\\/userConfig(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/",
+    "regexp": "/^(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/captcha",
+    "regexp": "/^\\/api\\/captcha(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/panel",
+    "regexp": "/^\\/api\\/panel(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/system/info",
+    "regexp": "/^\\/api\\/system\\/info(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "tasks",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/task",
+    "regexp": "/^\\/api\\/task(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "tasks",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/task",
+    "regexp": "/^\\/api\\/task(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "task",
+    "methods": [
+      "PATCH",
+      "PUT"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/task/:id",
+    "regexp": "/^\\/api\\/task\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "destroy_task",
+    "methods": [
+      "DELETE"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/task/:id",
+    "regexp": "/^\\/api\\/task\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "reminders",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/reminder",
+    "regexp": "/^\\/api\\/reminder(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "reminders",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/reminder",
+    "regexp": "/^\\/api\\/reminder(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "reminder",
+    "methods": [
+      "PATCH",
+      "PUT"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/reminder/:id",
+    "regexp": "/^\\/api\\/reminder\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "destroy_reminder",
+    "methods": [
+      "DELETE"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/reminder/:id",
+    "regexp": "/^\\/api\\/reminder\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "billTypes",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/billType",
+    "regexp": "/^\\/api\\/billType(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "billTypes",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/billType",
+    "regexp": "/^\\/api\\/billType(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "billType",
+    "methods": [
+      "PATCH",
+      "PUT"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/billType/:id",
+    "regexp": "/^\\/api\\/billType\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "destroy_billType",
+    "methods": [
+      "DELETE"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/billType/:id",
+    "regexp": "/^\\/api\\/billType\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "bills",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/bill",
+    "regexp": "/^\\/api\\/bill(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "bills",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/bill",
+    "regexp": "/^\\/api\\/bill(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "bill",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/bill/:id",
+    "regexp": "/^\\/api\\/bill\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "bill",
+    "methods": [
+      "PATCH",
+      "PUT"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/bill/:id",
+    "regexp": "/^\\/api\\/bill\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "destroy_bill",
+    "methods": [
+      "DELETE"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/bill/:id",
+    "regexp": "/^\\/api\\/bill\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/bill/get",
+    "regexp": "/^\\/api\\/bill\\/get(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/bill/amount/statistics",
+    "regexp": "/^\\/api\\/bill\\/amount\\/statistics(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/bill/amount/group",
+    "regexp": "/^\\/api\\/bill\\/amount\\/group(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "memorandums",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/memorandum",
+    "regexp": "/^\\/api\\/memorandum(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "memorandums",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/memorandum",
+    "regexp": "/^\\/api\\/memorandum(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "memorandum",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/memorandum/:id",
+    "regexp": "/^\\/api\\/memorandum\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "memorandum",
+    "methods": [
+      "PATCH",
+      "PUT"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/memorandum/:id",
+    "regexp": "/^\\/api\\/memorandum\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "destroy_memorandum",
+    "methods": [
+      "DELETE"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/memorandum/:id",
+    "regexp": "/^\\/api\\/memorandum\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "innerMessages",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/innerMessage",
+    "regexp": "/^\\/api\\/innerMessage(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "innerMessage",
+    "methods": [
+      "PATCH",
+      "PUT"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/innerMessage/:id",
+    "regexp": "/^\\/api\\/innerMessage\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "todoLists",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/todoList",
+    "regexp": "/^\\/api\\/todoList(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "todoLists",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/todoList",
+    "regexp": "/^\\/api\\/todoList(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "todoList",
+    "methods": [
+      "PATCH",
+      "PUT"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/todoList/:id",
+    "regexp": "/^\\/api\\/todoList\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "destroy_todoList",
+    "methods": [
+      "DELETE"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/todoList/:id",
+    "regexp": "/^\\/api\\/todoList\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "companies",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/company",
+    "regexp": "/^\\/api\\/company(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "companies",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/company",
+    "regexp": "/^\\/api\\/company(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "company",
+    "methods": [
+      "PATCH",
+      "PUT"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/company/:id",
+    "regexp": "/^\\/api\\/company\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "destroy_company",
+    "methods": [
+      "DELETE"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/company/:id",
+    "regexp": "/^\\/api\\/company\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "logs",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/log",
+    "regexp": "/^\\/api\\/log(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "logs",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/log",
+    "regexp": "/^\\/api\\/log(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "log",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/log/:id",
+    "regexp": "/^\\/api\\/log\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "log",
+    "methods": [
+      "PATCH",
+      "PUT"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/log/:id",
+    "regexp": "/^\\/api\\/log\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "destroy_log",
+    "methods": [
+      "DELETE"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/log/:id",
+    "regexp": "/^\\/api\\/log\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  }
+]

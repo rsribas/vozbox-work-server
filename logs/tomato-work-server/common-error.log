@@ -1,0 +1,1020 @@
+2024-11-20 00:22:20,023 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 1313992ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-20 04:39:43,185 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 14542712ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-20 08:42:13,019 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 14429777ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-20 09:23:01,022 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 2409227ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-20 09:23:01,192 ERROR 83633 [-/127.0.0.1/-/2448171ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 09:23:06,250 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":1,"requestCount":1,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 2
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5008,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 09:41:22,016 ERROR 83633 [-/127.0.0.1/-/1100820ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 09:41:22,022 ERROR 83633 [-/127.0.0.1/-/3549001ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 09:41:22,022 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 1060813ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-20 09:41:27,269 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":3,"createSocketErrorCount":0,"closeSocketCount":3,"errorSocketCount":0,"timeoutSocketCount":1,"requestCount":1,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 3
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5007,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 09:58:17,199 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 974954ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-20 09:58:17,185 ERROR 83633 [-/127.0.0.1/-/2115988ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 09:58:17,187 ERROR 83633 [-/127.0.0.1/-/4564166ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 09:58:17,188 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 09:58:17,204 ERROR 83633 [-/127.0.0.1/-/1015022ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 09:58:22,254 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":4,"createSocketErrorCount":0,"closeSocketCount":4,"errorSocketCount":0,"timeoutSocketCount":1,"requestCount":1,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 4
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5017,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 09:59:22,241 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":5,"createSocketErrorCount":0,"closeSocketCount":5,"errorSocketCount":0,"timeoutSocketCount":1,"requestCount":1,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 5
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5002,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 10:52:44,021 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 3186785ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-20 10:52:44,017 ERROR 83633 [-/127.0.0.1/-/5382821ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 10:52:44,175 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 10:52:44,177 ERROR 83633 [-/127.0.0.1/-/4281995ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 10:52:44,178 ERROR 83633 [-/127.0.0.1/-/3266973ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 10:52:49,953 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":6,"createSocketErrorCount":0,"closeSocketCount":6,"errorSocketCount":0,"timeoutSocketCount":1,"requestCount":1,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 6
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5004,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%891%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"81.71.10.192","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 11:41:51,024 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 2906815ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-20 11:41:51,018 ERROR 83633 [-/127.0.0.1/-/6153819ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 11:41:51,019 ERROR 83633 [-/127.0.0.1/-/6213814ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 11:41:51,019 ERROR 83633 [-/127.0.0.1/-/7228837ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 11:41:51,019 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 11:41:51,052 ERROR 83633 [-/127.0.0.1/-/2946868ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 11:41:56,249 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":7,"createSocketErrorCount":0,"closeSocketCount":7,"errorSocketCount":0,"timeoutSocketCount":1,"requestCount":1,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 7
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5004,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 11:42:56,265 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":8,"createSocketErrorCount":0,"closeSocketCount":8,"errorSocketCount":0,"timeoutSocketCount":1,"requestCount":1,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 8
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5004,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 12:21:58,166 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 2346783ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-20 12:21:58,029 ERROR 83633 [-/127.0.0.1/-/8560830ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 12:21:58,029 ERROR 83633 [-/127.0.0.1/-/8620824ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 12:21:58,029 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 12:21:58,084 ERROR 83633 [-/127.0.0.1/-/5353900ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 14:22:43,017 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 7205313ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-20 14:22:43,013 ERROR 83633 [-/127.0.0.1/-/9651823ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 14:22:43,013 ERROR 83633 [-/127.0.0.1/-/15805814ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 14:22:43,014 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 14:22:43,057 ERROR 83633 [-/127.0.0.1/-/9592039ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 14:22:43,057 ERROR 83633 [-/127.0.0.1/-/12598873ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 14:22:43,057 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 14:22:43,062 ERROR 83633 [-/127.0.0.1/-/7244976ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 14:22:48,194 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":10,"createSocketErrorCount":0,"closeSocketCount":10,"errorSocketCount":0,"timeoutSocketCount":2,"requestCount":2,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 10
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5006,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 14:23:24,096 ERROR 83633 [-/127.0.0.1/-/9692906ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 14:23:32,094 ERROR 83633 [-/127.0.0.1/-/9641076ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 14:23:48,092 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":11,"createSocketErrorCount":0,"closeSocketCount":11,"errorSocketCount":0,"timeoutSocketCount":2,"requestCount":2,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 11
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5003,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 14:23:54,098 ERROR 83633 [-/127.0.0.1/-/7316012ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:25:39,187 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 14495931ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-20 18:57:44,019 ERROR 83621 nodejs.ClusterClientNoResponseError: client no response in 1885046ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 83621
+hostname: CEREBRUM.local
+
+2024-11-20 18:57:44,014 ERROR 83633 [-/127.0.0.1/-/16500951ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:57:44,014 ERROR 83633 [-/127.0.0.1/-/26092996ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:57:44,015 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 18:57:44,041 ERROR 83633 [-/127.0.0.1/-/26152851ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:57:44,041 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 18:57:44,041 ERROR 83633 [-/127.0.0.1/-/16441027ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:57:44,045 ERROR 83633 [-/127.0.0.1/-/23745959ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:57:44,045 ERROR 83633 nodejs.unhandledRejectionError: Connection timeout
+    at SMTPConnection._formatError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:807:19)
+    at SMTPConnection._onError (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:793:20)
+    at Timeout.<anonymous> (/Users/Rodrigo/development/github/tomato-work-server/node_modules/nodemailer/lib/smtp-connection/index.js:237:22)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+code: "ETIMEDOUT"
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 18:57:44,046 ERROR 83633 [-/127.0.0.1/-/1925025ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:57:49,205 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":13,"createSocketErrorCount":0,"closeSocketCount":13,"errorSocketCount":0,"timeoutSocketCount":3,"requestCount":3,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 13
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5003,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 18:59:06,318 ERROR 83633 [-/127.0.0.1/-/16583255ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:59:06,319 ERROR 83633 [-/127.0.0.1/-/16523305ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:59:06,322 ERROR 83633 [-/127.0.0.1/-/2007301ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:59:06,324 ERROR 83633 [-/127.0.0.1/-/82277ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 18:59:59,005 ERROR 83633 [-/127.0.0.1/-/75011ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:00:21,318 ERROR 83633 [-/127.0.0.1/-/16658255ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:00:21,319 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:00:21,319 ERROR 83633 [-/127.0.0.1/-/16598305ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:00:21,320 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:00:21,324 ERROR 83633 [-/127.0.0.1/-/2082303ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:00:21,324 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:00:21,325 ERROR 83633 [-/127.0.0.1/-/157278ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:00:59,005 ERROR 83633 [-/127.0.0.1/-/75012ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:01:14,007 ERROR 83633 [-/127.0.0.1/-/150013ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:01:36,326 ERROR 83633 [-/127.0.0.1/-/232279ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:01:36,327 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:01:59,011 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:02:14,007 ERROR 83633 [-/127.0.0.1/-/150014ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:02:29,009 ERROR 83633 [-/127.0.0.1/-/225015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:02:29,009 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:02:59,008 ERROR 83633 [-/127.0.0.1/-/75012ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:03:14,014 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:03:29,011 ERROR 83633 [-/127.0.0.1/-/225017ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:03:29,011 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:03:59,011 ERROR 83633 [-/127.0.0.1/-/75014ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:04:24,037 ERROR 83633 [-/127.0.0.1/-/160041ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:04:29,016 ERROR 83633 [-/127.0.0.1/-/225020ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:04:29,016 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:04:59,013 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:05:14,014 ERROR 83633 [-/127.0.0.1/-/150017ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:05:39,039 ERROR 83633 [-/127.0.0.1/-/235042ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:05:39,039 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:05:59,010 ERROR 83633 [-/127.0.0.1/-/75011ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:06:14,016 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:06:29,017 ERROR 83633 [-/127.0.0.1/-/225020ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:06:29,017 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:06:59,016 ERROR 83633 [-/127.0.0.1/-/75013ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:07:14,014 ERROR 83633 [-/127.0.0.1/-/150015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:07:29,019 ERROR 83633 [-/127.0.0.1/-/225021ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:07:29,020 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:07:59,016 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:08:14,020 ERROR 83633 [-/127.0.0.1/-/150017ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:08:29,016 ERROR 83633 [-/127.0.0.1/-/225017ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:08:29,017 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:08:59,016 ERROR 83633 [-/127.0.0.1/-/75012ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:09:14,019 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:09:40,051 ERROR 83633 [-/127.0.0.1/-/236048ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:09:40,054 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:09:59,016 ERROR 83633 [-/127.0.0.1/-/75014ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:10:14,021 ERROR 83633 [-/127.0.0.1/-/150019ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:10:29,022 ERROR 83633 [-/127.0.0.1/-/225021ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:10:29,022 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:10:49,023 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":26,"createSocketErrorCount":0,"closeSocketCount":26,"errorSocketCount":0,"timeoutSocketCount":15,"requestCount":15,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 26
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5006,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:10:59,025 ERROR 83633 [-/127.0.0.1/-/75022ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:11:14,019 ERROR 83633 [-/127.0.0.1/-/150017ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:11:29,024 ERROR 83633 [-/127.0.0.1/-/225022ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:11:29,024 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:11:59,020 ERROR 83633 [-/127.0.0.1/-/75016ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:12:14,028 ERROR 83633 [-/127.0.0.1/-/150025ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:12:29,019 ERROR 83633 [-/127.0.0.1/-/225017ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:12:29,020 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:12:59,020 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:13:14,023 ERROR 83633 [-/127.0.0.1/-/150019ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:13:29,032 ERROR 83633 [-/127.0.0.1/-/225029ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:13:29,032 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:13:59,018 ERROR 83633 [-/127.0.0.1/-/75012ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:14:14,023 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:14:29,025 ERROR 83633 [-/127.0.0.1/-/225021ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:14:29,025 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:15:09,042 ERROR 83633 [-/127.0.0.1/-/85034ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:15:14,020 ERROR 83633 [-/127.0.0.1/-/150014ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:15:29,023 ERROR 83633 [-/127.0.0.1/-/225018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:15:29,024 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:15:59,024 ERROR 83633 [-/127.0.0.1/-/75014ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:16:24,046 ERROR 83633 [-/127.0.0.1/-/160038ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:16:29,021 ERROR 83633 [-/127.0.0.1/-/225015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:16:29,022 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:16:59,043 ERROR 83633 [-/127.0.0.1/-/75034ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:17:14,027 ERROR 83633 [-/127.0.0.1/-/150016ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:17:39,048 ERROR 83633 [-/127.0.0.1/-/235040ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:17:39,049 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:17:59,027 ERROR 83633 [-/127.0.0.1/-/75018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:18:14,048 ERROR 83633 [-/127.0.0.1/-/150039ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:18:29,029 ERROR 83633 [-/127.0.0.1/-/225019ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:18:29,029 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:18:49,025 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":34,"createSocketErrorCount":0,"closeSocketCount":34,"errorSocketCount":0,"timeoutSocketCount":22,"requestCount":22,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 34
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5003,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:18:59,024 ERROR 83633 [-/127.0.0.1/-/75013ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:19:14,030 ERROR 83633 [-/127.0.0.1/-/150020ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:19:29,051 ERROR 83633 [-/127.0.0.1/-/225042ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:19:29,051 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:19:59,025 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:20:24,044 ERROR 83633 [-/127.0.0.1/-/160033ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:20:29,031 ERROR 83633 [-/127.0.0.1/-/225022ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:20:29,032 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:20:59,021 ERROR 83633 [-/127.0.0.1/-/75011ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:21:14,027 ERROR 83633 [-/127.0.0.1/-/150017ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:21:39,048 ERROR 83633 [-/127.0.0.1/-/235037ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:21:39,048 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:21:49,024 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":37,"createSocketErrorCount":0,"closeSocketCount":37,"errorSocketCount":0,"timeoutSocketCount":24,"requestCount":24,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 37
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5003,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:21:59,027 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:22:14,024 ERROR 83633 [-/127.0.0.1/-/150014ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:22:29,029 ERROR 83633 [-/127.0.0.1/-/225019ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:22:29,030 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:22:59,025 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:23:14,029 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:23:29,025 ERROR 83633 [-/127.0.0.1/-/225015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:23:29,026 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:23:59,026 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:24:14,028 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:24:29,031 ERROR 83633 [-/127.0.0.1/-/225020ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:24:29,032 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:24:49,027 ERROR 83633 nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":40,"createSocketErrorCount":0,"closeSocketCount":40,"errorSocketCount":0,"timeoutSocketCount":26,"requestCount":26,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/tomato-work-server/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ConnectionTimeoutError"
+requestId: 40
+data: undefined
+path: "/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5004,"keepAliveSocket":false,"requestUrls":["https://sc.ftqq.com/aaaaaaaaaa.send?text=%E6%82%A8%E6%9C%892%E9%A1%B9%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%20-%20Tomato%20Work&desp=%3Ch2%3E1%EF%BC%9Ateste%20reminder%3C%2Fh2%3E%3Ch2%3E2%EF%BC%9ATeste%20notificacao%3C%2Fh2%3E"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:24:59,027 ERROR 83633 [-/127.0.0.1/-/75016ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:25:14,029 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:25:39,054 ERROR 83633 [-/127.0.0.1/-/235044ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:25:39,054 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:25:59,026 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:26:14,029 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:26:29,031 ERROR 83633 [-/127.0.0.1/-/225020ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:26:29,031 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:26:59,025 ERROR 83633 [-/127.0.0.1/-/75013ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:27:14,029 ERROR 83633 [-/127.0.0.1/-/150018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:27:29,036 ERROR 83633 [-/127.0.0.1/-/225024ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:27:29,038 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:27:59,025 ERROR 83633 [-/127.0.0.1/-/75013ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:28:14,027 ERROR 83633 [-/127.0.0.1/-/150015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:28:29,030 ERROR 83633 [-/127.0.0.1/-/225019ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:28:29,030 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:28:59,049 ERROR 83633 [-/127.0.0.1/-/75022ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:29:14,027 ERROR 83633 [-/127.0.0.1/-/150015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:29:29,030 ERROR 83633 [-/127.0.0.1/-/225018ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:29:29,030 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 98.98.124.38:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "98.98.124.38"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:29:59,033 ERROR 83633 [-/127.0.0.1/-/75011ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:30:14,051 ERROR 83633 [-/127.0.0.1/-/150024ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:30:29,028 ERROR 83633 [-/127.0.0.1/-/225016ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:30:29,029 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:31:09,051 ERROR 83633 [-/127.0.0.1/-/85027ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:31:14,034 ERROR 83633 [-/127.0.0.1/-/150012ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:31:29,053 ERROR 83633 [-/127.0.0.1/-/225026ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:31:29,055 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:31:59,039 ERROR 83633 [-/127.0.0.1/-/75012ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:32:24,055 ERROR 83633 [-/127.0.0.1/-/160031ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:32:29,036 ERROR 83633 [-/127.0.0.1/-/225014ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:32:29,037 ERROR 83633 nodejs.unhandledRejectionError: connect ETIMEDOUT 123.1.147.51:25
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -60
+code: "ESOCKET"
+syscall: "connect"
+address: "123.1.147.51"
+port: 25
+command: "CONN"
+name: "unhandledRejectionError"
+pid: 83633
+hostname: CEREBRUM.local
+
+2024-11-20 19:32:59,040 ERROR 83633 [-/127.0.0.1/-/75015ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。
+2024-11-20 19:33:14,042 ERROR 83633 [-/127.0.0.1/-/150016ms SCHEDULE /__schedule?path=/Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js&interval=60s&type=all&immediate=true] 邮箱：teste@test.com 发送失败，原因：账号错误或超出邮件发送频率。

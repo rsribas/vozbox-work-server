@@ -1,0 +1,207 @@
+2024-11-20 00:22:20,022 INFO 83633 [Job#1732072940017537796199294606204] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 00:22:20,022 INFO 83633 [Job#173207294001853779611001039501] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/task.js executing by app
+2024-11-20 00:22:20,185 INFO 83633 [Job#1732072940017537796199294606204] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 163ms. 
+2024-11-20 00:22:20,185 INFO 83633 [Job#173207294001853779611001039501] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/task.js execute succeed, used 163ms. 
+2024-11-20 00:22:20,017 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 00:23:20.017
+2024-11-20 00:22:20,019 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/task.js next time will execute after 85119982ms at 2024-11-21 00:01:00.001
+2024-11-20 00:23:20,016 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 00:24:20.016
+2024-11-20 00:23:20,017 INFO 83633 [Job#1732073000016537802199251380205] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 00:23:20,018 INFO 83633 [Job#1732073000016537802199251380205] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 00:24:20,017 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 00:25:20.017
+2024-11-20 00:24:20,018 INFO 83633 [Job#17320730600175378081100673947206] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 00:24:20,019 INFO 83633 [Job#17320730600175378081100673947206] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 00:25:20,017 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 00:26:20.017
+2024-11-20 00:25:20,017 INFO 83633 [Job#17320731200165378141100579873207] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 00:25:20,018 INFO 83633 [Job#17320731200165378141100579873207] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-11-20 00:26:20,016 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 00:27:20.016
+2024-11-20 00:26:20,017 INFO 83633 [Job#17320731800165378201100820636208] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 00:26:20,018 INFO 83633 [Job#17320731800165378201100820636208] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 00:27:20,017 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 00:28:20.017
+2024-11-20 00:27:20,018 INFO 83633 [Job#17320732400175378261102523114209] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 00:27:20,019 INFO 83633 [Job#17320732400175378261102523114209] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 00:28:20,017 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 00:29:20.017
+2024-11-20 00:28:20,018 INFO 83633 [Job#17320733000175378321103222634210] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 00:28:20,019 INFO 83633 [Job#17320733000175378321103222634210] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 00:29:20,017 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 00:30:20.017
+2024-11-20 00:29:20,018 INFO 83633 [Job#17320733600175378381103836662211] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 00:29:20,019 INFO 83633 [Job#17320733600175378381103836662211] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 00:30:20,025 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 00:31:20.025
+2024-11-20 00:30:20,031 INFO 83633 [Job#17320734200255378441112323138212] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 00:30:20,032 INFO 83633 [Job#17320734200255378441112323138212] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 00:31:20,025 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 00:32:20.025
+2024-11-20 00:31:20,026 INFO 83633 [Job#17320734800255378501112801456213] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 00:31:20,027 INFO 83633 [Job#17320734800255378501112801456213] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 00:32:20,027 INFO 83633 [Job#17320735400265378561114139726214] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 00:32:20,027 INFO 83633 [Job#17320735400265378561114139726214] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-11-20 00:32:20,026 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 00:33:20.026
+2024-11-20 00:33:20,026 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 00:34:20.026
+2024-11-20 00:33:20,026 INFO 83633 [Job#17320736000265378621114691616215] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 00:33:20,029 INFO 83633 [Job#17320736000265378621114691616215] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
+2024-11-20 00:34:20,026 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 00:35:20.026
+2024-11-20 00:34:20,026 INFO 83633 [Job#17320736600265378681115319245216] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 00:34:20,027 INFO 83633 [Job#17320736600265378681115319245216] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 00:35:20,026 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 00:36:20.026
+2024-11-20 00:35:20,028 INFO 83633 [Job#17320737200265378741116465986217] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 00:35:20,029 INFO 83633 [Job#17320737200265378741116465986217] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 00:36:20,027 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 00:37:20.027
+2024-11-20 00:36:20,028 INFO 83633 [Job#17320737800265378801117354099218] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 00:36:20,028 INFO 83633 [Job#17320737800265378801117354099218] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-11-20 00:37:20,027 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 00:38:20.027
+2024-11-20 00:37:20,027 INFO 83633 [Job#17320738400275378861118214326219] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 00:37:20,028 INFO 83633 [Job#17320738400275378861118214326219] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 04:39:43,017 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 04:40:43.017
+2024-11-20 04:39:43,185 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 85816983ms at 2024-11-21 04:30:00.167
+2024-11-20 04:39:43,189 INFO 83633 [Job#17320883830175393404108479906220] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 04:39:43,189 INFO 83633 [Job#173208838301753934041086280061] /Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2024-11-20 04:39:43,224 INFO 83633 [Job#17320883830175393404108479906220] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 35ms. 
+2024-11-20 04:39:43,322 INFO 83633 [Job#173208838301753934041086280061] /Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 133ms. 
+2024-11-20 04:40:43,017 INFO 83633 [Job#17320884430175393464108896985221] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 04:40:43,018 INFO 83633 [Job#17320884430175393464108896985221] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 04:40:43,017 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 04:41:43.017
+2024-11-20 04:41:43,018 INFO 83633 [Job#17320885030165393524109140906222] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 04:41:43,019 INFO 83633 [Job#17320885030165393524109140906222] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 04:41:43,017 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 04:42:43.017
+2024-11-20 08:42:13,021 INFO 83633 [Job#17321029330155407954107963379223] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 08:42:13,022 INFO 83633 [Job#17321029330155407954107963379223] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 08:42:13,015 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 08:43:13.015
+2024-11-20 09:23:01,015 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 09:24:01.015
+2024-11-20 09:23:01,196 INFO 83633 [Job#17321053810155410403345071269224] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 09:23:01,197 INFO 83633 [Job#17321053810155410403345071269224] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 09:41:22,015 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 09:42:22.015
+2024-11-20 09:41:22,181 INFO 83633 [Job#17321064820155411504368565296225] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 09:41:22,182 INFO 83633 [Job#17321064820155411504368565296225] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-11-20 09:58:17,192 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 09:59:17.191
+2024-11-20 09:58:17,205 INFO 83633 [Job#17321074970175412519384495776226] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 09:58:17,206 INFO 83633 [Job#17321074970175412519384495776226] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 09:59:17,195 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 10:00:17.195
+2024-11-20 09:59:17,199 INFO 83633 [Job#17321075571935412579562590316227] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 09:59:17,200 INFO 83633 [Job#17321075571935412579562590316227] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 10:52:44,017 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 10:53:44.017
+2024-11-20 10:52:44,183 INFO 83633 [Job#17321107640175415786386302488228] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 10:52:44,185 INFO 83633 [Job#17321107640175415786386302488228] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 11:41:51,017 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 11:42:51.017
+2024-11-20 11:41:51,054 INFO 83633 [Job#17321137110175418733387156073229] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 11:41:51,197 INFO 83633 [Job#17321137110175418733387156073229] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 7ms. 
+2024-11-20 11:42:51,018 INFO 83633 [Job#17321137710175418793387683381230] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 11:42:51,019 INFO 83633 [Job#17321137710175418793387683381230] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-11-20 11:42:51,017 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 11:43:51.017
+2024-11-20 12:21:58,028 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 12:22:58.028
+2024-11-20 12:21:58,086 INFO 83633 [Job#17321161180285421140399045670231] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 12:21:58,086 INFO 83633 [Job#17321161180285421140399045670231] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-11-20 14:22:43,013 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 14:23:43.013
+2024-11-20 14:22:43,063 INFO 83633 [Job#17321233630135428385884882592232] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 14:22:43,063 INFO 83633 [Job#17321233630135428385884882592232] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-11-20 14:23:43,014 INFO 83633 [Job#17321234230135428445885828465233] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 14:23:43,015 INFO 83633 [Job#17321234230135428445885828465233] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 14:23:43,013 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 14:24:43.013
+2024-11-20 18:25:39,014 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 18:26:39.014
+2024-11-20 18:25:39,021 INFO 83633 [Job#17321379390145442961887619317234] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 18:25:39,022 INFO 83633 [Job#17321379390145442961887619317234] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 18:57:44,014 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 18:58:44.014
+2024-11-20 18:57:44,047 INFO 83633 [Job#17321398640135444887113008965235] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 18:57:44,047 INFO 83633 [Job#17321398640135444887113008965235] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-11-20 18:58:43,994 INFO 83633 [Job#17321399239935444947113033237236] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 18:58:43,995 INFO 83633 [Job#17321399239935444947113033237236] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 18:58:43,993 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 18:59:43.993
+2024-11-20 18:59:43,993 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:00:43.993
+2024-11-20 18:59:43,993 INFO 83633 [Job#17321399839935445007113966709237] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 18:59:43,994 INFO 83633 [Job#17321399839935445007113966709237] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:00:43,996 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:01:43.996
+2024-11-20 19:00:43,996 INFO 83633 [Job#17321400439945445067115542632238] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:00:43,997 INFO 83633 [Job#17321400439945445067115542632238] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:01:43,995 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:02:43.995
+2024-11-20 19:01:43,996 INFO 83633 [Job#17321401039955445127117395881239] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:01:43,996 INFO 83633 [Job#17321401039955445127117395881239] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-11-20 19:02:43,997 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:03:43.997
+2024-11-20 19:02:43,997 INFO 83633 [Job#17321401639965445187119629185240] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:02:43,998 INFO 83633 [Job#17321401639965445187119629185240] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:03:43,998 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:04:43.998
+2024-11-20 19:03:43,998 INFO 83633 [Job#17321402239985445247121518274241] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:03:43,999 INFO 83633 [Job#17321402239985445247121518274241] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:04:43,999 INFO 83633 [Job#17321402839985445307122774502242] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:04:44,000 INFO 83633 [Job#17321402839985445307122774502242] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:04:43,998 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:05:43.998
+2024-11-20 19:05:44,000 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:06:44.000
+2024-11-20 19:05:44,003 INFO 83633 [Job#17321403440005445367125154388243] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:05:44,004 INFO 83633 [Job#17321403440005445367125154388243] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:06:44,001 INFO 83633 [Job#17321404040005445427125962842244] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:06:44,002 INFO 83633 [Job#17321404040005445427125962842244] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:06:44,000 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:07:44.000
+2024-11-20 19:07:44,002 INFO 83633 [Job#17321404640005445487126742881245] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:07:44,003 INFO 83633 [Job#17321404640005445487126742881245] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:07:44,001 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:08:44.000
+2024-11-20 19:08:44,002 INFO 83633 [Job#17321405240015445547128302576246] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:08:44,003 INFO 83633 [Job#17321405240015445547128302576246] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:08:44,001 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:09:44.001
+2024-11-20 19:09:44,003 INFO 83633 [Job#17321405840025445607130097308247] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:09:44,004 INFO 83633 [Job#17321405840025445607130097308247] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:09:44,003 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:10:44.003
+2024-11-20 19:10:44,004 INFO 83633 [Job#17321406440035445667130938010248] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:10:44,007 INFO 83633 [Job#17321406440035445667130938010248] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 3ms. 
+2024-11-20 19:10:44,003 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:11:44.003
+2024-11-20 19:11:44,004 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:12:44.004
+2024-11-20 19:11:44,005 INFO 83633 [Job#17321407040045445727132526246249] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:11:44,006 INFO 83633 [Job#17321407040045445727132526246249] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:12:44,005 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:13:44.005
+2024-11-20 19:12:44,006 INFO 83633 [Job#17321407640055445787134829471250] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:12:44,007 INFO 83633 [Job#17321407640055445787134829471250] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:13:44,008 INFO 83633 [Job#17321408240055445847135096689251] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:13:44,009 INFO 83633 [Job#17321408240055445847135096689251] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:13:44,007 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:14:44.007
+2024-11-20 19:14:44,009 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:15:44.009
+2024-11-20 19:14:44,010 INFO 83633 [Job#17321408840075445907137492834252] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:14:44,011 INFO 83633 [Job#17321408840075445907137492834252] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:15:44,008 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:16:44.008
+2024-11-20 19:15:44,009 INFO 83633 [Job#17321409440085445967139461494253] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:15:44,010 INFO 83633 [Job#17321409440085445967139461494253] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:16:44,008 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:17:44.008
+2024-11-20 19:16:44,009 INFO 83633 [Job#17321410040085446027140308411254] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:16:44,010 INFO 83633 [Job#17321410040085446027140308411254] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:17:44,010 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:18:44.010
+2024-11-20 19:17:44,011 INFO 83633 [Job#17321410640095446087142156097255] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:17:44,012 INFO 83633 [Job#17321410640095446087142156097255] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:18:44,010 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:19:44.009
+2024-11-20 19:18:44,010 INFO 83633 [Job#17321411240095446147142660815256] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:18:44,011 INFO 83633 [Job#17321411240095446147142660815256] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:19:44,009 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:20:44.009
+2024-11-20 19:19:44,010 INFO 83633 [Job#17321411840095446207143163386257] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:19:44,011 INFO 83633 [Job#17321411840095446207143163386257] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:20:44,010 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:21:44.010
+2024-11-20 19:20:44,010 INFO 83633 [Job#17321412440105446267144108750258] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:20:44,011 INFO 83633 [Job#17321412440105446267144108750258] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-11-20 19:21:44,012 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:22:44.010
+2024-11-20 19:21:44,010 INFO 83633 [Job#17321413040105446327144889605259] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:21:44,012 INFO 83633 [Job#17321413040105446327144889605259] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:22:44,011 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:23:44.011
+2024-11-20 19:22:44,011 INFO 83633 [Job#17321413640105446387146080970260] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:22:44,012 INFO 83633 [Job#17321413640105446387146080970260] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:23:44,011 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:24:44.011
+2024-11-20 19:23:44,011 INFO 83633 [Job#17321414240115446447146944699261] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:23:44,012 INFO 83633 [Job#17321414240115446447146944699261] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:24:44,010 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:25:44.010
+2024-11-20 19:24:44,011 INFO 83633 [Job#17321414840105446507147095903262] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:24:44,012 INFO 83633 [Job#17321414840105446507147095903262] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:25:44,012 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:26:44.012
+2024-11-20 19:25:44,012 INFO 83633 [Job#17321415440105446567147384007263] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:25:44,013 INFO 83633 [Job#17321415440105446567147384007263] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:26:44,012 INFO 83633 [Job#17321416040115446627149435482264] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:26:44,013 INFO 83633 [Job#17321416040115446627149435482264] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:26:44,011 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:27:44.011
+2024-11-20 19:27:44,021 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:28:44.020
+2024-11-20 19:27:44,027 INFO 83633 [Job#17321416640145446687153523826265] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:27:44,033 INFO 83633 [Job#17321416640145446687153523826265] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 6ms. 
+2024-11-20 19:28:44,022 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:29:44.022
+2024-11-20 19:28:44,022 INFO 83633 [Job#17321417240215446747160842617266] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:28:44,023 INFO 83633 [Job#17321417240215446747160842617266] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:29:44,023 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:30:44.023
+2024-11-20 19:29:44,024 INFO 83633 [Job#17321417840235446807163084312267] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:29:44,024 INFO 83633 [Job#17321417840235446807163084312267] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-11-20 19:30:44,023 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:31:44.023
+2024-11-20 19:30:44,025 INFO 83633 [Job#17321418440235446867163717554268] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:30:44,026 INFO 83633 [Job#17321418440235446867163717554268] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-11-20 19:31:44,024 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:32:44.024
+2024-11-20 19:31:44,025 INFO 83633 [Job#17321419040245446927165036884269] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:31:44,026 INFO 83633 [Job#17321419040245446927165036884269] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-11-20 19:32:44,030 INFO 83621 [Timer] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-20 19:33:44.026
+2024-11-20 19:32:44,031 INFO 83633 [Job#17321419640255446987167194443270] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js executing by app
+2024-11-20 19:32:44,035 INFO 83633 [Job#17321419640255446987167194443270] /Users/Rodrigo/development/github/tomato-work-server/app/schedule/reminder.js execute succeed, used 4ms. 
