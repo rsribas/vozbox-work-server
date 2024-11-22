@@ -78,33 +78,33 @@
     "onerror": {
       "errorPageUrl": "",
       "appErrorFilter": null,
-      "templatePath": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-onerror/lib/onerror_page.mustache"
+      "templatePath": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-onerror/lib/onerror_page.mustache"
     },
     "i18n": {
       "defaultLocale": "en_US",
       "dirs": [
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-session/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-jsonp/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-onerror/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-i18n/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-watcher/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-schedule/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-development/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-logrotator/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-static/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-view/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-sequelize/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-passport/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-passport-github/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-passport-local/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-mailer/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-validate/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-crypto/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-cors/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/locales",
-        "/Users/Rodrigo/development/github/tomato-work-server/config/locales"
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-session/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-security/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-jsonp/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-onerror/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-i18n/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-watcher/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-schedule/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-development/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-static/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-view/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-sequelize/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-passport/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-passport-github/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-passport-local/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-mailer/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-validate/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-crypto/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-cors/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg/config/locales",
+        "/Users/Rodrigo/development/github/vozbox-work-server/config/locales"
       ],
       "queryField": "locale",
       "cookieField": "locale",
@@ -115,8 +115,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-watcher/lib/event-sources/default",
-        "development": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-watcher/lib/event-sources/development"
+        "default": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-watcher/lib/event-sources/default",
+        "development": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-watcher/lib/event-sources/development"
       }
     },
     "customLogger": {
@@ -165,14 +165,14 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "/Users/Rodrigo/development/github/tomato-work-server/app/public",
+      "dir": "/Users/Rodrigo/development/github/vozbox-work-server/app/public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
       "maxFiles": 1000
     },
     "view": {
-      "root": "/Users/Rodrigo/development/github/tomato-work-server/app/view",
+      "root": "/Users/Rodrigo/development/github/vozbox-work-server/app/view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
@@ -180,12 +180,35 @@
     },
     "sequelize": {
       "dialect": "mysql",
-      "database": "tomato_work",
+      "database": "",
       "host": "localhost",
       "port": 3306,
       "username": "root",
-      "password": "<String len: 10>",
-      "timezone": "+08:00"
+      "password": "<String len: 0>",
+      "datasources": [
+        {
+          "delegate": "model",
+          "baseDir": "model",
+          "dialect": "mysql",
+          "database": "tomato_work",
+          "host": "localhost",
+          "port": 3306,
+          "username": "root",
+          "password": "xmfobk5332",
+          "timezone": "+08:00"
+        },
+        {
+          "delegate": "model_cdr",
+          "baseDir": "model_cdr",
+          "dialect": "mysql",
+          "database": "banco",
+          "host": "localhost",
+          "port": 3306,
+          "username": "root",
+          "password": "xmfobk5332",
+          "timezone": "+08:00"
+        }
+      ]
     },
     "passportGithub": {
       "key": "489b39e1f91d934128c8",
@@ -292,9 +315,9 @@
       },
       "license": "MIT"
     },
-    "baseDir": "/Users/Rodrigo/development/github/tomato-work-server",
+    "baseDir": "/Users/Rodrigo/development/github/vozbox-work-server",
     "HOME": "/Users/Rodrigo",
-    "rundir": "/Users/Rodrigo/development/github/tomato-work-server/run",
+    "rundir": "/Users/Rodrigo/development/github/vozbox-work-server/run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -327,7 +350,7 @@
       "returnRawBody": true
     },
     "logger": {
-      "dir": "/Users/Rodrigo/development/github/tomato-work-server/logs/tomato-work-server",
+      "dir": "/Users/Rodrigo/development/github/vozbox-work-server/logs/tomato-work-server",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -400,17 +423,17 @@
     },
     "onClientError": null,
     "middleware": [],
-    "title": "Tomato Work",
+    "title": "VozBox",
     "mailer": {
-      "host": "smtp.2980.com",
-      "port": 25,
-      "secure": false,
+      "host": "smtp.gmail.com",
+      "port": 465,
+      "secure": true,
       "auth": {
-        "user": "tomatowork@2980.com",
-        "pass": "<String len: 7>"
+        "user": "rsribas@gmail.com",
+        "pass": "<String len: 19>"
       }
     },
-    "email": "xjh22222228@gmail.com",
+    "email": "rsribas@gmail.com",
     "coreMiddlewares": "~config~coreMiddleware",
     "appMiddlewares": "~config~middleware",
     "appMiddleware": "~config~middleware",
@@ -437,8 +460,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-onerror",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-onerror",
       "version": "2.4.0"
     },
     "session": {
@@ -448,8 +471,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-session",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-session",
       "version": "3.3.0",
       "dependents": [
         "passport"
@@ -462,8 +485,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-i18n",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-i18n",
       "version": "2.1.1"
     },
     "watcher": {
@@ -473,8 +496,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-watcher",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-watcher",
       "version": "3.1.1",
       "dependents": [
         "development"
@@ -489,8 +512,8 @@
         "schedule"
       ],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-multipart",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart",
       "version": "2.13.1"
     },
     "security": {
@@ -502,8 +525,8 @@
         "session"
       ],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-security",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-security",
       "version": "2.11.0"
     },
     "development": {
@@ -517,8 +540,8 @@
       "env": [
         "local"
       ],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-development",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-development",
       "version": "2.7.0"
     },
     "logrotator": {
@@ -530,8 +553,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-logrotator",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator",
       "version": "3.2.0"
     },
     "schedule": {
@@ -541,8 +564,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-schedule",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-schedule",
       "version": "3.7.0",
       "dependents": [
         "logrotator"
@@ -555,8 +578,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-static",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-static",
       "version": "2.3.1"
     },
     "jsonp": {
@@ -568,8 +591,8 @@
         "security"
       ],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-jsonp",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-jsonp",
       "version": "2.0.0"
     },
     "view": {
@@ -579,8 +602,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-view",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-view",
       "version": "2.1.4"
     },
     "sequelize": {
@@ -590,8 +613,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-sequelize",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-sequelize",
       "version": "6.0.0"
     },
     "passport": {
@@ -603,8 +626,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-passport",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-passport",
       "version": "2.1.1",
       "dependents": [
         "passportGithub",
@@ -620,8 +643,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-passport-github",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-passport-github",
       "version": "1.0.0"
     },
     "passportLocal": {
@@ -633,8 +656,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-passport-local",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-passport-local",
       "version": "1.2.1"
     },
     "mailer": {
@@ -644,8 +667,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-mailer",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-mailer",
       "version": "1.5.0"
     },
     "validate": {
@@ -655,8 +678,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-validate",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-validate",
       "version": "2.0.2"
     },
     "crypto": {
@@ -666,8 +689,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-crypto",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-crypto",
       "version": "1.0.0"
     },
     "cors": {
@@ -677,14 +700,14 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Rodrigo/development/github/tomato-work-server/config/plugin.js",
-      "path": "/Users/Rodrigo/development/github/tomato-work-server/node_modules/egg-cors",
+      "from": "/Users/Rodrigo/development/github/vozbox-work-server/config/plugin.js",
+      "path": "/Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-cors",
       "version": "2.2.4"
     }
   },
   "appInfo": {
     "name": "tomato-work-server",
-    "baseDir": "/Users/Rodrigo/development/github/tomato-work-server",
+    "baseDir": "/Users/Rodrigo/development/github/vozbox-work-server",
     "env": "local",
     "scope": "",
     "HOME": "/Users/Rodrigo",
@@ -753,6 +776,6 @@
       },
       "license": "MIT"
     },
-    "root": "/Users/Rodrigo/development/github/tomato-work-server"
+    "root": "/Users/Rodrigo/development/github/vozbox-work-server"
   }
 }

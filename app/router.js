@@ -13,9 +13,11 @@ module.exports = (app) => {
     reminder,
     billType,
     bill,
+    // cdr,
     memorandum,
     innerMessage,
     todoList,
+    cdrList,
     company,
     log,
   } = controller
@@ -47,6 +49,9 @@ module.exports = (app) => {
   router.get('/api/bill/amount/statistics', userRequired, bill.sumAmount)
   router.get('/api/bill/amount/group', userRequired, bill.amountGroup)
 
+  // cdr
+  // router.resources('cdr', '/api/cdr', userRequired, cdr)
+
   // 备忘录
   router.resources('memorandum', '/api/memorandum', userRequired, memorandum)
 
@@ -66,4 +71,7 @@ module.exports = (app) => {
 
   // 日志管理
   router.resources('log', '/api/log', userRequired, log)
+
+  // CDR
+  router.resources('cdrList', '/api/cdrList', userRequired, cdrList)
 }

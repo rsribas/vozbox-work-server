@@ -5,6 +5,7 @@
 import 'egg';
 import ExportBill = require('../../../app/model/bill');
 import ExportBillType = require('../../../app/model/bill_type');
+import ExportCdr = require('../../../app/model/cdr');
 import ExportCompany = require('../../../app/model/company');
 import ExportInnerMessage = require('../../../app/model/inner_message');
 import ExportLog = require('../../../app/model/log');
@@ -19,6 +20,7 @@ declare module 'egg' {
   interface IModel {
     Bill: ReturnType<typeof ExportBill>;
     BillType: ReturnType<typeof ExportBillType>;
+    Cdr: ReturnType<typeof ExportCdr>;
     Company: ReturnType<typeof ExportCompany>;
     InnerMessage: ReturnType<typeof ExportInnerMessage>;
     Log: ReturnType<typeof ExportLog>;

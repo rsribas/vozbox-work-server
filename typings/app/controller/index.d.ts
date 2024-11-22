@@ -5,6 +5,7 @@
 import 'egg';
 import ExportBill = require('../../../app/controller/bill');
 import ExportBillType = require('../../../app/controller/bill_type');
+import ExportCdrList = require('../../../app/controller/cdrList');
 import ExportCommon = require('../../../app/controller/common');
 import ExportCompany = require('../../../app/controller/company');
 import ExportInnerMessage = require('../../../app/controller/inner_message');
@@ -21,6 +22,7 @@ declare module 'egg' {
   interface IController {
     bill: ExportBill;
     billType: ExportBillType;
+    cdrList: ExportCdrList;
     common: ExportCommon;
     company: ExportCompany;
     innerMessage: ExportInnerMessage;

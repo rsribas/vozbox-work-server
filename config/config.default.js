@@ -32,17 +32,45 @@ module.exports = (appInfo) => {
     passwordField: 'password',
   }
 
-  config.title = 'Tomato Work'
+  config.title = 'VozBox'
 
   // 数据库配置 [必须]
-  config.sequelize = {
-    dialect: 'mysql',
-    database: 'tomato_work',
-    host: 'localhost',
-    port: 3306,
-    username: 'root',
-    password: 'xmfobk5332',
-    timezone: '+08:00',
+  // config.sequelize = {
+  //   dialect: 'mysql',
+  //   database: 'tomato_work',
+  //   host: 'localhost',
+  //   port: 3306,
+  //   username: 'root',
+  //   password: 'xmfobk5332',
+  //   timezone: '+08:00',
+  // }
+
+   // 数据库配置 [必须]
+   config.sequelize = {
+    datasources: [
+      {
+        delegate: 'model',
+        baseDir: 'model',
+        dialect: 'mysql',
+        database: 'tomato_work',
+        host: 'localhost',
+        port: 3306,
+        username: 'root',
+        password: 'xmfobk5332',
+        timezone: '+08:00',
+      },
+      {
+        delegate: 'model_cdr',
+        baseDir: 'model_cdr',
+        dialect: 'mysql',
+        database: 'banco',
+        host: 'localhost',
+        port: 3306,
+        username: 'root',
+        password: 'xmfobk5332',
+        timezone: '+08:00',
+      },
+    ],
   }
 
   // github配置信息 [可选, 默认使用作者的信息, 但启动端口不可修改]
@@ -57,17 +85,17 @@ module.exports = (appInfo) => {
 
   // 邮箱配置信息 [可选, 默认使用测试账号]
   config.mailer = {
-    host: 'smtp.2980.com',
-    port: 25,
-    secure: false,
+    host: 'smtp.gmail.com',
+    port: 465,
+    secure: true,
     auth: {
-      user: 'tomatowork@2980.com',
-      pass: 'a123456',
+      user: 'rsribas@gmail.com',
+      pass: 'zwtt pddc hljz zwrg',
     },
   }
 
   // 自己邮箱, 用于通知报告
-  config.email = 'xjh22222228@gmail.com'
+  config.email = 'rsribas@gmail.com'
 
   config.cors = {
     origin: '*',
