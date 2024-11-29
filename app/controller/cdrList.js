@@ -28,7 +28,9 @@ class CdrList extends Controller {
       endDate,
     } = ctx.query
 
+
     try {
+    //   const result = await service.cdrList.findUnfinishedByUid({
       const result = await service.cdrList.findAndCountAllByUid({
         offset: pageNo * pageSize,
         limit: (pageNo + 1) * pageSize,

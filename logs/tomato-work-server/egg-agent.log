@@ -1,192 +1,510 @@
-2024-11-22 00:15:35,817 INFO 99813 [egg-logrotator] agent logger reload: got log-reload message
-2024-11-22 00:38:44,025 ERROR 99813 nodejs.ClusterClientNoResponseError: client no response in 928962ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+2024-11-29 00:01:34,149 INFO 27020 [egg-logrotator] agent logger reload: got log-reload message
+2024-11-29 00:10:38,025 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504485ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
     at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
     at listOnTimeout (node:internal/timers:594:17)
     at process.processTimers (node:internal/timers:529:7)
 name: "ClusterClientNoResponseError"
-pid: 99813
+pid: 27020
 hostname: CEREBRUM.local
 
-2024-11-22 01:59:55,025 ERROR 99813 nodejs.ClusterClientNoResponseError: client no response in 4830987ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+2024-11-29 00:19:43,024 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505187ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
     at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
     at listOnTimeout (node:internal/timers:594:17)
     at process.processTimers (node:internal/timers:529:7)
 name: "ClusterClientNoResponseError"
-pid: 99813
+pid: 27020
 hostname: CEREBRUM.local
 
-2024-11-22 06:03:00,024 ERROR 99813 nodejs.ClusterClientNoResponseError: client no response in 14524984ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+2024-11-29 00:28:48,024 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505357ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
     at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
     at listOnTimeout (node:internal/timers:594:17)
     at process.processTimers (node:internal/timers:529:7)
 name: "ClusterClientNoResponseError"
-pid: 99813
+pid: 27020
 hostname: CEREBRUM.local
 
-2024-11-22 06:09:27,025 ERROR 99813 nodejs.ClusterClientNoResponseError: client no response in 326984ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+2024-11-29 00:37:53,029 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504382ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
     at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
     at listOnTimeout (node:internal/timers:594:17)
     at process.processTimers (node:internal/timers:529:7)
 name: "ClusterClientNoResponseError"
-pid: 99813
+pid: 27020
 hostname: CEREBRUM.local
 
-2024-11-22 06:34:27,026 ERROR 99813 nodejs.ClusterClientNoResponseError: client no response in 879963ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+2024-11-29 00:46:58,025 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505182ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
     at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
     at listOnTimeout (node:internal/timers:594:17)
     at process.processTimers (node:internal/timers:529:7)
 name: "ClusterClientNoResponseError"
-pid: 99813
+pid: 27020
 hostname: CEREBRUM.local
 
-2024-11-22 06:58:49,101 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/config/config.default.js change
-2024-11-22 06:58:48,893 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4260312,"size":2345,"blocks":8,"atimeMs":1732211318687.763,"mtimeMs":1732269528823.1633,"ctimeMs":1732269528823.1633,"birthtimeMs":1732142488124.8142},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 07:31:09,018 ERROR 99813 nodejs.ClusterClientNoResponseError: client no response in 154421ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+2024-11-29 00:56:03,025 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505187ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
     at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
     at listOnTimeout (node:internal/timers:594:17)
     at process.processTimers (node:internal/timers:529:7)
 name: "ClusterClientNoResponseError"
-pid: 99813
+pid: 27020
 hostname: CEREBRUM.local
 
-2024-11-22 07:54:43,028 ERROR 99813 nodejs.ClusterClientNoResponseError: client no response in 1353991ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+2024-11-29 01:05:08,021 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505186ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
     at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
     at listOnTimeout (node:internal/timers:594:17)
     at process.processTimers (node:internal/timers:529:7)
 name: "ClusterClientNoResponseError"
-pid: 99813
+pid: 27020
 hostname: CEREBRUM.local
 
-2024-11-22 08:17:07,025 ERROR 99813 nodejs.ClusterClientNoResponseError: client no response in 663946ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+2024-11-29 01:14:13,028 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505415ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
     at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
     at listOnTimeout (node:internal/timers:594:17)
     at process.processTimers (node:internal/timers:529:7)
 name: "ClusterClientNoResponseError"
-pid: 99813
+pid: 27020
 hostname: CEREBRUM.local
 
-2024-11-22 08:57:43,021 ERROR 99813 nodejs.ClusterClientNoResponseError: client no response in 1755005ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+2024-11-29 01:23:18,031 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504229ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
     at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
     at listOnTimeout (node:internal/timers:594:17)
     at process.processTimers (node:internal/timers:529:7)
 name: "ClusterClientNoResponseError"
-pid: 99813
+pid: 27020
 hostname: CEREBRUM.local
 
-2024-11-22 08:58:59,063 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model copy","stat":{"dev":16777220,"mode":16877,"nlink":14,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4493762,"size":448,"blocks":0,"atimeMs":1732276739029.2136,"mtimeMs":1732276739020.9966,"ctimeMs":1732276739020.9966,"birthtimeMs":1732276739005.7476},"remove":false,"isDirectory":true,"isFile":false}
-2024-11-22 08:59:07,047 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model copy/model copy","stat":null,"remove":true,"isDirectory":false,"isFile":false}
-2024-11-22 08:59:07,051 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model copy","stat":null,"remove":true,"isDirectory":true,"isFile":false}
-2024-11-22 08:59:07,053 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model copy","remove":true,"isDirectory":false,"isFile":false}
-2024-11-22 08:59:07,053 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr","stat":{"dev":16777220,"mode":16877,"nlink":14,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4493762,"size":448,"blocks":0,"atimeMs":1732276739029.2136,"mtimeMs":1732276739020.9966,"ctimeMs":1732276747033.411,"birthtimeMs":1732276739005.7476},"remove":false,"isDirectory":true,"isFile":false}
-2024-11-22 08:59:07,253 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model copy rename
-2024-11-22 08:59:41,130 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/todo_list.js change
-2024-11-22 08:59:40,928 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/todo_list.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4493772,"size":729,"blocks":8,"atimeMs":1732276780926.8416,"mtimeMs":1732276780865.7466,"ctimeMs":1732276780865.7466,"birthtimeMs":1732276739018.561},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 09:00:33,758 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/bill_type.js","remove":true,"isDirectory":false,"isFile":false}
-2024-11-22 09:00:33,959 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/bill_type.js rename
-2024-11-22 09:01:17,259 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/bill.js rename
-2024-11-22 09:01:17,058 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/bill.js","remove":true,"isDirectory":false,"isFile":false}
-2024-11-22 09:01:28,593 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/cdr.js rename
-2024-11-22 09:01:28,392 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/cdr.js","remove":true,"isDirectory":false,"isFile":false}
-2024-11-22 09:01:56,600 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/company.js rename
-2024-11-22 09:01:56,398 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/company.js","remove":true,"isDirectory":false,"isFile":false}
-2024-11-22 09:02:02,407 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/inner_message.js","remove":true,"isDirectory":false,"isFile":false}
-2024-11-22 09:02:02,607 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/inner_message.js rename
-2024-11-22 09:02:07,212 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/log.js rename
-2024-11-22 09:02:07,010 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/log.js","remove":true,"isDirectory":false,"isFile":false}
-2024-11-22 09:02:11,280 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/memorandum.js","remove":true,"isDirectory":false,"isFile":false}
-2024-11-22 09:02:11,481 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/memorandum.js rename
-2024-11-22 09:02:17,816 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/reminder.js rename
-2024-11-22 09:02:17,614 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/reminder.js","remove":true,"isDirectory":false,"isFile":false}
-2024-11-22 09:02:23,129 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/task.js rename
-2024-11-22 09:02:22,929 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/task.js","remove":true,"isDirectory":false,"isFile":false}
-2024-11-22 09:02:52,070 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/todo_list.js change
-2024-11-22 09:02:51,868 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/todo_list.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4493772,"size":728,"blocks":8,"atimeMs":1732276971867.3853,"mtimeMs":1732276971806.0884,"ctimeMs":1732276971806.0884,"birthtimeMs":1732276739018.561},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 09:02:59,402 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/todo_list.js","remove":true,"isDirectory":false,"isFile":false}
-2024-11-22 09:02:59,403 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/cdr_list.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4493772,"size":728,"blocks":8,"atimeMs":1732276972369.5798,"mtimeMs":1732276971806.0884,"ctimeMs":1732276979389.9985,"birthtimeMs":1732276739018.561},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 09:02:59,622 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/cdr_list.js rename
-2024-11-22 09:25:32,030 ERROR 99813 nodejs.ClusterClientNoResponseError: client no response in 270149ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+2024-11-29 01:32:37,027 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 379112ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
     at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
     at listOnTimeout (node:internal/timers:594:17)
     at process.processTimers (node:internal/timers:529:7)
 name: "ClusterClientNoResponseError"
-pid: 99813
+pid: 27020
 hostname: CEREBRUM.local
 
-2024-11-22 09:26:11,672 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/config/config.default.js change
-2024-11-22 09:26:11,470 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4260312,"size":2373,"blocks":8,"atimeMs":1732278371469.1401,"mtimeMs":1732278371407.3506,"ctimeMs":1732278371407.3506,"birthtimeMs":1732142488124.8142},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 09:45:48,029 ERROR 99813 nodejs.ClusterClientNoResponseError: client no response in 90754ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+2024-11-29 01:41:42,024 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505246ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
     at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
     at listOnTimeout (node:internal/timers:594:17)
     at process.processTimers (node:internal/timers:529:7)
 name: "ClusterClientNoResponseError"
-pid: 99813
+pid: 27020
 hostname: CEREBRUM.local
 
-2024-11-22 09:45:57,890 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4260312,"size":2355,"blocks":8,"atimeMs":1732279557889.538,"mtimeMs":1732279557829.1458,"ctimeMs":1732279557829.1458,"birthtimeMs":1732142488124.8142},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 09:45:58,093 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/config/config.default.js change
-2024-11-22 10:16:41,024 ERROR 99813 nodejs.ClusterClientNoResponseError: client no response in 977037ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+2024-11-29 01:50:47,030 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505261ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
     at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
     at listOnTimeout (node:internal/timers:594:17)
     at process.processTimers (node:internal/timers:529:7)
 name: "ClusterClientNoResponseError"
-pid: 99813
+pid: 27020
 hostname: CEREBRUM.local
 
-2024-11-22 10:18:07,344 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/config/config.default.js change
-2024-11-22 10:18:07,143 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4260312,"size":2354,"blocks":8,"atimeMs":1732279560497.7666,"mtimeMs":1732281487054.5166,"ctimeMs":1732281487054.5166,"birthtimeMs":1732142488124.8142},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 10:19:19,667 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/config/config.default.js change
-2024-11-22 10:19:19,466 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4260312,"size":2354,"blocks":8,"atimeMs":1732281559434.4197,"mtimeMs":1732281559402.9548,"ctimeMs":1732281559402.9548,"birthtimeMs":1732142488124.8142},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 10:20:29,991 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/config/config.default.js change
-2024-11-22 10:20:29,790 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4260312,"size":2354,"blocks":8,"atimeMs":1732281629752.938,"mtimeMs":1732281629726.996,"ctimeMs":1732281629726.996,"birthtimeMs":1732142488124.8142},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 10:24:23,327 WARN 99813 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/config/config.default.js change
-2024-11-22 10:24:23,126 INFO 99813 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4260312,"size":2356,"blocks":8,"atimeMs":1732281863093.3645,"mtimeMs":1732281863064.3909,"ctimeMs":1732281863064.3909,"birthtimeMs":1732142488124.8142},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 10:33:01,304 INFO 4468 [egg:logger] init all loggers with options: {"dir":"/Users/Rodrigo/development/github/vozbox-work-server/logs/tomato-work-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tomato-work-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
-2024-11-22 10:33:02,231 INFO 4468 [egg:core] dump config after load, 7ms
-2024-11-22 10:33:02,319 INFO 4468 [egg-watcher] Start watching: ["/Users/Rodrigo/development/github/vozbox-work-server/app","/Users/Rodrigo/development/github/vozbox-work-server/config","/Users/Rodrigo/development/github/vozbox-work-server/mocks","/Users/Rodrigo/development/github/vozbox-work-server/mocks_proxy","/Users/Rodrigo/development/github/vozbox-work-server/app.js"]
-2024-11-22 10:33:02,320 INFO 4468 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/vozbox-work-server/app"
-2024-11-22 10:33:02,320 INFO 4468 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/vozbox-work-server/config"
-2024-11-22 10:33:02,320 INFO 4468 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/vozbox-work-server/mocks"
-2024-11-22 10:33:02,320 INFO 4468 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/vozbox-work-server/mocks_proxy"
-2024-11-22 10:33:02,320 INFO 4468 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/vozbox-work-server/app.js"
-2024-11-22 10:33:02,321 INFO 4468 [egg-watcher:agent] watcher start success
-2024-11-22 10:33:02,449 INFO 4468 [egg:core] dump config after ready, 4ms
-2024-11-22 10:33:02,430 INFO 4468 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
-2024-11-22 10:33:02,433 INFO 4468 [egg-sequelize](4ms) Executed (default): SELECT 1+1 AS result
-2024-11-22 11:18:53,713 WARN 4468 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/user_configure.js rename
-2024-11-22 11:18:53,510 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/user_configure.js","remove":true,"isDirectory":false,"isFile":false}
-2024-11-22 11:19:01,010 WARN 4468 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/user.js rename
-2024-11-22 11:19:00,809 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/user.js","remove":true,"isDirectory":false,"isFile":false}
-2024-11-22 11:21:18,221 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4260279,"size":1858,"blocks":8,"atimeMs":1732285278219.0017,"mtimeMs":1732285278157.655,"ctimeMs":1732285278157.655,"birthtimeMs":1732142488097.7268},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:21:18,423 WARN 4468 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/router.js change
-2024-11-22 11:21:29,631 WARN 4468 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/router.js change
-2024-11-22 11:21:29,380 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4260279,"size":1871,"blocks":8,"atimeMs":1732285280413.24,"mtimeMs":1732285289368.412,"ctimeMs":1732285289368.412,"birthtimeMs":1732142488097.7268},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:21:29,430 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4260279,"size":1871,"blocks":8,"atimeMs":1732285289429.7163,"mtimeMs":1732285289368.412,"ctimeMs":1732285289368.412,"birthtimeMs":1732142488097.7268},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:22:19,916 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4501833,"size":0,"blocks":0,"atimeMs":1732285339852.9746,"mtimeMs":1732285339852.9746,"ctimeMs":1732285339852.9746,"birthtimeMs":1732285339852.9746},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:22:20,117 WARN 4468 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js rename
-2024-11-22 11:22:26,955 WARN 4468 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js rename
-2024-11-22 11:22:26,700 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4501833,"size":2173,"blocks":8,"atimeMs":1732285339852.9746,"mtimeMs":1732285346687.44,"ctimeMs":1732285346687.44,"birthtimeMs":1732285339852.9746},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:22:26,754 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4501833,"size":2173,"blocks":8,"atimeMs":1732285339852.9746,"mtimeMs":1732285346687.44,"ctimeMs":1732285346687.44,"birthtimeMs":1732285339852.9746},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:25:50,345 WARN 4468 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js change
-2024-11-22 11:25:50,143 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4501833,"size":2172,"blocks":8,"atimeMs":1732285550109.9167,"mtimeMs":1732285550080.24,"ctimeMs":1732285550080.24,"birthtimeMs":1732285339852.9746},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:26:25,541 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4501833,"size":2171,"blocks":8,"atimeMs":1732285585509.378,"mtimeMs":1732285585478.471,"ctimeMs":1732285585478.471,"birthtimeMs":1732285339852.9746},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:26:25,743 WARN 4468 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js change
-2024-11-22 11:27:52,938 WARN 4468 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/service/cdr_list.js rename
-2024-11-22 11:27:52,738 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/service/cdr_list.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4502150,"size":0,"blocks":0,"atimeMs":1732285672675.0686,"mtimeMs":1732285672675.0686,"ctimeMs":1732285672675.0686,"birthtimeMs":1732285672675.0686},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:28:16,521 WARN 4468 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/service/cdr_list.js rename
-2024-11-22 11:28:16,318 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/service/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4502150,"size":0,"blocks":0,"atimeMs":1732285672675.0686,"mtimeMs":1732285672675.0686,"ctimeMs":1732285696261.0728,"birthtimeMs":1732285672675.0686},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:28:16,320 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/service/cdr_list.js","remove":true,"isDirectory":false,"isFile":false}
-2024-11-22 11:28:37,067 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/service/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4502150,"size":1916,"blocks":8,"atimeMs":1732285717067.0981,"mtimeMs":1732285717005.2595,"ctimeMs":1732285717005.2595,"birthtimeMs":1732285672675.0686},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:28:37,268 WARN 4468 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/service/cdrList.js rename
-2024-11-22 11:28:43,740 WARN 4468 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/service/cdrList.js change
-2024-11-22 11:28:43,488 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/service/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4502150,"size":1915,"blocks":8,"atimeMs":1732285718419.864,"mtimeMs":1732285723477.5662,"ctimeMs":1732285723477.5662,"birthtimeMs":1732285672675.0686},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:28:43,540 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/service/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4502150,"size":1915,"blocks":8,"atimeMs":1732285723504.9429,"mtimeMs":1732285723477.5662,"ctimeMs":1732285723477.5662,"birthtimeMs":1732285672675.0686},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:31:01,846 WARN 4468 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js change
-2024-11-22 11:31:01,645 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4501833,"size":2170,"blocks":8,"atimeMs":1732285861615.9062,"mtimeMs":1732285861582.0852,"ctimeMs":1732285861582.0852,"birthtimeMs":1732285339852.9746},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:31:22,490 WARN 4468 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js change
-2024-11-22 11:31:22,289 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4501833,"size":2169,"blocks":8,"atimeMs":1732285882252.2852,"mtimeMs":1732285882226.3489,"ctimeMs":1732285882226.3489,"birthtimeMs":1732285339852.9746},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:31:33,297 WARN 4468 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js change
-2024-11-22 11:31:33,046 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4501833,"size":2168,"blocks":8,"atimeMs":1732285883454.849,"mtimeMs":1732285893035.917,"ctimeMs":1732285893035.917,"birthtimeMs":1732285339852.9746},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:31:33,096 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4501833,"size":2168,"blocks":8,"atimeMs":1732285893096.1826,"mtimeMs":1732285893035.917,"ctimeMs":1732285893035.917,"birthtimeMs":1732285339852.9746},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:31:40,944 WARN 4468 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js change
-2024-11-22 11:31:40,691 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4501833,"size":2167,"blocks":8,"atimeMs":1732285894315.8054,"mtimeMs":1732285900680.1245,"ctimeMs":1732285900680.1245,"birthtimeMs":1732285339852.9746},"remove":false,"isDirectory":false,"isFile":true}
-2024-11-22 11:31:40,743 INFO 4468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/controller/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4501833,"size":2167,"blocks":8,"atimeMs":1732285900708.0198,"mtimeMs":1732285900680.1245,"ctimeMs":1732285900680.1245,"birthtimeMs":1732285339852.9746},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 01:59:52,023 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505223ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 02:08:57,025 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505113ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 02:18:02,278 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505434ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 02:27:07,191 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505295ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 02:36:12,028 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505075ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 02:45:17,025 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505310ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 02:54:22,028 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505323ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 03:03:27,026 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505353ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 03:12:32,023 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505383ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 03:21:37,176 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505542ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 03:30:42,027 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505423ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 03:39:47,185 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505150ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 03:48:52,033 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505170ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 03:57:57,030 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505633ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 04:07:02,019 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504595ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 04:16:07,031 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504490ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 04:25:12,020 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504489ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 04:34:17,238 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504631ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 04:43:22,027 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504463ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 04:52:27,020 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504681ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 05:01:32,030 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504701ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 05:10:37,021 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504499ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 05:19:42,025 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505675ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 05:28:47,180 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504499ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 05:37:52,034 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505399ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 05:46:57,029 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504515ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 05:56:02,175 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504835ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 06:05:07,025 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 506402ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 06:14:12,191 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 502885ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 06:23:17,027 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504298ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 06:32:22,033 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505670ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 06:41:27,176 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504650ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 06:50:32,023 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504363ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 06:59:37,160 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 505676ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 07:08:42,026 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504391ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 07:17:47,040 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504574ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 07:26:52,029 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504402ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 07:35:57,185 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504733ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 07:45:02,028 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 504436ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 07:49:32,027 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 229582ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 08:14:59,435 WARN 27020 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/controller/asterisk_cdr.js change
+2024-11-29 08:14:59,206 INFO 27020 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/controller/asterisk_cdr.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4661244,"size":4111,"blocks":16,"atimeMs":1732819406766.62,"mtimeMs":1732878899104.0947,"ctimeMs":1732878899104.0947,"birthtimeMs":1732652062016.4565},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 08:14:59,232 INFO 27020 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/controller/asterisk_cdr.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4661244,"size":4111,"blocks":16,"atimeMs":1732819406766.62,"mtimeMs":1732878899104.0947,"ctimeMs":1732878899104.0947,"birthtimeMs":1732652062016.4565},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 08:19:31,185 INFO 27020 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4662535,"size":7675,"blocks":16,"atimeMs":1732879171183.1877,"mtimeMs":1732879171122.1467,"ctimeMs":1732879171122.1467,"birthtimeMs":1732652903066.6118},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 08:19:31,389 WARN 27020 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js change
+2024-11-29 08:20:00,076 WARN 27020 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js change
+2024-11-29 08:19:59,871 INFO 27020 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4662535,"size":7672,"blocks":16,"atimeMs":1732879199840.0254,"mtimeMs":1732879199807.9443,"ctimeMs":1732879199807.9443,"birthtimeMs":1732652903066.6118},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 08:21:41,191 WARN 27020 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js change
+2024-11-29 08:21:40,991 INFO 27020 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4662535,"size":7668,"blocks":16,"atimeMs":1732879300955.2588,"mtimeMs":1732879300929.4885,"ctimeMs":1732879300929.4885,"birthtimeMs":1732652903066.6118},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 08:32:51,268 WARN 27020 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/controller/asterisk_cdr.js change
+2024-11-29 08:32:51,063 INFO 27020 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/controller/asterisk_cdr.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4661244,"size":4151,"blocks":16,"atimeMs":1732879971021.5093,"mtimeMs":1732879970995.1638,"ctimeMs":1732879970995.1638,"birthtimeMs":1732652062016.4565},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 08:39:51,279 WARN 27020 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js change
+2024-11-29 08:39:51,077 INFO 27020 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4662535,"size":7760,"blocks":16,"atimeMs":1732880391042.4722,"mtimeMs":1732880391011.9812,"ctimeMs":1732880391011.9812,"birthtimeMs":1732652903066.6118},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 09:11:17,056 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 619286ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 11:50:24,040 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 7846067ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 12:50:42,049 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 3537937ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 15:10:36,054 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 8353784ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 16:41:17,173 ERROR 27020 nodejs.ClusterClientNoResponseError: client no response in 5439817ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/Rodrigo/development/github/vozbox-work-server/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 27020
+hostname: CEREBRUM.local
+
+2024-11-29 16:59:18,238 INFO 27020 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/asterisk_cdr.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4661435,"size":1900,"blocks":8,"atimeMs":1732910358200.2324,"mtimeMs":1732910358173.0044,"ctimeMs":1732910358173.0044,"birthtimeMs":1732652137619.9424},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 16:59:18,443 WARN 27020 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/asterisk_cdr.js change
+2024-11-29 17:01:16,881 WARN 27020 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/asterisk_cdr.js change
+2024-11-29 17:01:16,680 INFO 27020 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/asterisk_cdr.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4661435,"size":1903,"blocks":8,"atimeMs":1732910476630.5623,"mtimeMs":1732910476596.9211,"ctimeMs":1732910476596.9211,"birthtimeMs":1732652137619.9424},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 17:03:46,581 INFO 51669 [egg:logger] init all loggers with options: {"dir":"/Users/Rodrigo/development/github/vozbox-work-server/logs/tomato-work-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tomato-work-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2024-11-29 17:03:47,404 INFO 51669 [egg:core] dump config after load, 8ms
+2024-11-29 17:03:47,477 INFO 51669 [egg-watcher] Start watching: ["/Users/Rodrigo/development/github/vozbox-work-server/app","/Users/Rodrigo/development/github/vozbox-work-server/config","/Users/Rodrigo/development/github/vozbox-work-server/mocks","/Users/Rodrigo/development/github/vozbox-work-server/mocks_proxy","/Users/Rodrigo/development/github/vozbox-work-server/app.js"]
+2024-11-29 17:03:47,477 INFO 51669 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/vozbox-work-server/app"
+2024-11-29 17:03:47,478 INFO 51669 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/vozbox-work-server/config"
+2024-11-29 17:03:47,478 INFO 51669 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/vozbox-work-server/mocks"
+2024-11-29 17:03:47,478 INFO 51669 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/vozbox-work-server/mocks_proxy"
+2024-11-29 17:03:47,478 INFO 51669 [egg-watcher] Start watching: "/Users/Rodrigo/development/github/vozbox-work-server/app.js"
+2024-11-29 17:03:47,480 INFO 51669 [egg-watcher:agent] watcher start success
+2024-11-29 17:03:47,592 INFO 51669 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result
+2024-11-29 17:03:47,597 INFO 51669 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2024-11-29 17:03:47,785 INFO 51669 [egg:core] dump config after ready, 3ms
+2024-11-29 17:04:34,988 WARN 51669 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/cdrList.js change
+2024-11-29 17:04:34,785 INFO 51669 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4493772,"size":1068,"blocks":8,"atimeMs":1732910674753.0725,"mtimeMs":1732910674723.5068,"ctimeMs":1732910674723.5068,"birthtimeMs":1732276739018.561},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 17:05:33,066 WARN 51669 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/cdrList.js change
+2024-11-29 17:05:32,864 INFO 51669 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4493772,"size":1111,"blocks":8,"atimeMs":1732910732829.6035,"mtimeMs":1732910732801.4055,"ctimeMs":1732910732801.4055,"birthtimeMs":1732276739018.561},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 17:06:09,389 INFO 51669 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4493772,"size":1192,"blocks":8,"atimeMs":1732910769353.915,"mtimeMs":1732910769326.7827,"ctimeMs":1732910769326.7827,"birthtimeMs":1732276739018.561},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 17:06:09,586 INFO 51669 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4493772,"size":1192,"blocks":8,"atimeMs":1732910769353.915,"mtimeMs":1732910769574.8103,"ctimeMs":1732910769574.8103,"birthtimeMs":1732276739018.561},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 17:06:09,637 INFO 51669 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/cdrList.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4493772,"size":1192,"blocks":8,"atimeMs":1732910769353.915,"mtimeMs":1732910769574.8103,"ctimeMs":1732910769574.8103,"birthtimeMs":1732276739018.561},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 17:06:09,839 WARN 51669 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/model_cdr/cdrList.js change
+2024-11-29 17:07:10,550 INFO 51669 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/constants/index.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4260264,"size":676,"blocks":8,"atimeMs":1732910830522.9854,"mtimeMs":1732910830457.523,"ctimeMs":1732910830457.523,"birthtimeMs":1732142488081.468},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 17:07:10,752 WARN 51669 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/constants/index.js change
+2024-11-29 17:21:06,797 WARN 51669 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/controller/asterisk_cdr.js change
+2024-11-29 17:21:06,594 INFO 51669 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/controller/asterisk_cdr.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4661244,"size":4163,"blocks":16,"atimeMs":1732911666591.5977,"mtimeMs":1732911666529.4902,"ctimeMs":1732911666529.4902,"birthtimeMs":1732652062016.4565},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 17:21:39,891 INFO 51669 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/controller/asterisk_cdr.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4661244,"size":4151,"blocks":16,"atimeMs":1732911699850.2378,"mtimeMs":1732911699825.5837,"ctimeMs":1732911699825.5837,"birthtimeMs":1732652062016.4565},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 17:21:40,092 WARN 51669 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/controller/asterisk_cdr.js change
+2024-11-29 17:24:16,724 INFO 51669 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4662535,"size":7757,"blocks":16,"atimeMs":1732911856672.264,"mtimeMs":1732911856605.426,"ctimeMs":1732911856605.426,"birthtimeMs":1732652903066.6118},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 17:24:16,926 WARN 51669 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js change
+2024-11-29 17:27:36,592 WARN 51669 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js change
+2024-11-29 17:27:36,389 INFO 51669 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4662535,"size":7693,"blocks":16,"atimeMs":1732912056358.5088,"mtimeMs":1732912056327.632,"ctimeMs":1732912056327.632,"birthtimeMs":1732652903066.6118},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 17:28:40,090 WARN 51669 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js change
+2024-11-29 17:28:39,889 INFO 51669 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4662535,"size":7696,"blocks":16,"atimeMs":1732912119858.1306,"mtimeMs":1732912119828.042,"ctimeMs":1732912119828.042,"birthtimeMs":1732652903066.6118},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 17:29:05,871 WARN 51669 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js change
+2024-11-29 17:29:05,669 INFO 51669 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4662535,"size":7719,"blocks":16,"atimeMs":1732912145632.2524,"mtimeMs":1732912145606.862,"ctimeMs":1732912145606.862,"birthtimeMs":1732652903066.6118},"remove":false,"isDirectory":false,"isFile":true}
+2024-11-29 17:29:22,985 WARN 51669 [agent:development] reload worker because /Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js change
+2024-11-29 17:29:22,784 INFO 51669 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/Rodrigo/development/github/vozbox-work-server/app/service/asterisk_cdr.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":4662535,"size":7722,"blocks":16,"atimeMs":1732912162753.509,"mtimeMs":1732912162721.5112,"ctimeMs":1732912162721.5112,"birthtimeMs":1732652903066.6118},"remove":false,"isDirectory":false,"isFile":true}

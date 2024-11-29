@@ -13,13 +13,14 @@ module.exports = (app) => {
     reminder,
     billType,
     bill,
-    // cdr,
     memorandum,
     innerMessage,
     todoList,
     cdrList,
+    asteriskCdr,
     company,
     log,
+    dashboard
   } = controller
 
   require('./router/user')(app)
@@ -30,6 +31,9 @@ module.exports = (app) => {
   // 公共接口
   router.get('/api/captcha', common.captcha)
   router.get('/api/panel', userRequired, common.getPanelData)
+
+    // Dashboard
+  router.get('/api/dashboard', userRequired, dashboard.getPanelData)
 
   // 系统
   router.get('/api/system/info', userRequired, system.index)
@@ -49,8 +53,6 @@ module.exports = (app) => {
   router.get('/api/bill/amount/statistics', userRequired, bill.sumAmount)
   router.get('/api/bill/amount/group', userRequired, bill.amountGroup)
 
-  // cdr
-  // router.resources('cdr', '/api/cdr', userRequired, cdr)
 
   // 备忘录
   router.resources('memorandum', '/api/memorandum', userRequired, memorandum)
@@ -74,4 +76,6 @@ module.exports = (app) => {
 
   // CDR
   router.resources('cdrList', '/api/cdrList', userRequired, cdrList)
+  router.resources('asteriskCdr', '/api/getCdr', userRequired, asteriskCdr)
+  router.post('/api/getCdr/get', userRequired, asteriskCdr.index)
 }

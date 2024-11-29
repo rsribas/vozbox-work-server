@@ -22,7 +22,7 @@ class InnerMessage extends Controller {
     const id = ctx.params.id
 
     await service.innerMessage.updateUnRead(id)
-    ctx.print = { msg: '已标记已读' }
+    ctx.print = { msg: 'Readed' }
   }
 }
 

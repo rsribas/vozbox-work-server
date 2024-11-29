@@ -3,11 +3,13 @@
 /* eslint-disable */
 
 import 'egg';
+import ExportAsteriskCdr = require('../../../app/controller/asterisk_cdr');
 import ExportBill = require('../../../app/controller/bill');
 import ExportBillType = require('../../../app/controller/bill_type');
 import ExportCdrList = require('../../../app/controller/cdrList');
 import ExportCommon = require('../../../app/controller/common');
 import ExportCompany = require('../../../app/controller/company');
+import ExportDashboard = require('../../../app/controller/dashboard');
 import ExportInnerMessage = require('../../../app/controller/inner_message');
 import ExportLog = require('../../../app/controller/log');
 import ExportMemorandum = require('../../../app/controller/memorandum');
@@ -20,11 +22,13 @@ import ExportUserConfigure = require('../../../app/controller/user_configure');
 
 declare module 'egg' {
   interface IController {
+    asteriskCdr: ExportAsteriskCdr;
     bill: ExportBill;
     billType: ExportBillType;
     cdrList: ExportCdrList;
     common: ExportCommon;
     company: ExportCompany;
+    dashboard: ExportDashboard;
     innerMessage: ExportInnerMessage;
     log: ExportLog;
     memorandum: ExportMemorandum;

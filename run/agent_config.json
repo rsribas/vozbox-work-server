@@ -159,13 +159,13 @@
           "port": 3306,
           "username": "root",
           "password": "xmfobk5332",
-          "timezone": "+08:00"
+          "timezone": "-03:00"
         },
         {
           "delegate": "model_cdr",
           "baseDir": "model_cdr",
           "dialect": "mysql",
-          "database": "banco",
+          "database": "snep",
           "host": "localhost",
           "port": 3306,
           "username": "root",

@@ -7,30 +7,32 @@ class CdrList extends Service {
   async create(data) {
     const { ctx } = this
     const uid = ctx.user.uid
-    return ctx.model.TodoList.create({ uid, ...data })
+    return ctx.model_cdr.TodoList.create({ uid, ...data })
   }
 
   async findAndCountAllByUid(options = {}) {
+    console.log(options);
+    console.log('teste');
     const { ctx, app } = this
-    const uid = ctx.user.uid
-    return ctx.model.TodoList.findAndCountAll({
+    // const uid = ctx.user.uid
+    return ctx.model_cdr.CdrList.findAndCountAll({
       where: {
         [ctx.Op.and]: [
           app.Sequelize.where(
-            app.Sequelize.fn('DATE', app.Sequelize.col('created_at')),
+            app.Sequelize.fn('DATE', app.Sequelize.col('calldate')),
             '<=',
             options.endDate
           ),
           app.Sequelize.where(
-            app.Sequelize.fn('DATE', app.Sequelize.col('created_at')),
+            app.Sequelize.fn('DATE', app.Sequelize.col('calldate')),
             '>=',
             options.startDate
           )
         ],
-        uid,
+        // uid,
       },
       order: [
-        ['createdAt', 'DESC']
+        ['calldate', 'DESC']
       ],
       ...options
     })
@@ -39,14 +41,14 @@ class CdrList extends Service {
   // 检索所有未完成的数据
   async findUnfinishedByUid(options) {
     const { ctx } = this
-    const uid = ctx.user.uid
-    return ctx.model.TodoList.findAndCountAll({
+    // const uid = ctx.user.uid
+    return ctx.model_cdr.CdrList.findAndCountAll({
       where: {
         status: 1,
-        uid,
+        // uid,
       },
       order: [
-        ['createdAt', 'DESC']
+        ['calldate', 'DESC']
       ],
       ...options
     })

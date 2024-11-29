@@ -24,7 +24,8 @@ exports.errorCode = {
 
 // 消息枚举
 exports.MessageTitle = {
-  0: '系统消息'
+  0: '系统消息',
+  1: 'FichaNova'
 }
 
 // 站内消息类型
@@ -37,3 +38,8 @@ exports.messageType = {
     }
   }
 }
+
+// exports.CdrWhere = {
+//   accountcode = '2.01',
+//   begin = '9550'
+// }

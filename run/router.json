@@ -165,6 +165,20 @@
       "GET"
     ],
     "paramNames": [],
+    "path": "/api/dashboard",
+    "regexp": "/^\\/api\\/dashboard(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
     "path": "/api/system/info",
     "regexp": "/^\\/api\\/system\\/info(?:\\/(?=$))?$/",
     "stack": [
@@ -1006,6 +1020,120 @@
     ],
     "path": "/api/cdrList/:id",
     "regexp": "/^\\/api\\/cdrList\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "asteriskCdrs",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/getCdr",
+    "regexp": "/^\\/api\\/getCdr(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "asteriskCdrs",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/getCdr",
+    "regexp": "/^\\/api\\/getCdr(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "asteriskCdr",
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/getCdr/:id",
+    "regexp": "/^\\/api\\/getCdr\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "asteriskCdr",
+    "methods": [
+      "PATCH",
+      "PUT"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/getCdr/:id",
+    "regexp": "/^\\/api\\/getCdr\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "destroy_asteriskCdr",
+    "methods": [
+      "DELETE"
+    ],
+    "paramNames": [
+      {
+        "name": "id",
+        "prefix": "/",
+        "delimiter": "/",
+        "optional": false,
+        "repeat": false,
+        "partial": false,
+        "asterisk": false,
+        "pattern": "[^\\/]+?"
+      }
+    ],
+    "path": "/api/getCdr/:id",
+    "regexp": "/^\\/api\\/getCdr\\/((?:[^\\/]+?))(?:\\/(?=$))?$/",
+    "stack": [
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/getCdr/get",
+    "regexp": "/^\\/api\\/getCdr\\/get(?:\\/(?=$))?$/",
     "stack": [
       "anonymous",
       "wrappedController"

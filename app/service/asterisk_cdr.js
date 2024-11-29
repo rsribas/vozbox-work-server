@@ -3,11 +3,11 @@
 const Service = require('egg').Service
 const dayjs = require('dayjs')
 
-class Cdr extends Service {
+class AsteriskCdr extends Service {
   async create(data) {
     const { ctx } = this
     const uid = ctx.user.uid
-    return ctx.model.Cdr.create({ uid, ...data })
+    return ctx.model.Bill.create({ uid, ...data })
   }
 
   /**
@@ -22,26 +22,18 @@ class Cdr extends Service {
       startDate || dayjs().startOf('hour').subtract(7, 'd').format('YYYY-MM-DD')
     endDate = endDate || dayjs().format('YYYY-MM-DD')
 
-
     const SQLQuery = `
       SELECT 
-      *
-      FROM
-      usuarios;
+      SUM(a.price) AS price,
+      b.type,
+      DATE(a.created_at) AS date
+      from bills AS a,
+      bill_types AS b
+      WHERE a.type_id = b.id AND a.uid = ? AND DATE(a.created_at) >= ? AND DATE(a.created_at) <= ? 
+      GROUP BY b.type,
+      DATE(a.created_at)
+      ORDER BY DATE(a.created_at);
     `
-
-    // const SQLQuery = `
-    //   SELECT 
-    //   SUM(a.price) AS price,
-    //   b.type,
-    //   DATE(a.created_at) AS date
-    //   from bills AS a,
-    //   bill_types AS b
-    //   WHERE a.type_id = b.id AND a.uid = ? AND DATE(a.created_at) >= ? AND DATE(a.created_at) <= ? 
-    //   GROUP BY b.type,
-    //   DATE(a.created_at)
-    //   ORDER BY DATE(a.created_at);
-    // `
 
     const result = await ctx.model.query(SQLQuery, {
       replacements: [uid, startDate, endDate],
@@ -87,7 +79,7 @@ class Cdr extends Service {
 
   async findAndCountAllByUid(options) {
     const { ctx, app } = this
-    const { startDate, endDate, type, typeNameId, keyword, sort } = options
+    const { startDate, endDate, type, typeNameId, keyword, dst, disposition, sort } = options
     const uid = ctx.user.uid
     const offset = options.offset || 0
     const limit = options.limit || Number.MAX_SAFE_INTEGER
@@ -100,44 +92,91 @@ class Cdr extends Service {
     !typeNameId && delete billTypeWhere.id
     !type && delete billTypeWhere.type
 
-    const result = await ctx.model.Bill.findAndCountAll({
+
+    // const result = await ctx.model.Bill.findAndCountAll({
+    //   attributes: [
+    //     'id',
+    //     'uid',
+    //     'price',
+    //     'date',
+    //     'typeId',
+    //     'remark',
+    //     'createdAt',
+    //     'updatedAt',
+    //     [app.Sequelize.col('billType.name'), 'name'],
+    //     [app.Sequelize.col('billType.type'), 'type'],
+    //   ],
+    //   where: {
+    //     [ctx.Op.and]: [
+    //       app.Sequelize.where(
+    //         app.Sequelize.fn('DATE', app.Sequelize.col('bill.created_at')),
+    //         '<=',
+    //         endDate
+    //       ),
+    //       app.Sequelize.where(
+    //         app.Sequelize.fn('DATE', app.Sequelize.col('bill.created_at')),
+    //         '>=',
+    //         startDate
+    //       ),
+    //     ],
+    //     remark: {
+    //       [ctx.Op.like]: `%${keyword}%`,
+    //     },
+    //     uid,
+    //   },
+    //   include: [
+    //     {
+    //       model: ctx.model.BillType,
+    //       as: 'billType',
+    //       where: billTypeWhere,
+    //     },
+    //   ],
+    //   order: [sort],
+    //   raw: true,
+    //   offset,
+    //   limit,
+    // })
+
+    const result = await ctx.model_cdr.AsteriskCdr.findAndCountAll({
       attributes: [
-        'id',
-        'uid',
-        'price',
-        'date',
-        'typeId',
-        'remark',
-        'createdAt',
-        'updatedAt',
-        [app.Sequelize.col('billType.name'), 'name'],
-        [app.Sequelize.col('billType.type'), 'type'],
+        'uniqueid',
+        // 'uid',
+        'calldate',
+        'src',
+        'dst',
+        // 'userfield',
+        'disposition',
+        // [app.Sequelize.col('billType.name'), 'name'],
+        // [app.Sequelize.col('billType.type'), 'type'],
       ],
       where: {
         [ctx.Op.and]: [
           app.Sequelize.where(
-            app.Sequelize.fn('DATE', app.Sequelize.col('bill.created_at')),
+            app.Sequelize.fn('DATE', app.Sequelize.col('calldate')),
             '<=',
             endDate
           ),
           app.Sequelize.where(
-            app.Sequelize.fn('DATE', app.Sequelize.col('bill.created_at')),
+            app.Sequelize.fn('DATE', app.Sequelize.col('calldate')),
             '>=',
             startDate
           ),
         ],
-        remark: {
-          [ctx.Op.like]: `%${keyword}%`,
+        dst: {
+          [ctx.Op.like]: `%${dst}%`,
         },
-        uid,
+        disposition: {
+          [ctx.Op.like]: `%${disposition}%`,
+        },
+        // uid,
       },
-      include: [
-        {
-          model: ctx.model.BillType,
-          as: 'billType',
-          where: billTypeWhere,
-        },
-      ],
+      // include: [
+      //   {
+      //     model: ctx.model.BillType,
+      //     as: 'billType',
+      //     where: billTypeWhere,
+      //   },
+      // ],
       order: [sort],
       raw: true,
       offset,
@@ -278,8 +317,9 @@ class Cdr extends Service {
       type: app.Sequelize.QueryTypes.SELECT,
     })
 
+    const result2 = '2222'
     return result
   }
 }
 
-module.exports = Cdr
+module.exports = AsteriskCdr
