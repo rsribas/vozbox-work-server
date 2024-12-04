@@ -15,16 +15,16 @@ exports.errorCode = {
   // 数据更新失败
   5: null,
 
-  401: '登录失效，请重新登录',
+  401: 'Falha no login, faça login novamente',
 
-  400: '参数效验失败',
+  400: 'Falha na validação do parâmetro',
 
-  500: '服务器内部错误'
+  500: 'Erro interno do servidor'
 }
 
 // 消息枚举
 exports.MessageTitle = {
-  0: '系统消息',
+  0: 'Mensagens do sistema',
   1: 'FichaNova'
 }
 
@@ -34,7 +34,7 @@ exports.messageType = {
   system: {
     welcome: {
       type: 0,
-      content: '欢迎来到Tomato Work, 这将为您提供一站式服务！'
+      content: 'Bem-vindo ao VozBox Work, que fornecerá um serviço completo！'
     }
   }
 }

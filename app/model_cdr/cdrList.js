@@ -1,7 +1,7 @@
 module.exports = app => {
   const { INTEGER, TEXT, TINYINT, DATE, STRING, UUID, UUIDV4 } = app.Sequelize
 
-  const Schema = app.model_cdr.define('cdrs', {
+  const Schema = app.model_cdr.define('cdr', {
     calldate: DATE,
     uniqueid: {
       type: STRING(250),
@@ -44,6 +44,7 @@ module.exports = app => {
   {
     timestamps: false,
     freezetablename: true,
+    tableName: 'cdr',
     underscored: true,
     comment: '活动清单',
     charset: 'utf8mb4',

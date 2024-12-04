@@ -27,14 +27,14 @@ class Dashboard extends Controller {
     const { ctx, service } = this
 
     // let [price, todayTask, unfinishedTodoList, reminder] = await Promise.all([
-    let [busy, noanswer, answered, reminder] = await Promise.all([
+    let [busy, noanswer, answered, total] = await Promise.all([
       // service.bill.findSumPriceByDate(dayjs().format('YYYY-MM-DD')),
       // service.task.findAllByUid({ type: { [ctx.Op.in]: [1, 2] } }),
       // service.todoList.findUnfinishedByUid(),
-      service.dashboard.findAllByUid(null, { disposition: 'BUSY', accountcode: 2.01 }),
-      service.dashboard.findAllByUid(null, { disposition: 'NO ANSWER', accountcode: 2.01 }),
-      service.dashboard.findAllByUid(null, { disposition: 'ANSWERED', accountcode: 2.01 }),
-      service.dashboard.findAllByUid(null, { accountcode: 2.01 }),
+      service.dashboard.findAllByUid(null, { disposition: 'BUSY', accountcode: { [ctx.Op.in]: [2, 2.01] } }),
+      service.dashboard.findAllByUid(null, { disposition: 'NO ANSWER', accountcode: { [ctx.Op.in]: [2, 2.01] } }),
+      service.dashboard.findAllByUid(null, { disposition: 'ANSWERED', accountcode: { [ctx.Op.in]: [2, 2.01] } }),
+      service.dashboard.findAllByUid(null, { accountcode: { [ctx.Op.in]: [2, 2.01] } }),
     ])
 
     // 过滤支出
@@ -44,7 +44,7 @@ class Dashboard extends Controller {
       busyCount: busy.count,
       noanswerCount: noanswer.count,
       answeredCount: answered.count,
-      totalCount: reminder.count,
+      totalCount: total.count,
     }
   }
 }

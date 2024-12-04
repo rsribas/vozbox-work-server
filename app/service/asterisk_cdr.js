@@ -79,10 +79,11 @@ class AsteriskCdr extends Service {
 
   async findAndCountAllByUid(options) {
     const { ctx, app } = this
-    const { startDate, endDate, type, typeNameId, keyword, dst, disposition, sort } = options
+    const { startDate, endDate, type, typeNameId, keyword, dst, disposition, sort, accountcode } = options
     const uid = ctx.user.uid
     const offset = options.offset || 0
     const limit = options.limit || Number.MAX_SAFE_INTEGER
+    const acode = String(accountcode).split(',')
 
     const billTypeWhere = {
       id: typeNameId,
@@ -93,50 +94,6 @@ class AsteriskCdr extends Service {
     !type && delete billTypeWhere.type
 
 
-    // const result = await ctx.model.Bill.findAndCountAll({
-    //   attributes: [
-    //     'id',
-    //     'uid',
-    //     'price',
-    //     'date',
-    //     'typeId',
-    //     'remark',
-    //     'createdAt',
-    //     'updatedAt',
-    //     [app.Sequelize.col('billType.name'), 'name'],
-    //     [app.Sequelize.col('billType.type'), 'type'],
-    //   ],
-    //   where: {
-    //     [ctx.Op.and]: [
-    //       app.Sequelize.where(
-    //         app.Sequelize.fn('DATE', app.Sequelize.col('bill.created_at')),
-    //         '<=',
-    //         endDate
-    //       ),
-    //       app.Sequelize.where(
-    //         app.Sequelize.fn('DATE', app.Sequelize.col('bill.created_at')),
-    //         '>=',
-    //         startDate
-    //       ),
-    //     ],
-    //     remark: {
-    //       [ctx.Op.like]: `%${keyword}%`,
-    //     },
-    //     uid,
-    //   },
-    //   include: [
-    //     {
-    //       model: ctx.model.BillType,
-    //       as: 'billType',
-    //       where: billTypeWhere,
-    //     },
-    //   ],
-    //   order: [sort],
-    //   raw: true,
-    //   offset,
-    //   limit,
-    // })
-
     const result = await ctx.model_cdr.AsteriskCdr.findAndCountAll({
       attributes: [
         'uniqueid',
@@ -144,8 +101,8 @@ class AsteriskCdr extends Service {
         'calldate',
         'src',
         'dst',
-        // 'userfield',
         'disposition',
+        'accountcode',
         // [app.Sequelize.col('billType.name'), 'name'],
         // [app.Sequelize.col('billType.type'), 'type'],
       ],
@@ -167,6 +124,12 @@ class AsteriskCdr extends Service {
         },
         disposition: {
           [ctx.Op.like]: `%${disposition}%`,
+        },
+        // accountcode: {
+        //   [ctx.Op.like]: `%${accountcode}%`,
+        // },
+        accountcode: {
+          [ctx.Op.in]: acode,
         },
         // uid,
       },

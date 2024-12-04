@@ -1,760 +1,314 @@
-2024-11-29 00:10:38,019 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 00:11:38.019
-2024-11-29 00:10:38,025 INFO 46322 [Job#17328498380196154875433193855846] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 00:10:38,026 INFO 46322 [Job#17328498380196154875433193855846] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 00:19:43,017 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 00:20:43.017
-2024-11-29 00:19:43,027 INFO 46322 [Job#17328503830176155420795023685847] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 00:19:43,027 INFO 46322 [Job#17328503830176155420795023685847] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 00:28:48,025 INFO 46322 [Job#17328509280196155966168693698848] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 00:28:48,025 INFO 46322 [Job#17328509280196155966168693698848] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 00:28:48,019 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 00:29:48.019
-2024-11-29 00:37:53,025 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 00:38:53.025
-2024-11-29 00:37:53,031 INFO 46322 [Job#17328514730246156510561160654849] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 00:37:53,032 INFO 46322 [Job#17328514730246156510561160654849] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 00:46:58,021 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 00:47:58.021
-2024-11-29 00:46:58,025 INFO 46322 [Job#17328520180216157055754444778850] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 00:46:58,025 INFO 46322 [Job#17328520180216157055754444778850] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 00:56:03,020 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 00:57:03.020
-2024-11-29 00:56:03,028 INFO 46322 [Job#17328525630206157600952526708851] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 00:56:03,028 INFO 46322 [Job#17328525630206157600952526708851] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 01:05:08,017 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 01:06:08.017
-2024-11-29 01:05:08,183 INFO 46322 [Job#17328531080176158146151707778852] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 01:05:08,186 INFO 46322 [Job#17328531080176158146151707778852] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
-2024-11-29 01:14:13,020 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 01:15:13.020
-2024-11-29 01:14:13,031 INFO 46322 [Job#17328536530206158691577183970853] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 01:14:13,032 INFO 46322 [Job#17328536530206158691577183970853] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 01:23:18,027 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 01:24:18.027
-2024-11-29 01:23:18,031 INFO 46322 [Job#17328541980276159235822740142854] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 01:23:18,192 INFO 46322 [Job#17328541980276159235822740142854] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 161ms. 
-2024-11-29 01:24:17,730 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 01:25:17.730
-2024-11-29 01:24:17,731 INFO 46322 [Job#17328542577306159295823417892855] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 01:24:17,732 INFO 46322 [Job#17328542577306159295823417892855] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 01:25:17,730 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 01:26:17.730
-2024-11-29 01:25:17,732 INFO 46322 [Job#17328543177306159355824083093856] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 01:25:17,733 INFO 46322 [Job#17328543177306159355824083093856] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 01:26:17,733 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 01:27:17.731
-2024-11-29 01:26:17,732 INFO 46322 [Job#17328543777316159415825009333857] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 01:26:17,732 INFO 46322 [Job#17328543777316159415825009333857] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 01:32:37,021 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 01:33:37.021
-2024-11-29 01:32:37,184 INFO 46322 [Job#17328547570216159795114637114858] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 01:32:37,184 INFO 46322 [Job#17328547570216159795114637114858] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 01:41:42,019 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 01:42:42.019
-2024-11-29 01:41:42,179 INFO 46322 [Job#17328553020186160340371993270859] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 01:41:42,180 INFO 46322 [Job#17328553020186160340371993270859] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 01:50:47,026 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 01:51:47.026
-2024-11-29 01:50:47,189 INFO 46322 [Job#17328558470266160885643649520860] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 01:50:47,190 INFO 46322 [Job#17328558470266160885643649520860] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 01:59:52,024 INFO 46322 [Job#17328563920196161430878489383861] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 01:59:52,024 INFO 46322 [Job#17328563920196161430878489383861] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 01:59:52,020 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 02:00:52.020
-2024-11-29 02:08:57,022 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 02:09:57.022
-2024-11-29 02:08:57,025 INFO 46322 [Job#17328569370226161976165157082862] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 02:08:57,026 INFO 46322 [Job#17328569370226161976165157082862] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 02:18:02,027 INFO 46322 [Job#17328574820216162521440465266863] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 02:18:02,028 INFO 46322 [Job#17328574820216162521440465266863] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 02:18:02,189 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 02:19:02.021
-2024-11-29 02:27:07,177 INFO 46322 [Job#17328580270246163066899141229864] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 02:27:07,178 INFO 46322 [Job#17328580270246163066899141229864] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 02:27:07,178 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 02:28:07.175
-2024-11-29 02:36:12,024 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 02:37:12.024
-2024-11-29 02:36:12,028 INFO 46322 [Job#17328585720246163612198089451865] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 02:36:12,029 INFO 46322 [Job#17328585720246163612198089451865] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 02:45:17,021 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 02:46:17.021
-2024-11-29 02:45:17,025 INFO 46322 [Job#17328591170216164157517030397866] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 02:45:17,025 INFO 46322 [Job#17328591170216164157517030397866] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 02:54:22,022 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 02:55:22.022
-2024-11-29 02:54:22,030 INFO 46322 [Job#17328596620226164702851154082867] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 02:54:22,031 INFO 46322 [Job#17328596620226164702851154082867] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 03:03:27,021 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 03:04:27.021
-2024-11-29 03:03:27,027 INFO 46322 [Job#17328602070216165248218082898868] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 03:03:27,027 INFO 46322 [Job#17328602070216165248218082898868] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 03:12:32,019 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 03:13:32.019
-2024-11-29 03:12:32,024 INFO 46322 [Job#17328607520196165793611172082869] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 03:12:32,024 INFO 46322 [Job#17328607520196165793611172082869] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 03:21:37,175 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 03:22:37.175
-2024-11-29 03:21:37,181 INFO 46322 [Job#1732861297027616633918626748870] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 03:21:37,182 INFO 46322 [Job#1732861297027616633918626748870] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 03:30:42,028 INFO 46322 [Job#17328618420216166884602147614871] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 03:30:42,029 INFO 46322 [Job#17328618420216166884602147614871] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 03:30:42,021 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 03:31:42.021
-2024-11-29 03:39:47,163 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 03:40:47.160
-2024-11-29 03:39:47,160 INFO 46322 [Job#17328623870206167429600742056872] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 03:39:47,160 INFO 46322 [Job#17328623870206167429600742056872] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 03:48:52,026 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 03:49:52.026
-2024-11-29 03:48:52,188 INFO 46322 [Job#1732862932026616797546422892873] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 03:48:52,189 INFO 46322 [Job#1732862932026616797546422892873] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 03:57:57,026 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 03:58:57.026
-2024-11-29 03:57:57,030 INFO 46322 [Job#17328634770266168520690269192874] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 03:57:57,030 INFO 46322 [Job#17328634770266168520690269192874] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 04:07:02,190 INFO 46322 [Job#17328640220166169065296754709875] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 04:07:02,198 INFO 46322 [Job#17328640220166169065296754709875] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 8ms. 
-2024-11-29 04:07:02,016 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 04:08:02.016
-2024-11-29 04:16:07,188 INFO 46322 [Job#17328645670276169609796301877876] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 04:16:07,188 INFO 46322 [Job#17328645670276169609796301877876] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 04:16:07,027 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 04:17:07.027
-2024-11-29 04:25:12,016 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 04:26:12.016
-2024-11-29 04:25:12,021 INFO 46322 [Job#17328651120166170154296010356877] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 04:25:12,021 INFO 46322 [Job#17328651120166170154296010356877] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 04:34:17,024 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 04:35:17.024
-2024-11-29 04:34:17,238 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 86142773ms at 2024-11-30 04:30:00.011
-2024-11-29 04:34:17,192 INFO 46322 [Job#17328656570246170698939597950878] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 04:34:17,192 INFO 46322 [Job#17328656570246170698939597950878] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 04:34:17,244 INFO 46322 [Job#173286565721361706991280063536] /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
-2024-11-29 04:34:17,380 INFO 46322 [Job#173286565721361706991280063536] /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 135ms. 
-2024-11-29 04:43:22,021 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 04:44:22.021
-2024-11-29 04:43:22,027 INFO 46322 [Job#17328662020216171243622270549879] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 04:43:22,028 INFO 46322 [Job#17328662020216171243622270549879] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 04:52:27,017 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 04:53:27.017
-2024-11-29 04:52:27,021 INFO 46322 [Job#17328667470176171788314763309880] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 04:52:27,022 INFO 46322 [Job#17328667470176171788314763309880] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 05:01:32,026 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 05:02:32.026
-2024-11-29 05:01:32,030 INFO 46322 [Job#1732867292026617233329488879881] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 05:01:32,031 INFO 46322 [Job#1732867292026617233329488879881] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 05:10:37,017 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 05:11:37.017
-2024-11-29 05:10:37,021 INFO 46322 [Job#17328678370176172877540617122882] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 05:10:37,022 INFO 46322 [Job#17328678370176172877540617122882] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 05:19:42,181 INFO 46322 [Job#17328683820216173423227439544883] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 05:19:42,181 INFO 46322 [Job#17328683820216173423227439544883] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 05:19:42,021 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 05:20:42.021
-2024-11-29 05:28:47,180 INFO 46322 [Job#17328689270316173967753256211884] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 05:28:47,180 INFO 46322 [Job#17328689270316173967753256211884] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 05:28:47,178 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 05:29:47.178
-2024-11-29 05:37:52,028 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 05:38:52.028
-2024-11-29 05:37:52,035 INFO 46322 [Job#17328694720286174513316718912885] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 05:37:52,035 INFO 46322 [Job#17328694720286174513316718912885] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 05:46:57,025 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 05:47:57.025
-2024-11-29 05:46:57,029 INFO 46322 [Job#17328700170256175057843247037886] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 05:46:57,030 INFO 46322 [Job#17328700170256175057843247037886] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 05:56:02,175 INFO 46322 [Job#17328705620256175602542631065887] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 05:56:02,175 INFO 46322 [Job#17328705620256175602542631065887] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 05:56:02,174 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 05:57:02.174
-2024-11-29 06:05:07,021 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 06:06:07.021
-2024-11-29 06:05:07,027 INFO 46322 [Job#17328711070216176149101873007888] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 06:05:07,027 INFO 46322 [Job#17328711070216176149101873007888] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 06:14:12,190 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 06:15:12.190
-2024-11-29 06:14:12,191 INFO 46322 [Job#17328716520246176691832023838889] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 06:14:12,191 INFO 46322 [Job#17328716520246176691832023838889] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 06:23:17,027 INFO 46322 [Job#17328721970236177236335462585890] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 06:23:17,028 INFO 46322 [Job#17328721970236177236335462585890] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 06:23:17,023 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 06:24:17.023
-2024-11-29 06:32:22,034 INFO 46322 [Job#1732872742029617778216248379891] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 06:32:22,035 INFO 46322 [Job#1732872742029617778216248379891] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 06:32:22,029 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 06:33:22.029
-2024-11-29 06:41:27,176 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 06:42:27.176
-2024-11-29 06:41:27,177 INFO 46322 [Job#17328732870196178326522665599892] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 06:41:27,177 INFO 46322 [Job#17328732870196178326522665599892] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 06:50:32,018 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 06:51:32.018
-2024-11-29 06:50:32,023 INFO 46322 [Job#1732873832018617887150710069893] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 06:50:32,024 INFO 46322 [Job#1732873832018617887150710069893] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 06:59:37,160 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 07:00:37.160
-2024-11-29 06:59:37,183 INFO 46322 [Job#17328743770206179416599388544894] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 06:59:37,185 INFO 46322 [Job#17328743770206179416599388544894] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
-2024-11-29 07:08:42,020 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 07:09:42.020
-2024-11-29 07:08:42,028 INFO 46322 [Job#17328749220206179961139997035895] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 07:08:42,028 INFO 46322 [Job#17328749220206179961139997035895] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 07:17:47,030 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 07:18:47.030
-2024-11-29 07:17:47,166 INFO 46322 [Job#17328754670306180505726337200896] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 07:17:47,167 INFO 46322 [Job#17328754670306180505726337200896] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 07:26:52,029 INFO 46322 [Job#17328760120256181050271814634897] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 07:26:52,029 INFO 46322 [Job#17328760120256181050271814634897] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 07:26:52,025 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 07:27:52.025
-2024-11-29 07:35:57,184 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 07:36:57.184
-2024-11-29 07:35:57,185 INFO 46322 [Job#17328765570236181594853926483898] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 07:35:57,186 INFO 46322 [Job#17328765570236181594853926483898] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 07:45:02,174 INFO 46322 [Job#17328771020236182139467699752899] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 07:45:02,176 INFO 46322 [Job#17328771020236182139467699752899] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
-2024-11-29 07:45:02,023 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 07:46:02.023
-2024-11-29 07:49:32,023 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 07:50:32.023
-2024-11-29 07:49:32,189 INFO 46322 [Job#1732877372023618240961580602900] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 07:49:32,189 INFO 46322 [Job#1732877372023618240961580602900] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 07:50:32,879 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 07:51:32.879
-2024-11-29 07:50:32,883 INFO 46322 [Job#1732877432875618246963534216901] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 07:50:32,890 INFO 46322 [Job#1732877432875618246963534216901] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 6ms. 
-2024-11-29 07:51:32,882 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 07:52:32.882
-2024-11-29 07:51:32,884 INFO 46322 [Job#1732877492881618252969727750902] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 07:51:32,887 INFO 46322 [Job#1732877492881618252969727750902] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 3ms. 
-2024-11-29 07:52:32,883 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 07:53:32.883
-2024-11-29 07:52:32,888 INFO 46322 [Job#1732877552883618258971349659903] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 07:52:32,889 INFO 46322 [Job#1732877552883618258971349659903] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 07:53:32,884 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 07:54:32.884
-2024-11-29 07:53:32,885 INFO 46322 [Job#1732877612884618264972182914904] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 07:53:32,885 INFO 46322 [Job#1732877612884618264972182914904] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 07:54:32,886 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 07:55:32.886
-2024-11-29 07:54:32,888 INFO 46322 [Job#1732877672886618270973685986905] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 07:54:32,889 INFO 46322 [Job#1732877672886618270973685986905] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 07:55:32,888 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 07:56:32.888
-2024-11-29 07:55:32,889 INFO 46322 [Job#1732877732886618276974217659906] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 07:55:32,889 INFO 46322 [Job#1732877732886618276974217659906] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 07:56:32,890 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 07:57:32.890
-2024-11-29 07:56:32,891 INFO 46322 [Job#1732877792890618282978086373907] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 07:56:32,891 INFO 46322 [Job#1732877792890618282978086373907] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 07:57:32,892 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 07:58:32.892
-2024-11-29 07:57:32,893 INFO 46322 [Job#1732877852892618288979978885908] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 07:57:32,893 INFO 46322 [Job#1732877852892618288979978885908] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 07:58:32,896 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 07:59:32.896
-2024-11-29 07:58:32,896 INFO 46322 [Job#1732877912894618294981765003909] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 07:58:32,897 INFO 46322 [Job#1732877912894618294981765003909] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 07:59:32,898 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:00:32.898
-2024-11-29 07:59:32,899 INFO 46322 [Job#1732877972896618300983944998910] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 07:59:32,899 INFO 46322 [Job#1732877972896618300983944998910] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 08:00:32,902 INFO 46322 [Job#1732878032899618306986865790911] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:00:32,903 INFO 46322 [Job#1732878032899618306986865790911] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:00:32,899 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:01:32.899
-2024-11-29 08:01:32,910 INFO 46322 [Job#1732878092903618312990885141912] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:01:32,910 INFO 46322 [Job#1732878092903618312990885141912] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 08:01:32,905 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:02:32.905
-2024-11-29 08:02:32,906 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:03:32.906
-2024-11-29 08:02:32,907 INFO 46322 [Job#1732878152906618318993576682913] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:02:32,907 INFO 46322 [Job#1732878152906618318993576682913] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 08:03:32,785 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:04:32.785
-2024-11-29 08:03:32,788 INFO 46322 [Job#1732878212785618324994247634914] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:03:32,789 INFO 46322 [Job#1732878212785618324994247634914] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:04:32,783 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:05:32.783
-2024-11-29 08:04:32,785 INFO 46322 [Job#1732878272783618330995990218915] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:04:32,786 INFO 46322 [Job#1732878272783618330995990218915] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 08:05:32,781 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:06:32.781
-2024-11-29 08:05:32,783 INFO 46322 [Job#1732878332781618336997262262916] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:05:32,784 INFO 46322 [Job#1732878332781618336997262262916] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:06:32,779 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:07:32.777
-2024-11-29 08:06:32,778 INFO 46322 [Job#1732878392777618342997615002917] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:06:32,779 INFO 46322 [Job#1732878392777618342997615002917] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:07:32,776 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:08:32.776
-2024-11-29 08:07:32,779 INFO 46322 [Job#1732878452776618348999729264918] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:07:32,779 INFO 46322 [Job#1732878452776618348999729264918] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 08:08:32,774 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:09:32.774
-2024-11-29 08:08:32,776 INFO 46322 [Job#17328785127746183549101056400919] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:08:32,777 INFO 46322 [Job#17328785127746183549101056400919] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:09:32,771 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:10:32.771
-2024-11-29 08:09:32,772 INFO 46322 [Job#17328785727716183609101925705920] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:09:32,774 INFO 46322 [Job#17328785727716183609101925705920] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
-2024-11-29 08:10:32,768 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:11:32.768
-2024-11-29 08:10:32,770 INFO 46322 [Job#17328786327686183669102855940921] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:10:32,770 INFO 46322 [Job#17328786327686183669102855940921] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 08:11:32,766 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:12:32.766
-2024-11-29 08:11:32,768 INFO 46322 [Job#17328786927666183729103824096922] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:11:32,769 INFO 46322 [Job#17328786927666183729103824096922] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:12:32,764 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:13:32.764
-2024-11-29 08:12:32,772 INFO 46322 [Job#17328787527646183789105945161923] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:12:32,773 INFO 46322 [Job#17328787527646183789105945161923] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:13:32,764 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:14:32.762
-2024-11-29 08:13:32,763 INFO 46322 [Job#17328788127626183849107163224924] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:13:32,765 INFO 46322 [Job#17328788127626183849107163224924] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
-2024-11-29 08:14:32,764 INFO 46322 [Job#17328788727626183909110711358925] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:14:32,765 INFO 46322 [Job#17328788727626183909110711358925] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:14:32,762 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:15:32.762
-2024-11-29 08:15:04,605 INFO 49434 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 08:15:04,605 INFO 49434 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 08:15:04,605 INFO 49434 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 08:15:04,605 INFO 49434 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 08:15:04,605 INFO 49434 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 08:15:32,759 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:16:32.759
-2024-11-29 08:15:32,761 INFO 49434 [Job#17328789327596183969111807366926] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:15:32,767 INFO 49434 [Job#17328789327596183969111807366926] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 4ms. 
-2024-11-29 08:16:32,759 INFO 49434 [Job#17328789927566184029112367349927] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:16:32,763 INFO 49434 [Job#17328789927566184029112367349927] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:16:32,756 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:17:32.756
-2024-11-29 08:17:32,755 INFO 49434 [Job#17328790527546184089113901423928] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:17:32,757 INFO 49434 [Job#17328790527546184089113901423928] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:17:32,754 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:18:32.754
-2024-11-29 08:18:32,968 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:19:32.963
-2024-11-29 08:18:32,969 INFO 49434 [Job#17328791129636184149116018325929] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:18:32,971 INFO 49434 [Job#17328791129636184149116018325929] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
-2024-11-29 08:19:32,972 INFO 49434 [Job#17328791729716184209122916686930] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:19:32,973 INFO 49434 [Job#17328791729716184209122916686930] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:19:32,972 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:20:32.971
-2024-11-29 08:19:35,556 INFO 49546 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 08:19:35,556 INFO 49546 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 08:19:35,556 INFO 49546 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 08:19:35,556 INFO 49546 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 08:19:35,556 INFO 49546 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 08:19:37,698 INFO 49546 [Job#17328791729716184209122916686930] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:19:37,703 INFO 49546 [Job#17328791729716184209122916686930] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 4ms. 
-2024-11-29 08:20:04,367 INFO 49564 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 08:20:04,367 INFO 49564 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 08:20:04,368 INFO 49564 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 08:20:04,368 INFO 49564 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 08:20:04,368 INFO 49564 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 08:20:32,989 INFO 49564 [Job#17328792329786184269128151034931] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:20:33,004 INFO 49564 [Job#17328792329786184269128151034931] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 14ms. 
-2024-11-29 08:20:32,988 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:21:32.988
-2024-11-29 08:21:32,992 INFO 49564 [Job#17328792929906184329137695331932] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:21:32,993 INFO 49564 [Job#17328792929906184329137695331932] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:21:32,990 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:22:32.990
-2024-11-29 08:21:44,996 INFO 49624 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 08:21:44,996 INFO 49624 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 08:21:44,996 INFO 49624 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 08:21:44,996 INFO 49624 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 08:21:44,996 INFO 49624 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 08:22:32,994 INFO 49624 [Job#17328793529936184389138838505933] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:22:33,000 INFO 49624 [Job#17328793529936184389138838505933] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 5ms. 
-2024-11-29 08:22:32,993 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:23:32.993
-2024-11-29 08:23:32,998 INFO 49624 [Job#17328794129976184449141081711934] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:23:32,999 INFO 49624 [Job#17328794129976184449141081711934] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:23:32,997 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:24:32.997
-2024-11-29 08:24:33,001 INFO 49624 [Job#17328794730006184509142479251935] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:24:33,002 INFO 49624 [Job#17328794730006184509142479251935] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:24:33,000 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:25:33.000
-2024-11-29 08:25:33,004 INFO 49624 [Job#17328795330036184569143958642936] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:25:33,005 INFO 49624 [Job#17328795330036184569143958642936] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:25:33,003 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:26:33.003
-2024-11-29 08:26:33,007 INFO 49624 [Job#17328795930066184629145019190937] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:26:33,009 INFO 49624 [Job#17328795930066184629145019190937] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:26:33,006 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:27:33.006
-2024-11-29 08:27:33,010 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:28:33.010
-2024-11-29 08:27:33,010 INFO 49624 [Job#17328796530096184689146547983938] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:27:33,011 INFO 49624 [Job#17328796530096184689146547983938] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:28:33,013 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:29:33.013
-2024-11-29 08:28:33,015 INFO 49624 [Job#17328797130126184749147819270939] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:28:33,016 INFO 49624 [Job#17328797130126184749147819270939] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:29:33,016 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:30:33.016
-2024-11-29 08:29:33,018 INFO 49624 [Job#17328797730166184809149087740940] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:29:33,019 INFO 49624 [Job#17328797730166184809149087740940] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:30:33,019 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:31:33.019
-2024-11-29 08:30:33,020 INFO 49624 [Job#17328798330196184869150529904941] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:30:33,021 INFO 49624 [Job#17328798330196184869150529904941] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:31:33,022 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:32:33.022
-2024-11-29 08:31:33,023 INFO 49624 [Job#17328798930226184929151785404942] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:31:33,024 INFO 49624 [Job#17328798930226184929151785404942] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:32:33,024 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:33:33.024
-2024-11-29 08:32:33,025 INFO 49624 [Job#17328799530246184989152291039943] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:32:33,025 INFO 49624 [Job#17328799530246184989152291039943] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 08:32:55,114 INFO 49890 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 08:32:55,114 INFO 49890 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 08:32:55,114 INFO 49890 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 08:32:55,114 INFO 49890 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 08:32:55,114 INFO 49890 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 08:33:32,905 INFO 49890 [Job#17328800129046185049153680029944] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:33:32,914 INFO 49890 [Job#17328800129046185049153680029944] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 7ms. 
-2024-11-29 08:33:32,904 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:34:32.904
-2024-11-29 08:34:32,905 INFO 49890 [Job#17328800729026185109153845478945] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:34:32,906 INFO 49890 [Job#17328800729026185109153845478945] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:34:32,902 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:35:32.902
-2024-11-29 08:35:32,903 INFO 49890 [Job#17328801329016185169155136712946] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:35:32,908 INFO 49890 [Job#17328801329016185169155136712946] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 4ms. 
-2024-11-29 08:35:32,901 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:36:32.901
-2024-11-29 08:36:32,903 INFO 49890 [Job#17328801929006185229157004931947] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:36:32,904 INFO 49890 [Job#17328801929006185229157004931947] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:36:32,902 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:37:32.902
-2024-11-29 08:37:32,907 INFO 49890 [Job#17328802529006185289159776670948] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:37:32,908 INFO 49890 [Job#17328802529006185289159776670948] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 08:37:32,901 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:38:32.901
-2024-11-29 08:38:32,900 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:39:32.900
-2024-11-29 08:38:32,904 INFO 49890 [Job#17328803128996185349160908333949] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:38:32,906 INFO 49890 [Job#17328803128996185349160908333949] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
-2024-11-29 08:39:32,898 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:40:32.898
-2024-11-29 08:39:32,899 INFO 49890 [Job#17328803728986185409162276887950] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:39:32,900 INFO 49890 [Job#17328803728986185409162276887950] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:39:55,426 INFO 50001 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 08:39:55,427 INFO 50001 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 08:39:55,427 INFO 50001 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 08:39:55,427 INFO 50001 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 08:39:55,427 INFO 50001 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 08:40:32,897 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:41:32.897
-2024-11-29 08:40:32,900 INFO 50001 [Job#17328804328976185469163412674951] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:40:32,906 INFO 50001 [Job#17328804328976185469163412674951] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 5ms. 
-2024-11-29 08:41:32,896 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:42:32.896
-2024-11-29 08:41:32,897 INFO 50001 [Job#17328804928966185529164651344952] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:41:32,898 INFO 50001 [Job#17328804928966185529164651344952] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:42:32,895 INFO 50001 [Job#17328805528956185589165922653953] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:42:32,897 INFO 50001 [Job#17328805528956185589165922653953] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:42:32,895 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:43:32.895
-2024-11-29 08:43:32,906 INFO 50001 [Job#17328806128956185649168693692954] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:43:32,906 INFO 50001 [Job#17328806128956185649168693692954] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 08:43:32,895 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:44:32.895
-2024-11-29 08:44:32,896 INFO 50001 [Job#17328806728936185709169208100955] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:44:32,897 INFO 50001 [Job#17328806728936185709169208100955] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:44:32,895 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:45:32.895
-2024-11-29 08:45:32,895 INFO 50001 [Job#17328807328956185769173073540956] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:45:32,896 INFO 50001 [Job#17328807328956185769173073540956] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 08:45:32,895 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:46:32.895
-2024-11-29 08:46:32,897 INFO 50001 [Job#17328807928946185829174958650957] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:46:32,898 INFO 50001 [Job#17328807928946185829174958650957] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:46:32,894 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:47:32.894
-2024-11-29 08:47:32,894 INFO 50001 [Job#17328808528936185889175855367958] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:47:32,894 INFO 50001 [Job#17328808528936185889175855367958] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 08:47:32,893 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:48:32.893
-2024-11-29 08:48:32,911 INFO 50001 [Job#17328809128996185949184368253959] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:48:32,912 INFO 50001 [Job#17328809128996185949184368253959] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:48:32,899 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:49:32.899
-2024-11-29 08:49:32,898 INFO 50001 [Job#17328809728976186009184923987960] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:49:32,899 INFO 50001 [Job#17328809728976186009184923987960] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:49:32,897 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:50:32.897
-2024-11-29 08:50:32,898 INFO 50001 [Job#17328810328976186069187008050961] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:50:32,898 INFO 50001 [Job#17328810328976186069187008050961] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 08:50:32,897 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:51:32.897
-2024-11-29 08:51:32,897 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:52:32.897
-2024-11-29 08:51:32,899 INFO 50001 [Job#17328810928966186129189002671962] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:51:32,900 INFO 50001 [Job#17328810928966186129189002671962] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:52:32,895 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:53:32.895
-2024-11-29 08:52:32,896 INFO 50001 [Job#17328811528956186189190321644963] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:52:32,897 INFO 50001 [Job#17328811528956186189190321644963] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:53:32,897 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:54:32.897
-2024-11-29 08:53:32,897 INFO 50001 [Job#17328812128956186249192015157964] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:53:32,897 INFO 50001 [Job#17328812128956186249192015157964] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 08:54:32,981 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:55:32.981
-2024-11-29 08:54:32,982 INFO 50001 [Job#17328812729816186309195154260965] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:54:32,982 INFO 50001 [Job#17328812729816186309195154260965] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 08:55:32,984 INFO 50001 [Job#17328813329816186369195268541966] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:55:32,987 INFO 50001 [Job#17328813329816186369195268541966] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 3ms. 
-2024-11-29 08:55:32,991 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:56:32.981
-2024-11-29 08:56:32,992 INFO 50001 [Job#17328813929926186429206800139967] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:56:32,993 INFO 50001 [Job#17328813929926186429206800139967] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:56:32,994 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:57:32.992
-2024-11-29 08:57:32,995 INFO 50001 [Job#17328814529946186489209375229968] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:57:32,995 INFO 50001 [Job#17328814529946186489209375229968] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 08:57:32,994 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:58:32.994
-2024-11-29 08:58:32,995 INFO 50001 [Job#17328815129946186549209620604969] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:58:32,996 INFO 50001 [Job#17328815129946186549209620604969] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:58:32,994 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 08:59:32.994
-2024-11-29 08:59:32,995 INFO 50001 [Job#17328815729946186609210438718970] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 08:59:32,996 INFO 50001 [Job#17328815729946186609210438718970] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 08:59:32,994 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:00:32.994
-2024-11-29 09:00:32,894 INFO 50001 [Job#17328816328936186669210830229971] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:00:32,895 INFO 50001 [Job#17328816328936186669210830229971] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 09:00:32,894 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:01:32.894
-2024-11-29 09:11:17,049 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:12:17.049
-2024-11-29 09:11:17,251 INFO 50001 [Job#17328822770496187313366859451972] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:11:17,255 INFO 50001 [Job#17328822770496187313366859451972] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 4ms. 
-2024-11-29 09:12:17,350 INFO 50001 [Job#17328823373466187373367122123973] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:12:17,350 INFO 50001 [Job#17328823373466187373367122123973] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 09:12:17,347 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:13:17.347
-2024-11-29 09:13:17,347 INFO 50001 [Job#17328823973476187433367948098974] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:13:17,348 INFO 50001 [Job#17328823973476187433367948098974] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 09:13:17,347 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:14:17.347
-2024-11-29 09:14:17,349 INFO 50001 [Job#17328824573476187493368782175975] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:14:17,350 INFO 50001 [Job#17328824573476187493368782175975] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 09:14:17,352 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:15:17.349
-2024-11-29 09:15:17,354 INFO 50001 [Job#17328825173536187553374898775976] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:15:17,354 INFO 50001 [Job#17328825173536187553374898775976] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 09:15:17,353 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:16:17.353
-2024-11-29 09:16:17,355 INFO 50001 [Job#17328825773546187613376612603977] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:16:17,356 INFO 50001 [Job#17328825773546187613376612603977] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 09:16:17,354 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:17:17.354
-2024-11-29 09:17:17,355 INFO 50001 [Job#17328826373546187673377034701978] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:17:17,356 INFO 50001 [Job#17328826373546187673377034701978] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 09:17:17,354 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:18:17.354
-2024-11-29 09:18:17,358 INFO 50001 [Job#17328826973556187733378159634979] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:18:17,359 INFO 50001 [Job#17328826973556187733378159634979] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 09:18:17,357 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:19:17.355
-2024-11-29 09:19:17,358 INFO 50001 [Job#17328827573586187793381249730980] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:19:17,359 INFO 50001 [Job#17328827573586187793381249730980] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 09:19:17,358 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:20:17.358
-2024-11-29 09:20:17,359 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:21:17.359
-2024-11-29 09:20:17,360 INFO 50001 [Job#17328828173596187853382776982981] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:20:17,360 INFO 50001 [Job#17328828173596187853382776982981] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 09:21:17,362 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:22:17.360
-2024-11-29 09:21:17,361 INFO 50001 [Job#17328828773606187913384475280982] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:21:17,362 INFO 50001 [Job#17328828773606187913384475280982] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 09:22:17,363 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:23:17.363
-2024-11-29 09:22:17,364 INFO 50001 [Job#17328829373636187973387806376983] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:22:17,364 INFO 50001 [Job#17328829373636187973387806376983] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 09:23:17,365 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:24:17.365
-2024-11-29 09:23:17,366 INFO 50001 [Job#17328829973656188033389753736984] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:23:17,366 INFO 50001 [Job#17328829973656188033389753736984] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 09:24:17,366 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:25:17.366
-2024-11-29 09:24:17,366 INFO 50001 [Job#17328830573666188093391237476985] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:24:17,367 INFO 50001 [Job#17328830573666188093391237476985] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 09:25:17,369 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:26:17.369
-2024-11-29 09:25:17,370 INFO 50001 [Job#17328831173676188153393057021986] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:25:17,371 INFO 50001 [Job#17328831173676188153393057021986] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 09:26:17,372 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:27:17.372
-2024-11-29 09:26:17,373 INFO 50001 [Job#17328831773706188213396472466987] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:26:17,373 INFO 50001 [Job#17328831773706188213396472466987] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 09:27:17,526 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:28:17.523
-2024-11-29 09:27:17,524 INFO 50001 [Job#17328832375236188273399284472988] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:27:17,527 INFO 50001 [Job#17328832375236188273399284472988] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 3ms. 
-2024-11-29 09:28:17,532 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:29:17.531
-2024-11-29 09:28:17,533 INFO 50001 [Job#17328832975306188333407311734989] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:28:17,535 INFO 50001 [Job#17328832975306188333407311734989] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
-2024-11-29 09:29:17,537 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:30:17.537
-2024-11-29 09:29:17,537 INFO 50001 [Job#17328833575376188393412944120990] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:29:17,539 INFO 50001 [Job#17328833575376188393412944120990] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 09:30:17,540 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:31:17.538
-2024-11-29 09:30:17,539 INFO 50001 [Job#17328834175386188453414034270991] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:30:17,539 INFO 50001 [Job#17328834175386188453414034270991] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 09:31:17,544 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:32:17.542
-2024-11-29 09:31:17,543 INFO 50001 [Job#17328834775426188513417678735992] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:31:17,543 INFO 50001 [Job#17328834775426188513417678735992] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 09:32:17,547 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:33:17.545
-2024-11-29 09:32:17,546 INFO 50001 [Job#17328835375456188573420512893993] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:32:17,546 INFO 50001 [Job#17328835375456188573420512893993] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 09:33:17,550 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:34:17.550
-2024-11-29 09:33:17,550 INFO 50001 [Job#17328835975496188633424890987994] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:33:17,551 INFO 50001 [Job#17328835975496188633424890987994] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 09:34:17,556 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:35:17.554
-2024-11-29 09:34:17,554 INFO 50001 [Job#17328836575516188693426547603995] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:34:17,555 INFO 50001 [Job#17328836575516188693426547603995] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 09:35:17,557 INFO 50001 [Job#17328837175566188753430873452996] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:35:17,557 INFO 50001 [Job#17328837175566188753430873452996] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 09:35:17,556 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:36:17.556
-2024-11-29 09:36:17,561 INFO 50001 [Job#17328837775586188813433151329997] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:36:17,562 INFO 50001 [Job#17328837775586188813433151329997] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 09:36:17,559 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:37:17.559
-2024-11-29 09:37:17,563 INFO 50001 [Job#17328838375596188873434078786998] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:37:17,566 INFO 50001 [Job#17328838375596188873434078786998] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 3ms. 
-2024-11-29 09:37:17,563 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:38:17.560
-2024-11-29 09:38:17,564 INFO 50001 [Job#17328838975646188933438316742999] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:38:17,565 INFO 50001 [Job#17328838975646188933438316742999] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 09:38:17,564 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:39:17.564
-2024-11-29 09:39:17,687 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 09:40:17.685
-2024-11-29 09:39:17,686 INFO 50001 [Job#173288395768561889934406987341000] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 09:39:17,687 INFO 50001 [Job#173288395768561889934406987341000] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 11:50:24,034 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 11:51:24.034
-2024-11-29 11:50:24,257 INFO 50001 [Job#173289182403361968597887548401001] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 11:50:24,257 INFO 50001 [Job#173289182403361968597887548401001] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 11:51:24,066 INFO 50001 [Job#173289188406461969197897859881002] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 11:51:24,067 INFO 50001 [Job#173289188406461969197897859881002] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 11:51:24,064 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 11:52:24.064
-2024-11-29 12:50:42,043 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 12:51:42.043
-2024-11-29 12:50:42,054 INFO 50001 [Job#173289544204362004777660485771003] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 12:50:42,056 INFO 50001 [Job#173289544204362004777660485771003] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 15:10:36,041 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 15:11:36.041
-2024-11-29 15:10:36,055 INFO 50001 [Job#173290383604162088715624850551004] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 15:10:36,056 INFO 50001 [Job#173290383604162088715624850551004] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 16:41:17,130 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:42:16.986
-2024-11-29 16:41:16,978 INFO 50001 [Job#173290927692662143124452316951005] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:41:16,985 INFO 50001 [Job#173290927692662143124452316951005] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 6ms. 
-2024-11-29 16:42:16,606 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:43:16.606
-2024-11-29 16:42:16,609 INFO 50001 [Job#173290933660662143726489831871006] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:42:16,610 INFO 50001 [Job#173290933660662143726489831871006] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 16:43:16,608 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:44:16.608
-2024-11-29 16:43:16,609 INFO 50001 [Job#173290939660862144326508716141007] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:43:16,610 INFO 50001 [Job#173290939660862144326508716141007] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 16:44:16,610 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:45:16.610
-2024-11-29 16:44:16,611 INFO 50001 [Job#173290945661062144926529616831008] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:44:16,612 INFO 50001 [Job#173290945661062144926529616831008] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 16:45:16,613 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:46:16.612
-2024-11-29 16:45:16,613 INFO 50001 [Job#173290951661262145526548855661009] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:45:16,614 INFO 50001 [Job#173290951661262145526548855661009] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 16:46:16,615 INFO 50001 [Job#173290957661462146126565801191010] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:46:16,615 INFO 50001 [Job#173290957661462146126565801191010] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 16:46:16,614 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:47:16.614
-2024-11-29 16:47:16,616 INFO 50001 [Job#173290963661562146726573635651011] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:47:16,616 INFO 50001 [Job#173290963661562146726573635651011] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 16:47:16,615 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:48:16.615
-2024-11-29 16:48:16,616 INFO 50001 [Job#173290969661562147326573803751012] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:48:16,616 INFO 50001 [Job#173290969661562147326573803751012] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 16:48:16,615 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:49:16.615
-2024-11-29 16:49:16,616 INFO 50001 [Job#173290975661562147926573094921013] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:49:16,617 INFO 50001 [Job#173290975661562147926573094921013] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 16:49:16,615 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:50:16.615
-2024-11-29 16:50:16,617 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:51:16.617
-2024-11-29 16:50:16,618 INFO 50001 [Job#173290981661762148526591772971014] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:50:16,619 INFO 50001 [Job#173290981661762148526591772971014] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 16:51:16,619 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:52:16.619
-2024-11-29 16:51:16,619 INFO 50001 [Job#173290987661962149126604425991015] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:51:16,620 INFO 50001 [Job#173290987661962149126604425991015] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 16:52:16,622 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:53:16.620
-2024-11-29 16:52:16,621 INFO 50001 [Job#173290993662062149726616277111016] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:52:16,621 INFO 50001 [Job#173290993662062149726616277111016] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 16:53:16,623 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:54:16.623
-2024-11-29 16:53:16,624 INFO 50001 [Job#173290999662362150326647870551017] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:53:16,624 INFO 50001 [Job#173290999662362150326647870551017] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 16:54:16,625 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:55:16.625
-2024-11-29 16:54:16,625 INFO 50001 [Job#173291005662562150926661317831018] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:54:16,626 INFO 50001 [Job#173291005662562150926661317831018] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 16:55:16,630 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:56:16.630
-2024-11-29 16:55:16,635 INFO 50001 [Job#173291011663062151526715154011019] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:55:16,636 INFO 50001 [Job#173291011663062151526715154011019] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 16:56:16,631 INFO 50001 [Job#173291017663162152126717344241020] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:56:16,632 INFO 50001 [Job#173291017663162152126717344241020] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 16:56:16,631 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:57:16.631
-2024-11-29 16:57:16,632 INFO 50001 [Job#173291023663162152726720863521021] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:57:16,633 INFO 50001 [Job#173291023663162152726720863521021] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 16:57:16,631 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:58:16.631
-2024-11-29 16:58:16,633 INFO 50001 [Job#173291029663362153326738128211022] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:58:16,634 INFO 50001 [Job#173291029663362153326738128211022] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 16:58:16,635 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 16:59:16.633
-2024-11-29 16:59:16,638 INFO 50001 [Job#173291035663762153926778471581023] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 16:59:16,638 INFO 50001 [Job#173291035663762153926778471581023] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 16:59:16,637 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:00:16.637
-2024-11-29 16:59:22,720 INFO 51540 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 16:59:22,720 INFO 51540 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 16:59:22,721 INFO 51540 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 16:59:22,721 INFO 51540 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 16:59:22,721 INFO 51540 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 17:00:16,639 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:01:16.639
-2024-11-29 17:00:16,640 INFO 51540 [Job#173291041663862154526791391561024] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:00:16,643 INFO 51540 [Job#173291041663862154526791391561024] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:01:16,659 INFO 51540 [Job#173291047664762155126876382821025] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:01:16,665 INFO 51540 [Job#173291047664762155126876382821025] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:01:16,647 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:02:16.647
-2024-11-29 17:01:20,898 INFO 51571 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 17:01:20,898 INFO 51571 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 17:01:20,898 INFO 51571 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 17:01:20,898 INFO 51571 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 17:01:20,898 INFO 51571 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 17:02:16,649 INFO 51571 [Job#173291053664862155726884293901026] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:02:16,655 INFO 51571 [Job#173291053664862155726884293901026] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 5ms. 
-2024-11-29 17:02:16,648 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:03:16.648
-2024-11-29 17:03:16,649 INFO 27020 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:04:16.649
-2024-11-29 17:03:16,650 INFO 51571 [Job#173291059664962156326896354281027] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:03:16,651 INFO 51571 [Job#173291059664962156326896354281027] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:03:49,381 INFO 51686 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 17:03:49,381 INFO 51686 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 17:03:49,381 INFO 51686 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 17:03:49,381 INFO 51686 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 17:03:49,381 INFO 51686 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 17:03:50,921 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41169084ms at 2024-11-30 04:30:00.005
-2024-11-29 17:03:50,921 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 24969079ms at 2024-11-30 00:00:00.000
-2024-11-29 17:03:50,922 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24970079ms at 2024-11-30 00:00:01.001
-2024-11-29 17:03:50,922 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute immediate
-2024-11-29 17:03:50,922 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js next time will execute after 25029078ms at 2024-11-30 00:01:00.000
-2024-11-29 17:03:50,924 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:04:50.924
-2024-11-29 17:03:50,924 INFO 51686 [Job#173291063092262156669636914361] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:03:50,928 INFO 51686 [Job#173291063092262156669636914361] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
-2024-11-29 17:04:38,910 INFO 51705 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 17:04:38,911 INFO 51705 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 17:04:38,911 INFO 51705 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 17:04:38,911 INFO 51705 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 17:04:38,911 INFO 51705 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 17:04:50,926 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:05:50.926
-2024-11-29 17:04:50,927 INFO 51705 [Job#173291069092562157269654367142] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:04:50,930 INFO 51705 [Job#173291069092562157269654367142] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 3ms. 
-2024-11-29 17:05:50,928 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:06:50.928
-2024-11-29 17:06:13,432 INFO 51782 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 17:06:13,432 INFO 51782 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 17:06:13,432 INFO 51782 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 17:06:13,433 INFO 51782 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 17:06:13,433 INFO 51782 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 17:06:50,931 INFO 51782 [Job#173291081093062158469694660764] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:06:50,938 INFO 51782 [Job#173291081093062158469694660764] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 6ms. 
-2024-11-29 17:06:50,930 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:07:50.930
-2024-11-29 17:07:14,469 INFO 51826 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 17:07:14,469 INFO 51826 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 17:07:14,470 INFO 51826 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 17:07:14,470 INFO 51826 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 17:07:14,470 INFO 51826 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 17:07:50,934 INFO 51826 [Job#173291087093262159069717185365] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:07:50,941 INFO 51826 [Job#173291087093262159069717185365] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 6ms. 
-2024-11-29 17:07:50,932 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:08:50.932
-2024-11-29 17:08:50,934 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:09:50.934
-2024-11-29 17:08:50,935 INFO 51826 [Job#173291093093462159669736190656] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:08:50,936 INFO 51826 [Job#173291093093462159669736190656] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:09:50,936 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:10:50.936
-2024-11-29 17:09:50,937 INFO 51826 [Job#173291099093662160269753075457] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:09:50,938 INFO 51826 [Job#173291099093662160269753075457] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:10:50,938 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:11:50.938
-2024-11-29 17:10:50,938 INFO 51826 [Job#173291105093862160869771078058] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:10:50,939 INFO 51826 [Job#173291105093862160869771078058] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 17:11:50,940 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:12:50.940
-2024-11-29 17:11:50,941 INFO 51826 [Job#173291111093962161469787738469] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:11:50,942 INFO 51826 [Job#173291111093962161469787738469] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:12:50,943 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:13:50.943
-2024-11-29 17:12:50,943 INFO 51826 [Job#1732911170940621620697935307310] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:12:50,944 INFO 51826 [Job#1732911170940621620697935307310] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:13:50,945 INFO 51826 [Job#1732911230943621626698233860811] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:13:50,946 INFO 51826 [Job#1732911230943621626698233860811] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:13:50,944 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:14:50.943
-2024-11-29 17:14:50,946 INFO 51826 [Job#1732911290944621632698337064112] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:14:50,947 INFO 51826 [Job#1732911290944621632698337064112] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:14:50,945 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:15:50.945
-2024-11-29 17:15:50,947 INFO 51826 [Job#1732911350946621638698507233413] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:15:50,948 INFO 51826 [Job#1732911350946621638698507233413] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:15:50,946 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:16:50.946
-2024-11-29 17:16:50,949 INFO 51826 [Job#1732911410948621644698715371314] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:16:50,951 INFO 51826 [Job#1732911410948621644698715371314] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:16:50,949 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:17:50.949
-2024-11-29 17:17:50,952 INFO 51826 [Job#1732911470950621650698870044415] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:17:50,953 INFO 51826 [Job#1732911470950621650698870044415] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:17:50,950 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:18:50.950
-2024-11-29 17:18:50,952 INFO 51826 [Job#1732911530952621656698999137916] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:18:50,953 INFO 51826 [Job#1732911530952621656698999137916] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:18:50,952 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:19:50.952
-2024-11-29 17:19:50,954 INFO 51826 [Job#1732911590953621662699133420417] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:19:50,955 INFO 51826 [Job#1732911590953621662699133420417] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:19:50,953 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:20:50.953
-2024-11-29 17:20:50,956 INFO 51826 [Job#1732911650955621668699331843218] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:20:50,957 INFO 51826 [Job#1732911650955621668699331843218] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:20:50,955 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:21:50.955
-2024-11-29 17:21:11,574 INFO 52096 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 17:21:11,575 INFO 52096 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 17:21:11,575 INFO 52096 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 17:21:11,575 INFO 52096 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 17:21:11,575 INFO 52096 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 17:21:44,019 INFO 52116 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 17:21:44,019 INFO 52116 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 17:21:44,019 INFO 52116 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 17:21:44,019 INFO 52116 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 17:21:44,019 INFO 52116 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 17:21:50,958 INFO 52116 [Job#1732911710957621674699466216419] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:21:50,965 INFO 52116 [Job#1732911710957621674699466216419] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 5ms. 
-2024-11-29 17:21:50,957 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:22:50.957
-2024-11-29 17:22:50,960 INFO 52116 [Job#1732911770959621680699714526720] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:22:50,963 INFO 52116 [Job#1732911770959621680699714526720] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
-2024-11-29 17:22:50,959 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:23:50.959
-2024-11-29 17:23:50,962 INFO 52116 [Job#1732911830961621686699880385521] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:23:50,964 INFO 52116 [Job#1732911830961621686699880385521] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
-2024-11-29 17:23:50,961 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:24:50.961
-2024-11-29 17:24:20,609 INFO 52166 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 17:24:20,609 INFO 52166 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 17:24:20,609 INFO 52166 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 17:24:20,609 INFO 52166 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 17:24:20,609 INFO 52166 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 17:24:50,964 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:25:50.964
-2024-11-29 17:24:50,965 INFO 52166 [Job#17329118909636216927112601722] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:24:50,970 INFO 52166 [Job#17329118909636216927112601722] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 4ms. 
-2024-11-29 17:25:50,966 INFO 52166 [Job#17329119509656216987232938823] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:25:50,967 INFO 52166 [Job#17329119509656216987232938823] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:25:50,965 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:26:50.965
-2024-11-29 17:26:50,967 INFO 52166 [Job#17329120109666217047337358324] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:26:50,968 INFO 52166 [Job#17329120109666217047337358324] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:26:50,966 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:27:50.966
-2024-11-29 17:27:40,528 INFO 52228 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 17:27:40,528 INFO 52228 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 17:27:40,528 INFO 52228 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 17:27:40,528 INFO 52228 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 17:27:40,528 INFO 52228 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 17:27:50,968 INFO 52228 [Job#17329120709676217107441051225] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:27:50,976 INFO 52228 [Job#17329120709676217107441051225] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 6ms. 
-2024-11-29 17:27:50,967 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:28:50.967
-2024-11-29 17:28:43,824 INFO 52254 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 17:28:43,824 INFO 52254 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 17:28:43,824 INFO 52254 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 17:28:43,824 INFO 52254 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 17:28:43,824 INFO 52254 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 17:28:50,973 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:29:50.973
-2024-11-29 17:28:50,986 INFO 52254 [Job#173291213097362171671048777026] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:28:50,990 INFO 52254 [Job#173291213097362171671048777026] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 3ms. 
-2024-11-29 17:29:09,942 INFO 52269 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 17:29:09,942 INFO 52269 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 17:29:09,942 INFO 52269 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 17:29:09,942 INFO 52269 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 17:29:09,942 INFO 52269 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 17:29:26,841 INFO 52284 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
-2024-11-29 17:29:26,841 INFO 52284 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
-2024-11-29 17:29:26,842 INFO 52284 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
-2024-11-29 17:29:26,842 INFO 52284 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
-2024-11-29 17:29:26,842 INFO 52284 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
-2024-11-29 17:29:50,975 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:30:50.975
-2024-11-29 17:29:50,976 INFO 52284 [Job#173291219097562172271158075127] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:29:50,984 INFO 52284 [Job#173291219097562172271158075127] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 6ms. 
-2024-11-29 17:30:50,974 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:31:50.974
-2024-11-29 17:30:50,975 INFO 52284 [Job#173291225097462172871111405928] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:30:50,976 INFO 52284 [Job#173291225097462172871111405928] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:31:50,975 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:32:50.975
-2024-11-29 17:31:50,976 INFO 52284 [Job#173291231097562173471179566729] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:31:50,978 INFO 52284 [Job#173291231097562173471179566729] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
-2024-11-29 17:32:50,978 INFO 52284 [Job#173291237097762174071347282730] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:32:50,978 INFO 52284 [Job#173291237097762174071347282730] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 17:32:50,977 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:33:50.977
-2024-11-29 17:33:50,979 INFO 52284 [Job#173291243097962174671514894531] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:33:50,980 INFO 52284 [Job#173291243097962174671514894531] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 17:33:50,979 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:34:50.979
-2024-11-29 17:34:50,980 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:35:50.980
-2024-11-29 17:34:50,980 INFO 52284 [Job#173291249098062175271619768832] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:34:50,981 INFO 52284 [Job#173291249098062175271619768832] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:35:50,981 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:36:50.981
-2024-11-29 17:35:50,982 INFO 52284 [Job#173291255098162175871739802833] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:35:50,983 INFO 52284 [Job#173291255098162175871739802833] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:36:50,983 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:37:50.983
-2024-11-29 17:36:50,983 INFO 52284 [Job#173291261098362176471865103134] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:36:50,984 INFO 52284 [Job#173291261098362176471865103134] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:37:50,984 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:38:50.984
-2024-11-29 17:37:50,984 INFO 52284 [Job#173291267098462177071957675335] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:37:50,985 INFO 52284 [Job#173291267098462177071957675335] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
-2024-11-29 17:38:50,986 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:39:50.986
-2024-11-29 17:38:50,988 INFO 52284 [Job#173291273098562177672109983136] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:38:50,989 INFO 52284 [Job#173291273098562177672109983136] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
-2024-11-29 17:39:50,987 INFO 51669 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-11-29 17:40:50.987
-2024-11-29 17:39:50,988 INFO 52284 [Job#173291279098762178272287883037] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
-2024-11-29 17:39:50,989 INFO 52284 [Job#173291279098762178272287883037] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:09:17,098 INFO 72308 [Job#17333069570906611987114581416134] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:09:17,109 INFO 72308 [Job#17333069570906611987114581416134] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 10ms. 
+2024-12-04 07:09:17,092 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:10:17.092
+2024-12-04 07:10:17,094 INFO 72308 [Job#17333070170936612047116904259135] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:10:17,094 INFO 72308 [Job#17333070170936612047116904259135] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 07:10:17,093 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:11:17.093
+2024-12-04 07:11:17,102 INFO 72308 [Job#17333070770956612107120757150136] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:11:17,105 INFO 72308 [Job#17333070770956612107120757150136] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 3ms. 
+2024-12-04 07:11:17,099 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:12:17.099
+2024-12-04 07:12:17,112 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:13:17.108
+2024-12-04 07:12:17,131 INFO 72308 [Job#17333071371036612167125927331137] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:12:17,153 INFO 72308 [Job#17333071371036612167125927331137] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 19ms. 
+2024-12-04 07:13:17,118 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:14:17.117
+2024-12-04 07:13:17,118 INFO 72308 [Job#17333071971166612227139446055138] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:13:17,120 INFO 72308 [Job#17333071971166612227139446055138] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
+2024-12-04 07:14:17,120 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:15:17.120
+2024-12-04 07:14:17,121 INFO 72308 [Job#17333072571186612287140891025139] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:14:17,122 INFO 72308 [Job#17333072571186612287140891025139] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:15:17,128 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:16:17.128
+2024-12-04 07:15:17,131 INFO 72308 [Job#17333073171206612347142558630140] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:15:17,143 INFO 72308 [Job#17333073171206612347142558630140] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 12ms. 
+2024-12-04 07:16:17,131 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:17:17.131
+2024-12-04 07:16:17,135 INFO 72308 [Job#17333073771296612407152940611141] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:16:17,137 INFO 72308 [Job#17333073771296612407152940611141] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
+2024-12-04 07:17:17,134 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:18:17.134
+2024-12-04 07:17:17,134 INFO 72308 [Job#17333074371326612467154287138142] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:17:17,137 INFO 72308 [Job#17333074371326612467154287138142] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
+2024-12-04 07:18:17,134 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:19:17.134
+2024-12-04 07:18:17,137 INFO 72308 [Job#17333074971346612527155416973143] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:18:17,137 INFO 72308 [Job#17333074971346612527155416973143] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 07:19:17,138 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:20:17.137
+2024-12-04 07:19:17,138 INFO 72308 [Job#17333075571366612587157055248144] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:19:17,139 INFO 72308 [Job#17333075571366612587157055248144] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:20:17,142 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:21:17.140
+2024-12-04 07:20:17,142 INFO 72308 [Job#17333076171386612647159461940145] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:20:17,144 INFO 72308 [Job#17333076171386612647159461940145] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 07:21:17,145 INFO 72308 [Job#17333076771436612707163636627146] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:21:17,146 INFO 72308 [Job#17333076771436612707163636627146] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:21:17,145 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:22:17.145
+2024-12-04 07:22:17,150 INFO 72308 [Job#17333077371456612767165177747147] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:22:17,154 INFO 72308 [Job#17333077371456612767165177747147] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
+2024-12-04 07:22:17,150 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:23:17.148
+2024-12-04 07:23:17,165 INFO 72308 [Job#17333077971516612827171257650148] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:23:17,167 INFO 72308 [Job#17333077971516612827171257650148] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
+2024-12-04 07:23:17,157 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:24:17.151
+2024-12-04 07:24:17,189 INFO 72308 [Job#17333078571586612887177911524149] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:24:17,192 INFO 72308 [Job#17333078571586612887177911524149] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 07:24:17,164 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:25:17.160
+2024-12-04 07:25:17,168 INFO 72308 [Job#17333079171656612947184691151150] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:25:17,171 INFO 72308 [Job#17333079171656612947184691151150] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 3ms. 
+2024-12-04 07:25:17,165 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:26:17.165
+2024-12-04 07:26:17,169 INFO 72308 [Job#17333079771676613007185986289151] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:26:17,176 INFO 72308 [Job#17333079771676613007185986289151] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 4ms. 
+2024-12-04 07:26:17,168 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:27:17.168
+2024-12-04 07:27:17,173 INFO 72308 [Job#17333080371696613067187755896152] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:27:17,174 INFO 72308 [Job#17333080371696613067187755896152] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 07:27:17,171 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:28:17.170
+2024-12-04 07:28:17,176 INFO 72308 [Job#17333080971736613127191589384153] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:28:17,176 INFO 72308 [Job#17333080971736613127191589384153] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 07:28:17,175 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:29:17.173
+2024-12-04 07:29:17,177 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:30:17.177
+2024-12-04 07:29:17,177 INFO 72308 [Job#17333081571766613187194978939154] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:29:17,179 INFO 72308 [Job#17333081571766613187194978939154] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:30:17,178 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:31:17.178
+2024-12-04 07:30:17,181 INFO 72308 [Job#17333082171786613247195863563155] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:30:17,182 INFO 72308 [Job#17333082171786613247195863563155] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:31:17,184 INFO 72308 [Job#17333082771796613307197215273156] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:31:17,185 INFO 72308 [Job#17333082771796613307197215273156] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:31:17,184 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:32:17.182
+2024-12-04 07:32:17,185 INFO 72308 [Job#17333083371846613367202108368157] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:32:17,186 INFO 72308 [Job#17333083371846613367202108368157] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:32:17,185 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:33:17.184
+2024-12-04 07:33:17,186 INFO 72308 [Job#17333083971856613427202813222158] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:33:17,187 INFO 72308 [Job#17333083971856613427202813222158] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 07:33:17,186 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:34:17.185
+2024-12-04 07:34:17,189 INFO 72308 [Job#17333084571866613487203590110159] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:34:17,190 INFO 72308 [Job#17333084571866613487203590110159] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:34:17,188 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:35:17.188
+2024-12-04 07:35:17,193 INFO 72308 [Job#17333085171916613547207955608160] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:35:17,194 INFO 72308 [Job#17333085171916613547207955608160] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:35:17,191 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:36:17.191
+2024-12-04 07:36:17,194 INFO 72308 [Job#17333085771936613607209911605161] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:36:17,195 INFO 72308 [Job#17333085771936613607209911605161] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:36:17,195 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:37:17.193
+2024-12-04 07:37:17,198 INFO 72308 [Job#17333086371956613667211391033162] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:37:17,199 INFO 72308 [Job#17333086371956613667211391033162] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:37:17,196 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:38:17.196
+2024-12-04 07:38:17,210 INFO 72308 [Job#17333086971996613727214649852163] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:38:17,210 INFO 72308 [Job#17333086971996613727214649852163] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 07:38:17,207 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:39:17.203
+2024-12-04 07:39:17,208 INFO 72308 [Job#17333087572076613787222953932164] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:39:17,209 INFO 72308 [Job#17333087572076613787222953932164] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:39:17,208 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:40:17.208
+2024-12-04 07:40:17,213 INFO 72308 [Job#17333088172096613847224181377165] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:40:17,214 INFO 72308 [Job#17333088172096613847224181377165] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:40:17,209 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:41:17.209
+2024-12-04 07:41:17,210 INFO 72308 [Job#17333088772106613907224777522166] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:41:17,211 INFO 72308 [Job#17333088772106613907224777522166] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:41:17,210 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:42:17.210
+2024-12-04 07:42:17,214 INFO 72308 [Job#17333089372106613967225378166167] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:42:17,215 INFO 72308 [Job#17333089372106613967225378166167] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:42:17,211 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:43:17.211
+2024-12-04 07:43:17,214 INFO 72308 [Job#17333089972116614027225549068168] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:43:17,215 INFO 72308 [Job#17333089972116614027225549068168] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:43:17,211 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:44:17.211
+2024-12-04 07:44:17,215 INFO 72308 [Job#17333090572126614087226172225169] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:44:17,216 INFO 72308 [Job#17333090572126614087226172225169] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:44:17,212 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:45:17.212
+2024-12-04 07:45:17,216 INFO 72308 [Job#17333091172156614147229125188170] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:45:17,216 INFO 72308 [Job#17333091172156614147229125188170] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 07:45:17,215 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:46:17.215
+2024-12-04 07:46:17,218 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:47:17.218
+2024-12-04 07:46:17,220 INFO 72308 [Job#17333091772166614207229831820171] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:46:17,222 INFO 72308 [Job#17333091772166614207229831820171] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
+2024-12-04 07:47:17,222 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:48:17.221
+2024-12-04 07:47:17,225 INFO 72308 [Job#17333092372216614267234498769172] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:47:17,227 INFO 72308 [Job#17333092372216614267234498769172] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:48:17,232 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:49:17.231
+2024-12-04 07:48:17,240 INFO 72308 [Job#17333092972236614327238489636173] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:48:17,264 INFO 72308 [Job#17333092972236614327238489636173] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 21ms. 
+2024-12-04 07:49:17,237 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:50:17.237
+2024-12-04 07:49:17,238 INFO 72308 [Job#17333093572356614387247777572174] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:49:17,239 INFO 72308 [Job#17333093572356614387247777572174] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:50:17,243 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:51:17.238
+2024-12-04 07:50:17,242 INFO 72308 [Job#17333094172386614447250953948175] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:50:17,243 INFO 72308 [Job#17333094172386614447250953948175] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:51:17,252 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:52:17.249
+2024-12-04 07:51:17,258 INFO 72308 [Job#17333094772446614507256737623176] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:51:17,264 INFO 72308 [Job#17333094772446614507256737623176] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 5ms. 
+2024-12-04 07:52:17,253 INFO 72308 [Job#17333095372526614567264300478177] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:52:17,253 INFO 72308 [Job#17333095372526614567264300478177] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 07:52:17,252 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:53:17.252
+2024-12-04 07:53:17,254 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:54:17.254
+2024-12-04 07:53:17,255 INFO 72308 [Job#17333095972546614627265980506178] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:53:17,255 INFO 72308 [Job#17333095972546614627265980506178] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 07:54:17,258 INFO 72308 [Job#17333096572556614687266997327179] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:54:17,259 INFO 72308 [Job#17333096572556614687266997327179] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:54:17,257 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:55:17.257
+2024-12-04 07:55:17,259 INFO 72308 [Job#17333097172586614747269415438180] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:55:17,259 INFO 72308 [Job#17333097172586614747269415438180] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 07:55:17,258 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:56:17.258
+2024-12-04 07:56:17,260 INFO 72308 [Job#17333097772596614807269792752181] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:56:17,260 INFO 72308 [Job#17333097772596614807269792752181] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 07:56:17,259 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:57:17.259
+2024-12-04 07:57:17,261 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:58:17.261
+2024-12-04 07:57:17,261 INFO 72308 [Job#17333098372606614867271045949182] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 07:57:17,262 INFO 72308 [Job#17333098372606614867271045949182] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 07:58:17,265 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 07:59:17.264
+2024-12-04 07:59:17,268 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:00:17.268
+2024-12-04 08:00:17,268 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:01:17.268
+2024-12-04 08:01:17,271 INFO 69664 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:02:17.271
+2024-12-04 08:02:00,127 INFO 73692 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-12-04 08:02:00,127 INFO 73692 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-12-04 08:02:00,127 INFO 73692 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-12-04 08:02:00,127 INFO 73692 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js
+2024-12-04 08:02:00,127 INFO 73692 [egg-schedule]: register schedule /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js
+2024-12-04 08:02:02,061 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 73677944ms at 2024-12-05 04:30:00.005
+2024-12-04 08:02:02,062 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 57477939ms at 2024-12-05 00:00:00.001
+2024-12-04 08:02:02,062 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 57478938ms at 2024-12-05 00:00:01.000
+2024-12-04 08:02:02,062 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute immediate
+2024-12-04 08:02:02,062 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/task.js next time will execute after 57537938ms at 2024-12-05 00:01:00.000
+2024-12-04 08:02:02,064 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:03:02.064
+2024-12-04 08:02:02,065 INFO 73692 [Job#17333101220636615152732160121] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:02:02,069 INFO 73692 [Job#17333101220636615152732160121] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
+2024-12-04 08:03:02,067 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:04:02.067
+2024-12-04 08:03:02,068 INFO 73692 [Job#17333101820666615212752909782] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:03:02,070 INFO 73692 [Job#17333101820666615212752909782] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
+2024-12-04 08:04:02,069 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:05:02.069
+2024-12-04 08:04:02,070 INFO 73692 [Job#17333102420696615272774600313] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:04:02,071 INFO 73692 [Job#17333102420696615272774600313] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:05:02,072 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:06:02.072
+2024-12-04 08:05:02,073 INFO 73692 [Job#17333103020726615332800063464] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:05:02,074 INFO 73692 [Job#17333103020726615332800063464] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:06:02,073 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:07:02.073
+2024-12-04 08:06:02,074 INFO 73692 [Job#17333103620736615392814596115] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:06:02,076 INFO 73692 [Job#17333103620736615392814596115] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:07:02,076 INFO 73692 [Job#17333104220756615452826907506] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:07:02,077 INFO 73692 [Job#17333104220756615452826907506] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:07:02,075 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:08:02.075
+2024-12-04 08:08:02,079 INFO 73692 [Job#17333104820786615512855684537] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:08:02,079 INFO 73692 [Job#17333104820786615512855684537] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 08:08:02,078 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:09:02.078
+2024-12-04 08:09:02,081 INFO 73692 [Job#17333105420816615572880101368] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:09:02,083 INFO 73692 [Job#17333105420816615572880101368] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:09:02,081 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:10:02.081
+2024-12-04 08:10:02,084 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:11:02.083
+2024-12-04 08:10:02,084 INFO 73692 [Job#17333106020836615632903111509] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:10:02,086 INFO 73692 [Job#17333106020836615632903111509] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
+2024-12-04 08:11:02,087 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:12:02.087
+2024-12-04 08:11:02,088 INFO 73692 [Job#173331066208666156929241545510] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:11:02,089 INFO 73692 [Job#173331066208666156929241545510] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:12:02,087 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:13:02.087
+2024-12-04 08:12:02,088 INFO 73692 [Job#173331072208766157529362071711] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:12:02,089 INFO 73692 [Job#173331072208766157529362071711] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:13:02,088 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:14:02.088
+2024-12-04 08:13:02,089 INFO 73692 [Job#173331078208866158129399653112] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:13:02,090 INFO 73692 [Job#173331078208866158129399653112] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:14:02,090 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:15:02.090
+2024-12-04 08:14:02,090 INFO 73692 [Job#173331084208966158729541676413] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:14:02,091 INFO 73692 [Job#173331084208966158729541676413] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:15:02,092 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:16:02.092
+2024-12-04 08:15:02,093 INFO 73692 [Job#173331090209266159329746188014] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:15:02,094 INFO 73692 [Job#173331090209266159329746188014] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:16:02,092 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:17:02.092
+2024-12-04 08:16:02,093 INFO 73692 [Job#173331096209266159929724310815] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:16:02,094 INFO 73692 [Job#173331096209266159929724310815] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:17:02,406 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:18:02.406
+2024-12-04 08:17:02,406 INFO 73692 [Job#173331102240666160529977426816] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:17:02,407 INFO 73692 [Job#173331102240666160529977426816] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:18:02,410 INFO 73692 [Job#1733311082409661611210119042617] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:18:02,411 INFO 73692 [Job#1733311082409661611210119042617] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 08:18:02,409 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:19:02.409
+2024-12-04 08:19:02,413 INFO 73692 [Job#1733311142412661617210232096918] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:19:02,414 INFO 73692 [Job#1733311142412661617210232096918] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:19:02,412 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:20:02.412
+2024-12-04 08:20:02,416 INFO 73692 [Job#1733311202415661623210390003219] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:20:02,417 INFO 73692 [Job#1733311202415661623210390003219] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:20:02,415 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:21:02.415
+2024-12-04 08:21:02,430 INFO 73692 [Job#1733311262419661629210582438420] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:21:02,439 INFO 73692 [Job#1733311262419661629210582438420] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 8ms. 
+2024-12-04 08:21:02,421 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:22:02.421
+2024-12-04 08:22:02,425 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:23:02.425
+2024-12-04 08:22:02,426 INFO 73692 [Job#1733311322425661635211013596821] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:22:02,427 INFO 73692 [Job#1733311322425661635211013596821] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:23:02,428 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:24:02.428
+2024-12-04 08:23:02,429 INFO 73692 [Job#1733311382428661641211136165322] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:23:02,430 INFO 73692 [Job#1733311382428661641211136165322] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:24:02,432 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:25:02.432
+2024-12-04 08:24:02,432 INFO 73692 [Job#1733311442431661647211288149823] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:24:02,433 INFO 73692 [Job#1733311442431661647211288149823] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:25:02,436 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:26:02.436
+2024-12-04 08:25:02,437 INFO 73692 [Job#1733311502436661653211569551424] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:25:02,438 INFO 73692 [Job#1733311502436661653211569551424] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:26:02,440 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:27:02.440
+2024-12-04 08:26:02,440 INFO 73692 [Job#1733311562440661659211759374825] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:26:02,441 INFO 73692 [Job#1733311562440661659211759374825] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 08:27:02,443 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:28:02.443
+2024-12-04 08:27:02,444 INFO 73692 [Job#1733311622443661665211884944826] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:27:02,445 INFO 73692 [Job#1733311622443661665211884944826] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:28:02,447 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:29:02.447
+2024-12-04 08:28:02,448 INFO 73692 [Job#1733311682447661671212119403027] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:28:02,448 INFO 73692 [Job#1733311682447661671212119403027] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 08:29:02,450 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:30:02.450
+2024-12-04 08:29:02,455 INFO 73692 [Job#1733311742450661677212217379628] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:29:02,456 INFO 73692 [Job#1733311742450661677212217379628] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:30:02,453 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:31:02.453
+2024-12-04 08:30:02,453 INFO 73692 [Job#1733311802453661683212342515229] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:30:02,454 INFO 73692 [Job#1733311802453661683212342515229] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 08:31:02,456 INFO 73692 [Job#1733311862455661689212401988430] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:31:02,457 INFO 73692 [Job#1733311862455661689212401988430] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:31:02,455 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:32:02.455
+2024-12-04 08:32:02,459 INFO 73692 [Job#1733311922458661695212536311831] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:32:02,460 INFO 73692 [Job#1733311922458661695212536311831] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:32:02,458 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:33:02.458
+2024-12-04 08:33:02,462 INFO 73692 [Job#1733311982461661701212679214532] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:33:02,463 INFO 73692 [Job#1733311982461661701212679214532] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:33:02,462 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:34:02.462
+2024-12-04 08:34:02,466 INFO 73692 [Job#1733312042465661707212829170733] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:34:02,466 INFO 73692 [Job#1733312042465661707212829170733] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 08:34:02,465 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:35:02.465
+2024-12-04 08:35:02,468 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:36:02.468
+2024-12-04 08:35:02,468 INFO 73692 [Job#1733312102468661713212837347934] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:35:02,469 INFO 73692 [Job#1733312102468661713212837347934] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:36:02,471 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:37:02.471
+2024-12-04 08:36:02,472 INFO 73692 [Job#1733312162471661719212947064935] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:36:02,473 INFO 73692 [Job#1733312162471661719212947064935] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:37:02,473 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:38:02.473
+2024-12-04 08:37:02,474 INFO 73692 [Job#1733312222473661725212972307836] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:37:02,475 INFO 73692 [Job#1733312222473661725212972307836] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:38:02,479 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:39:02.478
+2024-12-04 08:38:02,488 INFO 73692 [Job#1733312282476661731213103518437] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:38:02,497 INFO 73692 [Job#1733312282476661731213103518437] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 7ms. 
+2024-12-04 08:39:02,483 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:40:02.483
+2024-12-04 08:39:02,483 INFO 73692 [Job#1733312342483661737213567073138] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:39:02,484 INFO 73692 [Job#1733312342483661737213567073138] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 08:40:02,484 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:41:02.484
+2024-12-04 08:40:02,485 INFO 73692 [Job#1733312402484661743213545446139] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:40:02,486 INFO 73692 [Job#1733312402484661743213545446139] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:41:02,487 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:42:02.487
+2024-12-04 08:41:02,488 INFO 73692 [Job#1733312462487661749213637573440] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:41:02,488 INFO 73692 [Job#1733312462487661749213637573440] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 08:42:02,492 INFO 73692 [Job#1733312522490661755213835742741] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:42:02,493 INFO 73692 [Job#1733312522490661755213835742741] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:42:02,491 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:43:02.491
+2024-12-04 08:43:02,496 INFO 73692 [Job#1733312582495661761214080334642] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:43:02,497 INFO 73692 [Job#1733312582495661761214080334642] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:43:02,495 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:44:02.495
+2024-12-04 08:44:02,499 INFO 73692 [Job#1733312642498661767214210217643] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:44:02,500 INFO 73692 [Job#1733312642498661767214210217643] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:44:02,498 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:45:02.498
+2024-12-04 08:45:02,501 INFO 73692 [Job#1733312702500661773214258789744] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:45:02,502 INFO 73692 [Job#1733312702500661773214258789744] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:45:02,500 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:46:02.500
+2024-12-04 08:46:02,505 INFO 73692 [Job#1733312762505661779214522043045] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:46:02,506 INFO 73692 [Job#1733312762505661779214522043045] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 08:46:02,505 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:47:02.505
+2024-12-04 08:47:02,510 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:48:02.510
+2024-12-04 08:47:02,511 INFO 73692 [Job#1733312822508661785214684761046] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:47:02,513 INFO 73692 [Job#1733312822508661785214684761046] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 2ms. 
+2024-12-04 08:48:02,514 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:49:02.514
+2024-12-04 08:48:02,514 INFO 73692 [Job#1733312882513661791215034428947] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:48:02,515 INFO 73692 [Job#1733312882513661791215034428947] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:49:02,517 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:50:02.517
+2024-12-04 08:49:02,518 INFO 73692 [Job#1733312942517661797215182765948] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:49:02,519 INFO 73692 [Job#1733312942517661797215182765948] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 1ms. 
+2024-12-04 08:50:02,523 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:51:02.523
+2024-12-04 08:50:02,524 INFO 73692 [Job#1733313002520661803215313035749] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:50:02,524 INFO 73692 [Job#1733313002520661803215313035749] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 
+2024-12-04 08:51:02,569 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:52:02.568
+2024-12-04 08:51:02,577 INFO 73692 [Job#1733313062564661809215671326150] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:51:02,588 INFO 73692 [Job#1733313062564661809215671326150] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 8ms. 
+2024-12-04 08:52:02,584 INFO 73677 [Timer] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js next time will execute after 60000ms at 2024-12-04 08:53:02.584
+2024-12-04 08:52:02,584 INFO 73692 [Job#1733313122582661815216393033151] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js executing by app
+2024-12-04 08:52:02,585 INFO 73692 [Job#1733313122582661815216393033151] /Users/Rodrigo/development/github/vozbox-work-server/app/schedule/reminder.js execute succeed, used 0ms. 

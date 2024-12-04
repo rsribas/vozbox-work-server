@@ -16,6 +16,12 @@ class CdrList extends Service {
     const { ctx, app } = this
     // const uid = ctx.user.uid
     return ctx.model_cdr.CdrList.findAndCountAll({
+      attributes: [
+        'src',
+        'dst',
+        'disposition',
+        'duration'
+      ],
       where: {
         [ctx.Op.and]: [
           app.Sequelize.where(
@@ -34,6 +40,7 @@ class CdrList extends Service {
       order: [
         ['calldate', 'DESC']
       ],
+      // group: ['cdr.src'],
       ...options
     })
   }

@@ -68,7 +68,7 @@ module.exports = (appInfo) => {
         port: 3306,
         username: 'root',
         password: 'xmfobk5332',
-        timezone: '+08:00',
+        timezone: '-03:00',
       },
     ],
   }
